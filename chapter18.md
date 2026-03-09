@@ -222,27 +222,23 @@ to indicate a resistance. Wires whose resistance is negligible, however, are sho
 
 FIGURE 18-11 Photo of resistors (striped), plus other devices on a circuit board.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{Resistor Color Code}
-\begin{tabular}{|l|l|l|l|}
-\hline Color & Number & Multiplier & Tolerance \\
-\hline Black & 0 & 1 & \\
-\hline Brown & 1 & $10^{1}$ & 1\% \\
-\hline Red & 2 & $10^{2}$ & 2\% \\
-\hline Orange & 3 & $10^{3}$ & \\
-\hline Yellow & 4 & $10^{4}$ & \\
-\hline Green & 5 & $10^{5}$ & \\
-\hline Blue & 6 & $10^{6}$ & \\
-\hline Violet & 7 & $10^{7}$ & \\
-\hline Gray & 8 & $10^{8}$ & \\
-\hline White & 9 & $10^{9}$ & \\
-\hline Gold & & $10^{-1}$ & 5\% \\
-\hline Silver & & $10^{-2}$ & 10\% \\
-\hline No color & & & 20\% \\
-\hline
-\end{tabular}
-\end{table}
+**Resistor Color Code**
+
+| Color | Number | Multiplier | Tolerance |
+| --- | --- | --- | --- |
+| Black | 0 | 1 |  |
+| Brown | 1 | $10^{1}$ | 1\% |
+| Red | 2 | $10^{2}$ | 2\% |
+| Orange | 3 | $10^{3}$ |  |
+| Yellow | 4 | $10^{4}$ |  |
+| Green | 5 | $10^{5}$ |  |
+| Blue | 6 | $10^{6}$ |  |
+| Violet | 7 | $10^{7}$ |  |
+| Gray | 8 | $10^{8}$ |  |
+| White | 9 | $10^{9}$ |  |
+| Gold |  | $10^{-1}$ | 5\% |
+| Silver |  | $10^{-2}$ | 10\% |
+| No color |  |  | 20\% |
 
 FIGURE 18-12 The resistance value of a given resistor is written on the exterior, or may be given as a color code as shown below and in the Table: the first two colors represent the first two digits in the value of the resistance, the third color represents the power of ten that it must be multiplied by, and the fourth is the manufactured tolerance. For example, a resistor whose four colors are red, green, yellow, and silver has a resistance of $25 \times 10^{4} \Omega=250,000 \Omega=250 \mathrm{k} \Omega$, plus or minus $10 \%$. [An alternative code is a number such as 104 , which means $R=1.0 \times 10^{4} \Omega$.]
 
@@ -284,28 +280,27 @@ where $\rho$ (Greek letter "rho"), the constant of proportionality, is called th
 EXERCISE D Return to the Chapter-Opening Question, page 501, and answer it again now. Try to explain why you may have answered differently the first time.
 ${ }^{\dagger}$ The reciprocal of the resistivity, called the electrical conductivity, is $\sigma=1 / \rho$ and has units of $(\Omega \cdot \mathrm{m})^{-1}$.
 
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|l|}{TABLE 18-1 Resistivity and Temperature Coefficients (at $\mathbf{2 0}^{\boldsymbol{\circ}} \mathbf{C}$ )} \\
-\hline Material & Resistivity, $\rho(\Omega \cdot \mathrm{m})$ & Temperature Coefficient, $\alpha\left(\mathbf{C}^{\circ}\right)^{-1}$ \\
-\hline \multicolumn{3}{|l|}{Conductors} \\
-\hline Silver & $1.59 \times 10^{-8}$ & 0.0061 \\
-\hline Copper & $1.68 \times 10^{-8}$ & 0.0068 \\
-\hline Gold & $2.44 \times 10^{-8}$ & 0.0034 \\
-\hline Aluminum & $2.65 \times 10^{-8}$ & 0.00429 \\
-\hline Tungsten & $5.6 \times 10^{-8}$ & 0.0045 \\
-\hline Iron & $9.71 \times 10^{-8}$ & 0.00651 \\
-\hline Platinum & $10.6 \times 10^{-8}$ & 0.003927 \\
-\hline Mercury & $98 \times 10^{-8}$ & 0.0009 \\
-\hline Nichrome (Ni, Fe, Cr alloy) & $100 \times 10^{-8}$ & 0.0004 \\
-\hline \multicolumn{3}{|l|}{Semiconductors ${ }^{\ddagger}$} \\
-\hline Carbon (graphite) & $(3-60) \times 10^{-5}$ & -0.0005 \\
-\hline Germanium & $(1-500) \times 10^{-3}$ & -0.05 \\
-\hline Silicon & 0.1-60 & -0.07 \\
-\hline \multicolumn{3}{|l|}{Insulators} \\
-\hline Glass & $10^{9}-10^{12}$ & \\
-\hline Hard rubber & $10^{13}-10^{15}$ & \\
-\hline
-\end{tabular}
+| TABLE 18-1 Resistivity and Temperature Coefficients (at $\mathbf{2 0^{\boldsymbol{\circ}} \mathbf{C}$ )} |  |  |
+| --- | --- | --- |
+| Material | Resistivity, $\rho(\Omega \cdot \mathrm{m})$ | Temperature Coefficient, $\alpha\left(\mathbf{C}^{\circ}\right)^{-1}$ |
+| Conductors |  |  |
+| Silver | $1.59 \times 10^{-8}$ | 0.0061 |
+| Copper | $1.68 \times 10^{-8}$ | 0.0068 |
+| Gold | $2.44 \times 10^{-8}$ | 0.0034 |
+| Aluminum | $2.65 \times 10^{-8}$ | 0.00429 |
+| Tungsten | $5.6 \times 10^{-8}$ | 0.0045 |
+| Iron | $9.71 \times 10^{-8}$ | 0.00651 |
+| Platinum | $10.6 \times 10^{-8}$ | 0.003927 |
+| Mercury | $98 \times 10^{-8}$ | 0.0009 |
+| Nichrome (Ni, Fe, Cr alloy) | $100 \times 10^{-8}$ | 0.0004 |
+| Semiconductors ${ ^{\ddagger}$} |  |  |
+| Carbon (graphite) | $(3-60) \times 10^{-5}$ | -0.0005 |
+| Germanium | $(1-500) \times 10^{-3}$ | -0.05 |
+| Silicon | 0.1-60 | -0.07 |
+| Insulators |  |  |
+| Glass | $10^{9}-10^{12}$ |  |
+| Hard rubber | $10^{13}-10^{15}$ |  |
+
 ${ }^{\ddagger}$ Values depend strongly on the presence of even slight amounts of impurities.
 
 508
@@ -677,26 +672,13 @@ FIGURE 18-27 A simplified sketch of a typical neuron.
 
 GIAN_PPA7_GE_18_501-525v5.1HR1.QXD 29-08-2014 15:07 Page 518
 
-\begin{tabular}{lcc}
-\hline \begin{tabular}{l} 
-TABLE 18-2 \\
-Concentrations of lons Inside \\
-and Outside a Typical Axon
-\end{tabular} \\
-\hline \multicolumn{3}{l}{\begin{tabular}{c} 
-Concentration \\
-inside axon \\
-$\left(\mathbf{m o l} / \mathbf{m}^{3}\right)$
-\end{tabular}} \\
-\hline $\mathrm{K}^{+}$ & \begin{tabular}{c} 
-Concentration \\
-outside axon \\
-$\left(\mathbf{m o l} / \mathbf{m}^{3}\right)$
-\end{tabular} \\
-$\mathrm{Na}^{+}$ & 140 & 5 \\
-$\mathrm{Cl}^{-}$ & 15 & 140 \\
-\hline
-\end{tabular}
+| TABLE 18-2 Concentrations of lons Inside and Outside a Typical Axon |  |  |
+| --- | --- | --- |
+| Concentration inside axon $\left(\mathbf{m o l / \mathbf{m}^{3}\right)$} |  |  |
+| $\mathrm{K}^{+}$ | Concentration outside axon $\left(\mathbf{m o l} / \mathbf{m}^{3}\right)$ |  |
+| $\mathrm{Na}^{+}$ | 140 | 5 |
+| $\mathrm{Cl}^{-}$ | 15 | 140 |
+
 
 FIGURE 18-28 How a dipole layer of charge forms on a cell membrane.
 
@@ -744,14 +726,13 @@ Voltage is applied across a device or between the ends of a wire. Current passes
 
 The unit of resistance is the ohm $(\Omega)$, where $1 \Omega=1 \mathrm{~V} / \mathrm{A}$. See Table 18-3.
 
-\begin{tabular}{lc}
-\hline TABLE 18-3 Summary of Units \\
-\hline Current & $1 \mathrm{~A}=1 \mathrm{C} / \mathrm{s}$ \\
-Potential difference & $1 \mathrm{~V}=1 \mathrm{~J} / \mathrm{C}$ \\
-Power & $1 \mathrm{~W}=1 \mathrm{~J} / \mathrm{s}$ \\
-Resistance & $1 \Omega=1 \mathrm{~V} / \mathrm{A}$ \\
-\hline
-\end{tabular}
+| TABLE 18-3 Summary of Units |  |
+| --- | --- |
+| Current | $1 \mathrm{~A}=1 \mathrm{C} / \mathrm{s}$ |
+| Potential difference | $1 \mathrm{~V}=1 \mathrm{~J} / \mathrm{C}$ |
+| Power | $1 \mathrm{~W}=1 \mathrm{~J} / \mathrm{s}$ |
+| Resistance | $1 \Omega=1 \mathrm{~V} / \mathrm{A}$ |
+
 
 The resistance $R$ of a wire is inversely proportional to its cross-sectional area $A$, and directly proportional to its length $\ell$ and to a property of the material called its resistivity:
 $$R=\frac{\rho \ell}{A} .$$

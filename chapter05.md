@@ -502,30 +502,17 @@ SECTION 5-6 121
 
 GIAN_PPA7_GE_05_109-137v10.1HR3.QXD 29-08-2014 14:11 Page 122
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 5-1 Acceleration Due to Gravity at Various Locations}
-\begin{tabular}{lrr}
-\hline Location & \begin{tabular}{c} 
-Elevation \\
-$\mathbf{( m )}$
-\end{tabular} & \begin{tabular}{c}
-$g$ \\
-$\mathbf{( m / \mathbf { s } ^ { 2 } )}$
-\end{tabular} \\
-\hline New York & 0 & 9.803 \\
-San Francisco & 0 & 9.800 \\
-Denver & 1650 & 9.796 \\
-Pikes Peak & 4300 & 9.789 \\
-Sydney, Australia & 0 & 9.798 \\
-Equator & 0 & 9.780 \\
-\begin{tabular}{l} 
-North Pole \\
-(calculated)
-\end{tabular} & 0 & 9.832 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 5-1 Acceleration Due to Gravity at Various Locations**
+
+| Location | Elevation (m) | $g$ ($\mathrm{m/s^2}$) |
+| --- | --- | --- |
+| New York | 0 | 9.803 |
+| San Francisco | 0 | 9.800 |
+| Denver | 1650 | 9.796 |
+| Pikes Peak | 4300 | 9.789 |
+| Sydney, Australia | 0 | 9.798 |
+| Equator | 0 | 9.780 |
+| North Pole (calculated) | 0 | 9.832 |
 
 PHYSICS APPLIED
 Artificial Earth satellites
@@ -664,23 +651,19 @@ An ellipse is a closed curve such that the sum of the distances from any point P
 
 FIGURE 5-29 Kepler's second law. The two shaded regions have equal areas. The planet moves from point 1 to point 2 in the same time it takes to move from point 3 to point 4 . Planets move fastest when closest to the Sun.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 5-2 Planetary Data Applied to Kepler's Third Law}
-\begin{tabular}{|l|l|l|l|}
-\hline Planet & Mean Distance to Sun, $s$ ( $\mathbf{1 0}^{\mathbf{6}} \mathbf{~ k m}$ ) & Period, $T$ (Earth yr) & $\binom{s^{3} / T^{2}}{10^{24} \frac{\mathbf{k m}^{3}}{\mathbf{y r}^{2}}}$ \\
-\hline Mercury & 57.9 & 0.241 & 3.34 \\
-\hline Venus & 108.2 & 0.615 & 3.35 \\
-\hline Earth & 149.6 & 1.000 & 3.35 \\
-\hline Mars & 227.9 & 1.88 & 3.35 \\
-\hline Jupiter & 778.3 & 11.86 & 3.35 \\
-\hline Saturn & 1427 & 29.5 & 3.34 \\
-\hline Uranus & 2870 & 84.0 & 3.35 \\
-\hline Neptune & 4497 & 165 & 3.34 \\
-\hline (Pluto) ${ }^{\dagger}$ & 5900 & 248 & 3.34 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 5-2 Planetary Data Applied to Kepler's Third Law**
+
+| Planet | Mean Distance to Sun, $s$ ( $\mathbf{1 0}^{\mathbf{6}} \mathbf{~ k m}$ ) | Period, $T$ (Earth yr) | $\binom{s^{3} / T^{2}}{10^{24} \frac{\mathbf{k m}^{3}}{\mathbf{y r}^{2}}}$ |
+| --- | --- | --- | --- |
+| Mercury | 57.9 | 0.241 | 3.34 |
+| Venus | 108.2 | 0.615 | 3.35 |
+| Earth | 149.6 | 1.000 | 3.35 |
+| Mars | 227.9 | 1.88 | 3.35 |
+| Jupiter | 778.3 | 11.86 | 3.35 |
+| Saturn | 1427 | 29.5 | 3.34 |
+| Uranus | 2870 | 84.0 | 3.35 |
+| Neptune | 4497 | 165 | 3.34 |
+| (Pluto) ${ }^{\dagger}$ | 5900 | 248 | 3.34 |
 ${ }^{\dagger}$ Pluto, since its discovery in 1930, was considered a ninth planet. But its small mass and the recent discovery of other objects beyond Neptune with similar masses has led to calling these smaller objects, including Pluto, "dwarf planets." We keep it in the Table to indicate its great distance, and its consistency with Kepler's third law.
 
 Kepler's Laws

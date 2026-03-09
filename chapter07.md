@@ -651,51 +651,19 @@ To locate the center of mass of a group of extended objects, we can use Eqs. 7-9
 *7-9 CM for the Human Body
 For a group of extended objects, each of whose cm is known, we can find the CM of the group using Eqs. 7-9a and b. As an example, we consider the human body. Table 7-1 indicates the CM and hinge points (joints) for the different components of a "representative" person. Of course, there are wide variations among people, so these data represent only a very rough average. The numbers represent a percentage of the total height, which is regarded as 100 units; similarly, the total mass is 100 units. For example, if a person is 1.70 m tall, his or her shoulder joint would be $(1.70 \mathrm{~m})(81.2 / 100)=1.38 \mathrm{~m}$ above the floor.
 
-\begin{tabular}{|l|l|l|l|l|}
-\hline \multicolumn{5}{|l|}{TABLE 7-1 Center of Mass of Parts of Typical Human Body, given as \% (full height and mass $=100$ units)} \\
-\hline Distance of Hinge Points from Floor (\%) & Hinge Points (•) (Joints) & \multicolumn{2}{|c|}{Center of Mass (×) (\% Height Above Floor)} & Percent Mass \\
-\hline \multirow{5}{*}{\begin{tabular}{l}
-91.2\% \\
-81.2\%
-\end{tabular}} & \multirow{4}{*}{\begin{tabular}{l}
-Base of skull on spine \\
-Shoulder joint \\
-elbow $62.2 \%^{\ddagger}$
-\end{tabular}} & \multicolumn{2}{|c|}{\multirow[b]{8}{*}{\begin{tabular}{l}
-Head \\
-93.5\% \\
-Trunk and neck \\
-71.1\% \\
-Upper arms \\
-71.7\% \\
-Lower arms \\
-55.3\% \\
-Hands \\
-43.1\% \\
-Upper legs (thighs) \\
-42.5\% \\
-Lower legs \\
-18.2\% \\
-Feet \\
-Body $\mathrm{CM}=\frac{1.8 \%}{58.0 \%}$
-\end{tabular}}} & \\
-\hline & & & & \\
-\hline & & & & \begin{tabular}{l}
-6.9\% \\
-46.1\% \\
-6.6\% \\
-4.2\% \\
-1.7\% \\
-21.5\%
-\end{tabular} \\
-\hline & & & & \\
-\hline & & & & \\
-\hline & & & & \\
-\hline & & & & 9.6\% \\
-\hline & & & & $\frac{3.4 \%}{100.0 \%}$ \\
-\hline \multicolumn{5}{|l|}{${ }^{\ddagger}$ For arm hanging vertically.} \\
-\hline
-\end{tabular}
+| TABLE 7-1 Center of Mass of Parts of Typical Human Body, given as \% (full height and mass $=100$ units) |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Distance of Hinge Points from Floor (\%) | Hinge Points (•) (Joints) | Center of Mass (×) (\% Height Above Floor) | Percent Mass |  |
+| \multirow{5}{*}{91.2\% 81.2\%} | \multirow{4}{*}{Base of skull on spine Shoulder joint elbow $62.2 \%^{\ddagger}$} | \multirow[b]{8{*}{Head 93.5\% Trunk and neck 71.1\% Upper arms 71.7\% Lower arms 55.3\% Hands 43.1\% Upper legs (thighs) 42.5\% Lower legs 18.2\% Feet Body $\mathrm{CM}=\frac{1.8 \%}{58.0 \%}$}} |  |  |
+|  |  |  |  |  |
+|  |  |  |  | 6.9\% 46.1\% 6.6\% 4.2\% 1.7\% 21.5\% |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  | 9.6\% |
+|  |  |  |  | $\frac{3.4 \%}{100.0 \%}$ |
+| ${ ^{\ddagger}$ For arm hanging vertically.} |  |  |  |  |
+
 ${ }^{\dagger}$ There would be a difference between the CM and CG only in the unusual case of an object so large that the acceleration due to gravity, $g$, was different at different parts of the object.
 
 186

@@ -161,31 +161,14 @@ NEWTON'S SECOND LAW OF MOTION
 
 NEWTON'S SECOND LAW OF MOTION
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 4-1
-Units for Mass and Force}
-\begin{tabular}{lcc}
-\hline System & \multicolumn{1}{c}{ Mass } & Force \\
-\hline SI & \begin{tabular}{c} 
-kilogram \\
-$(\mathrm{kg})$
-\end{tabular} & \begin{tabular}{c} 
-newton $(\mathrm{N})$ \\
-$\left(=\mathrm{kg} \cdot \mathrm{m} / \mathrm{s}^{2}\right)$
-\end{tabular} \\
-cgs & gram $(\mathrm{g})$ & \begin{tabular}{c} 
-dyne \\
-$\left(=\mathrm{g} \cdot \mathrm{cm} / \mathrm{s}^{2}\right)$
-\end{tabular} \\
-\multirow{2}{*}{ British } & \multirow{3}{*}{ slug } & pound $(\mathrm{lb})$ \\
-\hline \multicolumn{3}{l}{ Conversion factors: } \\
-& & 1 dyne $=10^{-5} \mathrm{~N} ;$ \\
-& & $1 \mathrm{lb} \approx 4.45 \mathrm{~N} ;$ \\
-& & 1 slug $\approx 14.6 \mathrm{~kg}$. \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 4-1
+Units for Mass and Force**
+
+| System |  Mass  | Force |
+| --- | --- | --- |
+| SI | 
+kilogram |  |
+| $(\mathrm{kg})$ |  |  |
 
 PROBLEM SOLVING
 Use a consistent set of units
@@ -736,25 +719,21 @@ $$F_{\mathrm{fr}}=\mu_{\mathrm{k}} F_{\mathrm{N}} .$$
 [kinetic friction]
 This relation is not a fundamental law; it is an experimental relation between the magnitude of the friction force $F_{\mathrm{fr}}$, which acts parallel to the two surfaces, and the magnitude of the normal force $F_{\mathrm{N}}$, which acts perpendicular to the surfaces. It is not a vector equation since the two forces have different directions, perpendicular to one another. The term $\mu_{\mathrm{k}}$ is called the coefficient of kinetic friction, and its value depends on the nature of the two surfaces. Measured values for a variety of surfaces are given in Table $4-2$. These are only approximate, however, since $\mu$ depends on whether the surfaces are wet or dry, on how much they have been sanded or rubbed, if any burrs remain, and other such factors. But $\mu_{\mathrm{k}}$ (which has no units) is roughly independent of the sliding speed, as well as the area in contact.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 4-2 Coefficients of Friction ${ }^{\dagger}$}
-\begin{tabular}{|l|l|l|}
-\hline Surfaces & Coefficient of Static Friction, $\boldsymbol{\mu}_{\mathbf{s}}$ & Coefficient of Kinetic Friction, $\boldsymbol{\mu}_{\mathbf{k}}$ \\
-\hline Wood on wood & 0.4 & 0.2 \\
-\hline Ice on ice & 0.1 & 0.03 \\
-\hline Metal on metal (lubricated) & 0.15 & 0.07 \\
-\hline Steel on steel (unlubricated) & 0.7 & 0.6 \\
-\hline Rubber on dry concrete & 1.0 & 0.8 \\
-\hline Rubber on wet concrete & 0.7 & 0.5 \\
-\hline Rubber on other solid surfaces & 1-4 & 1 \\
-\hline Teflon ${ }^{\circledR}$ on Teflon in air & 0.04 & 0.04 \\
-\hline Teflon on steel in air & 0.04 & 0.04 \\
-\hline Lubricated ball bearings & <0.01 & <0.01 \\
-\hline Synovial joints (in human limbs) & 0.01 & 0.01 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 4-2 Coefficients of Friction ${**
+
+| Surfaces | Coefficient of Static Friction, $\boldsymbol{\mu}_{\mathbf{s}}$ | Coefficient of Kinetic Friction, $\boldsymbol{\mu}_{\mathbf{k}}$ |
+| --- | --- | --- |
+| Wood on wood | 0.4 | 0.2 |
+| Ice on ice | 0.1 | 0.03 |
+| Metal on metal (lubricated) | 0.15 | 0.07 |
+| Steel on steel (unlubricated) | 0.7 | 0.6 |
+| Rubber on dry concrete | 1.0 | 0.8 |
+| Rubber on wet concrete | 0.7 | 0.5 |
+| Rubber on other solid surfaces | 1-4 | 1 |
+| Teflon ${ }^{\circledR}$ on Teflon in air | 0.04 | 0.04 |
+| Teflon on steel in air | 0.04 | 0.04 |
+| Lubricated ball bearings | <0.01 | <0.01 |
+| Synovial joints (in human limbs) | 0.01 | 0.01 |
 
 FIGURE 4-26 An object moving to the right on a table. The two surfaces in contact are assumed smooth, but are rough on a microscopic scale.
 

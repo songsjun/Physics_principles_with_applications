@@ -364,15 +364,14 @@ Thus, the total displacement has magnitude 960 km and points $51^{\circ}$ below 
 
 FIGURE 3-16 Example 3-3.
 
-\begin{tabular}{lrr}
-\hline & \multicolumn{2}{c}{ Components } \\
-Vector & $\boldsymbol{x}(\mathbf{k m})$ & $\boldsymbol{y}(\mathbf{k m})$ \\
-\hline $\overrightarrow{\mathbf{D}}_{1}$ & 620 & 0 \\
-$\overrightarrow{\mathbf{D}}_{2}$ & 311 & -311 \\
-$\overrightarrow{\mathbf{D}}_{3}$ & -331 & -439 \\
-\hline $\overrightarrow{\mathbf{D}}_{\mathrm{R}}$ & 600 & -750 \\
-\hline
-\end{tabular}
+|  | Components |  |
+| --- | --- | --- |
+| Vector | $\boldsymbol{x}(\mathbf{k m})$ | $\boldsymbol{y}(\mathbf{k m})$ |
+| $\overrightarrow{\mathbf{D}}_{1}$ | 620 | 0 |
+| $\overrightarrow{\mathbf{D}}_{2}$ | 311 | -311 |
+| $\overrightarrow{\mathbf{D}}_{3}$ | -331 | -439 |
+| $\overrightarrow{\mathbf{D}}_{\mathrm{R}}$ | 600 | -750 |
+
 
 SECTION 3-4 Adding Vectors by Components
 57
@@ -444,30 +443,25 @@ GIAN_PPA7_GE_03_049-074v5.2HR2.1.QXD 6/27/16 1:16 PM Page 60
 3-6 Solving Projectile Motion Problems
 We now work through several Examples of projectile motion quantitatively. We use the kinematic equations (2-11a through 2-11c) separately for the vertical and horizontal components of the motion. These equations are shown separately for the $x$ and $y$ components of the motion in Table 3-1, for the general case of twodimensional motion at constant acceleration. Note that $x$ and $y$ are the respective displacements, that $v_{x}$ and $v_{y}$ are the components of the velocity, and that $a_{x}$ and $a_{y}$ are the components of the acceleration, each of which is constant. The subscript 0 means "at $t=0$."
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 3-1 General Kinematic Equations for Constant Acceleration in Two Dimensions}
-\begin{tabular}{|l|l|l|}
-\hline $\boldsymbol{x}$ component (horizontal) & & $\boldsymbol{y}$ component (vertical) \\
-\hline $v_{x}=v_{x 0}+a_{x} t$ & (Eq. 2-11a) & $v_{y}=v_{y 0}+a_{y} t$ \\
-\hline $x=x_{0}+v_{x 0} t+\frac{1}{2} a_{x} t^{2}$ & (Eq. 2-11b) & $y=y_{0}+v_{y 0} t+\frac{1}{2} a_{y} t^{2}$ \\
-\hline $v_{x}^{2}=v_{x 0}^{2}+2 a_{x}\left(x-x_{0}\right)$ & (Eq. 2-11c) & $v_{y}^{2}=v_{y 0}^{2}+2 a_{y}\left(y-y_{0}\right)$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 3-1 General Kinematic Equations for Constant Acceleration in Two Dimensions**
+
+| $\boldsymbol{x}$ component (horizontal) |  | $\boldsymbol{y}$ component (vertical) |
+| --- | --- | --- |
+| $v_{x}=v_{x 0}+a_{x} t$ | (Eq. 2-11a) | $v_{y}=v_{y 0}+a_{y} t$ |
+| $x=x_{0}+v_{x 0} t+\frac{1}{2} a_{x} t^{2}$ | (Eq. 2-11b) | $y=y_{0}+v_{y 0} t+\frac{1}{2} a_{y} t^{2}$ |
+| $v_{x}^{2}=v_{x 0}^{2}+2 a_{x}\left(x-x_{0}\right)$ | (Eq. 2-11c) | $v_{y}^{2}=v_{y 0}^{2}+2 a_{y}\left(y-y_{0}\right)$ |
 
 We can simplify Eqs. $2-11$ to use for projectile motion because we can set $a_{x}=0$. See Table 3-2, which assumes $y$ is positive upward, so $a_{y}=-g=-9.80 \mathrm{~m} / \mathrm{s}^{2}$.
 
 TABLE 3-2 Kinematic Equations for Projectile Motion
 ( $y$ positive upward; $a_{x}=0, a_{y}=-g=-9.80 \mathrm{~m} / \mathrm{s}^{2}$ )
 
-\begin{tabular}{|l|l|l|}
-\hline Horizontal Motion ( $\boldsymbol{a}_{\boldsymbol{x}}=\mathbf{0}, \boldsymbol{v}_{\boldsymbol{x}}=$ constant) & & Vertical Motion ${ }^{\dagger}$ ( $a_{y}=-g=$ constant) \\
-\hline $v_{x}=v_{x 0}$ & (Eq. 2-11a) & $v_{y}=v_{y 0}-g t$ \\
-\hline $x=x_{0}+v_{x 0} t$ & (Eq. 2-11b) & $y=y_{0}+v_{y 0} t-\frac{1}{2} g t^{2}$ \\
-\hline & (Eq. 2-11c) & $v_{y}^{2}=v_{y 0}^{2}-2 g\left(y-y_{0}\right)$ \\
-\hline
-\end{tabular}
+| Horizontal Motion ( $\boldsymbol{a}_{\boldsymbol{x}}=\mathbf{0}, \boldsymbol{v}_{\boldsymbol{x}}=$ constant) |  | Vertical Motion ${ }^{\dagger}$ ( $a_{y}=-g=$ constant) |
+| --- | --- | --- |
+| $v_{x}=v_{x 0}$ | (Eq. 2-11a) | $v_{y}=v_{y 0}-g t$ |
+| $x=x_{0}+v_{x 0} t$ | (Eq. 2-11b) | $y=y_{0}+v_{y 0} t-\frac{1}{2} g t^{2}$ |
+|  | (Eq. 2-11c) | $v_{y}^{2}=v_{y 0}^{2}-2 g\left(y-y_{0}\right)$ |
+
 ${ }^{\dagger}$ If $y$ is taken positive downward, the minus ( - ) signs in front of $g$ become + signs.
 If the projection angle $\theta_{0}$ is chosen relative to the $+x$ axis (Fig. 3-20), then
 $$v_{x 0}=v_{0} \cos \theta_{0}, \quad \text { and } \quad v_{y 0}=v_{0} \sin \theta_{0} .$$
@@ -509,16 +503,15 @@ upward, with the top of the cliff as $y_{0}=0$. The $x$ direction is horizontal 
 6. List knowns and unknowns. See the Table in the margin. Note that in addition to not knowing the initial horizontal velocity $v_{x 0}$ (which stays constant until landing), we also do not know the time $t$ when the motorcycle reaches the ground.
 7. Apply relevant equations. The motorcycle maintains constant $v_{x}$ as long as it is in the air. The time it stays in the air is determined by the $y$ motion-when it reaches the ground. So we first find the time using the $y$ motion, and then
 
-\begin{tabular}{rr}
-\hline Known & Unknown \\
-\hline$x_{0}=y_{0}=0$ & $v_{x 0}$ \\
-$x=90.0 \mathrm{~m}$ & $t$ \\
-$y=-50.0 \mathrm{~m}$ & \\
-$a_{x}=0$ & \\
-$a_{y}=-g=-9.80 \mathrm{~m} / \mathrm{s}^{2}$ & \\
-$v_{y 0}=0$ & \\
-\hline
-\end{tabular}
+| Known | Unknown |
+| --- | --- |
+| $x_{0}=y_{0}=0$ | $v_{x 0}$ |
+| $x=90.0 \mathrm{~m}$ | $t$ |
+| $y=-50.0 \mathrm{~m}$ |  |
+| $a_{x}=0$ |  |
+| $a_{y}=-g=-9.80 \mathrm{~m} / \mathrm{s}^{2}$ |  |
+| $v_{y 0}=0$ |  |
+
 use this time value in the $x$ equations. To find out how long it takes the motorcycle to reach the ground below, we use Eq. 2-11b (Tables 3-1 and 3-2) for the vertical $(y)$ direction with $y_{0}=0$ and $v_{y 0}=0$ :
 $$\begin{aligned}
 y & =y_{0}+v_{y 0} t+\frac{1}{2} a_{y} t^{2} \\

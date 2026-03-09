@@ -358,29 +358,25 @@ PHYSICS APPLIED Convex rearview mirror
 
 FIGURE 23-20 Example 23-7.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 23-1 Indices of Refraction ${ }^{\dagger}$}
-\begin{tabular}{|l|l|}
-\hline Material & $\boldsymbol{n}=\frac{\boldsymbol{c}}{\boldsymbol{v}}$ \\
-\hline Vacuum & 1.0000 \\
-\hline Air (at STP) & 1.0003 \\
-\hline Water & 1.33 \\
-\hline Ethyl alcohol & 1.36 \\
-\hline Glass & \\
-\hline Fused quartz & 1.46 \\
-\hline Crown glass & 1.52 \\
-\hline Light flint & 1.58 \\
-\hline \multicolumn{2}{|c|}{Plastic} \\
-\hline Acrylic, Lucite, CR-39 & 1.50 \\
-\hline Polycarbonate & 1.59 \\
-\hline "High-index" & 1.6-1.7 \\
-\hline Sodium chloride & 1.53 \\
-\hline Diamond & 2.42 \\
-\hline \multicolumn{2}{|l|}{${ }^{\dagger} \lambda=589 \mathrm{~nm}$.} \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 23-1 Indices of Refraction ${**
+
+| Material | $\boldsymbol{n}=\frac{\boldsymbol{c}}{\boldsymbol{v}}$ |
+| --- | --- |
+| Vacuum | 1.0000 |
+| Air (at STP) | 1.0003 |
+| Water | 1.33 |
+| Ethyl alcohol | 1.36 |
+| Glass |  |
+| Fused quartz | 1.46 |
+| Crown glass | 1.52 |
+| Light flint | 1.58 |
+| Plastic |  |
+| Acrylic, Lucite, CR-39 | 1.50 |
+| Polycarbonate | 1.59 |
+| "High-index" | 1.6-1.7 |
+| Sodium chloride | 1.53 |
+| Diamond | 2.42 |
+| ${ ^{\dagger} \lambda=589 \mathrm{~nm}$.} |  |
 
 EXAMPLE 23-7 Convex rearview mirror. An external rearview car mirror is convex with a radius of curvature of 16.0 m (Fig. 23-20). Determine the location of the image and its magnification for an object 10.0 m from the mirror.
 APPROACH We follow the steps of the Problem Solving Strategy explicitly. SOLUTION

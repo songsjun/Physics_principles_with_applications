@@ -142,31 +142,27 @@ it that way).
 
 FIGURE 14-2 Besides translational kinetic energy, molecules can have (a) rotational kinetic energy, and (b) vibrational energy (both kinetic and potential).
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 14-1 Specific Heats (at 1 atm constant pressure and $20^{\circ} \mathrm{C}$ unless otherwise stated)}
-\begin{tabular}{|l|l|l|}
-\hline \multirow[b]{2}{*}{Substance} & \multicolumn{2}{|c|}{Specific Heat, $\boldsymbol{c}$} \\
-\hline & $\mathrm{J} / \mathrm{kg} \cdot \mathrm{C}^{\circ}$ & $\mathrm{kcal} / \mathrm{kg} \cdot \mathrm{C}^{\circ}$ ( $=\mathrm{cal} / \mathrm{g} \cdot \mathrm{C}^{\circ}$ ) \\
-\hline Aluminum & 900 & 0.22 \\
-\hline Alcohol (ethyl) & 2400 & 0.58 \\
-\hline Copper & 390 & 0.093 \\
-\hline Glass & 840 & 0.20 \\
-\hline Iron or steel & 450 & 0.11 \\
-\hline Lead & 130 & 0.031 \\
-\hline Marble & 860 & 0.21 \\
-\hline Mercury & 140 & 0.033 \\
-\hline Silver & 230 & 0.056 \\
-\hline Wood & 1700 & 0.4 \\
-\hline \multicolumn{3}{|l|}{Water} \\
-\hline Ice $\left(-5^{\circ} \mathrm{C}\right)$ & 2100 & 0.50 \\
-\hline Liquid ( $15^{\circ} \mathrm{C}$ ) & 4186 & 1.00 \\
-\hline Steam ( $110^{\circ} \mathrm{C}$ ) & 2010 & 0.48 \\
-\hline Human body (average) & 3470 & 0.83 \\
-\hline Protein & 1700 & 0.4 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 14-1 Specific Heats (at 1 atm constant pressure and $20^{\circ**
+
+| \multirow[b]{2}{*}{Substance} | Specific Heat, $\boldsymbol{c$} |  |
+| --- | --- | --- |
+|  | $\mathrm{J} / \mathrm{kg} \cdot \mathrm{C}^{\circ}$ | $\mathrm{kcal} / \mathrm{kg} \cdot \mathrm{C}^{\circ}$ ( $=\mathrm{cal} / \mathrm{g} \cdot \mathrm{C}^{\circ}$ ) |
+| Aluminum | 900 | 0.22 |
+| Alcohol (ethyl) | 2400 | 0.58 |
+| Copper | 390 | 0.093 |
+| Glass | 840 | 0.20 |
+| Iron or steel | 450 | 0.11 |
+| Lead | 130 | 0.031 |
+| Marble | 860 | 0.21 |
+| Mercury | 140 | 0.033 |
+| Silver | 230 | 0.056 |
+| Wood | 1700 | 0.4 |
+| Water |  |  |
+| Ice $\left(-5^{\circ} \mathrm{C}\right)$ | 2100 | 0.50 |
+| Liquid ( $15^{\circ} \mathrm{C}$ ) | 4186 | 1.00 |
+| Steam ( $110^{\circ} \mathrm{C}$ ) | 2010 | 0.48 |
+| Human body (average) | 3470 | 0.83 |
+| Protein | 1700 | 0.4 |
 
 PHYSICS APPLIED
 Practical effects of water's high specific heat
@@ -302,24 +298,20 @@ When a material changes phase from solid to liquid, or from liquid to gas (see a
 
 The heat required to change 1.0 kg of a substance from the solid to the liquid state is called the heat of fusion; it is denoted by $L_{\mathrm{F}}$. The heat of fusion of water is $79.7 \mathrm{kcal} / \mathrm{kg}$ or, in proper SI units, $333 \mathrm{~kJ} / \mathrm{kg}\left(=3.33 \times 10^{5} \mathrm{~J} / \mathrm{kg}\right)$. The heat required to change a substance from the liquid to the vapor phase is called the heat of vaporization, $L_{\mathrm{V}}$. For water it is $539 \mathrm{kcal} / \mathrm{kg}$ or $2260 \mathrm{~kJ} / \mathrm{kg}$. Other substances follow graphs similar to Fig. 14-5, although the melting-point and boiling-point temperatures are different, as are the specific heats and heats of fusion and vaporization. Values for the heats of fusion and vaporization, which are also called the latent heats, are given in Table 14-3 for a number of substances.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 14-3 Latent Heats (at 1 atm)}
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline \multirow{2}{*}{Substance} & \multirow{2}{*}{Melting Point ( ${ }^{\circ} \mathrm{C}$ )} & \multicolumn{2}{|c|}{Heat of Fusion} & \multirow{2}{*}{Boiling Point ( ${ }^{\circ} \mathrm{C}$ )} & \multicolumn{2}{|c|}{Heat of Vaporization} \\
-\hline & & kJ/kg & $\mathbf{k c a l} / \mathbf{k g}^{\boldsymbol{\dagger}}$ & & kJ/kg & $\mathbf{k c a l} / \mathbf{k g}^{\boldsymbol{\dagger}}$ \\
-\hline Oxygen & -218.8 & 14 & 3.3 & -183 & 210 & 51 \\
-\hline Nitrogen & -210.0 & 26 & 6.1 & -195.8 & 200 & 48 \\
-\hline Ethyl alcohol & -114 & 104 & 25 & 78 & 850 & 204 \\
-\hline Ammonia & -77.8 & 33 & 8.0 & -33.4 & 137 & 33 \\
-\hline Water & 0 & 333 & 79.7 & 100 & 2260 & 539 \\
-\hline Lead & 327 & 25 & 5.9 & 1750 & 870 & 208 \\
-\hline Silver & 961 & 88 & 21 & 2193 & 2300 & 558 \\
-\hline Iron & 1538 & 289 & 69.1 & 3023 & 6340 & 1520 \\
-\hline Tungsten & 3410 & 184 & 44 & 5900 & 4800 & 1150 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 14-3 Latent Heats (at 1 atm)**
+
+| \multirow{2}{*}{Substance} | \multirow{2}{*}{Melting Point ( ${ }^{\circ} \mathrm{C}$ )} | Heat of Fusion | \multirow{2}{*}{Boiling Point ( ${ }^{\circ} \mathrm{C}$ )} | Heat of Vaporization |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | kJ/kg | $\mathbf{k c a l} / \mathbf{k g}^{\boldsymbol{\dagger}}$ |  | kJ/kg | $\mathbf{k c a l} / \mathbf{k g}^{\boldsymbol{\dagger}}$ |
+| Oxygen | -218.8 | 14 | 3.3 | -183 | 210 | 51 |
+| Nitrogen | -210.0 | 26 | 6.1 | -195.8 | 200 | 48 |
+| Ethyl alcohol | -114 | 104 | 25 | 78 | 850 | 204 |
+| Ammonia | -77.8 | 33 | 8.0 | -33.4 | 137 | 33 |
+| Water | 0 | 333 | 79.7 | 100 | 2260 | 539 |
+| Lead | 327 | 25 | 5.9 | 1750 | 870 | 208 |
+| Silver | 961 | 88 | 21 | 2193 | 2300 | 558 |
+| Iron | 1538 | 289 | 69.1 | 3023 | 6340 | 1520 |
+| Tungsten | 3410 | 184 | 44 | 5900 | 4800 | 1150 |
 
 ${ }^{\dagger}$ Numerical values in $\mathrm{kcal} / \mathrm{kg}$ are the same in cal/g.
 SECTION 14-5
@@ -497,32 +489,28 @@ The insulating properties of clothing come from the insulating properties of air
 TABLE 14-4
 Thermal Conductivities
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{Thermal Conductivity, $\boldsymbol{k}$}
-\begin{tabular}{|l|l|l|}
-\hline \multirow{2}{*}{Substance} & J & kcal \\
-\hline & ( $\mathbf{s} \cdot \mathbf{m} \cdot \mathbf{C}^{\boldsymbol{\circ}}$ ) & ( $\mathbf{s} \cdot \mathbf{m} \cdot \mathbf{C}^{\circ}$ ) \\
-\hline Silver & 420 & $10 \times 10^{-2}$ \\
-\hline Copper & 380 & $9.2 \times 10^{-2}$ \\
-\hline Aluminum & 200 & $5.0 \times 10^{-2}$ \\
-\hline Steel & 40 & $1.1 \times 10^{-2}$ \\
-\hline Ice & 2 & $5 \times 10^{-4}$ \\
-\hline Glass & 0.84 & $2.0 \times 10^{-4}$ \\
-\hline Brick & 0.84 & $2.0 \times 10^{-4}$ \\
-\hline Concrete & 0.84 & $2.0 \times 10^{-4}$ \\
-\hline Water & 0.56 & $1.4 \times 10^{-4}$ \\
-\hline Human tissue & 0.2 & $0.5 \times 10^{-4}$ \\
-\hline Wood & 0.1 & $0.3 \times 10^{-4}$ \\
-\hline Fiberglass & 0.048 & $0.12 \times 10^{-4}$ \\
-\hline Cork & 0.042 & $0.10 \times 10^{-4}$ \\
-\hline Wool & 0.040 & $0.10 \times 10^{-4}$ \\
-\hline Goose down & 0.025 & $0.060 \times 10^{-4}$ \\
-\hline Polyurethane & 0.024 & $0.057 \times 10^{-4}$ \\
-\hline Air & 0.023 & $0.055 \times 10^{-4}$ \\
-\hline
-\end{tabular}
-\end{table}
+**Thermal Conductivity, $\boldsymbol{k**
+
+| \multirow{2}{*}{Substance} | J | kcal |
+| --- | --- | --- |
+|  | ( $\mathbf{s} \cdot \mathbf{m} \cdot \mathbf{C}^{\boldsymbol{\circ}}$ ) | ( $\mathbf{s} \cdot \mathbf{m} \cdot \mathbf{C}^{\circ}$ ) |
+| Silver | 420 | $10 \times 10^{-2}$ |
+| Copper | 380 | $9.2 \times 10^{-2}$ |
+| Aluminum | 200 | $5.0 \times 10^{-2}$ |
+| Steel | 40 | $1.1 \times 10^{-2}$ |
+| Ice | 2 | $5 \times 10^{-4}$ |
+| Glass | 0.84 | $2.0 \times 10^{-4}$ |
+| Brick | 0.84 | $2.0 \times 10^{-4}$ |
+| Concrete | 0.84 | $2.0 \times 10^{-4}$ |
+| Water | 0.56 | $1.4 \times 10^{-4}$ |
+| Human tissue | 0.2 | $0.5 \times 10^{-4}$ |
+| Wood | 0.1 | $0.3 \times 10^{-4}$ |
+| Fiberglass | 0.048 | $0.12 \times 10^{-4}$ |
+| Cork | 0.042 | $0.10 \times 10^{-4}$ |
+| Wool | 0.040 | $0.10 \times 10^{-4}$ |
+| Goose down | 0.025 | $0.060 \times 10^{-4}$ |
+| Polyurethane | 0.024 | $0.057 \times 10^{-4}$ |
+| Air | 0.023 | $0.055 \times 10^{-4}$ |
 
 PHYSICS APPLIED
 Heat loss through windows
@@ -560,21 +548,14 @@ FIGURE 14-9 Convection plays a role in heating a house. The circular arrows show
 PHYSICS APPLIED
 Body heat: convection by blood
 
-\begin{tabular}{lcc}
-\hline TABLE 14-5 & $\boldsymbol{R}$-values & \\
-\hline Material & Thickness & \begin{tabular}{c}
-$\boldsymbol{R}$-value \\
-$\left(\mathbf{f t}^{2} \cdot \mathbf{h} \cdot \mathbf{F}^{\circ} / \mathbf{B t u}\right)$
-\end{tabular} \\
-\hline Glass & $\frac{1}{8}$ inch & 1 \\
-Brick & $3 \frac{1}{2}$ inches & $0.6-1$ \\
-Plywood & $\frac{1}{2}$ inch & 0.6 \\
-\begin{tabular}{l} 
-Fiberglass \\
-insulation
-\end{tabular} & 4 inches & 12 \\
-\hline
-\end{tabular}
+| TABLE 14-5 | $\boldsymbol{R}$-values |  |
+| --- | --- | --- |
+| Material | Thickness | $\boldsymbol{R}$-value $\left(\mathbf{f t}^{2} \cdot \mathbf{h} \cdot \mathbf{F}^{\circ} / \mathbf{B t u}\right)$ |
+| Glass | $\frac{1}{8}$ inch | 1 |
+| Brick | $3 \frac{1}{2}$ inches | $0.6-1$ |
+| Plywood | $\frac{1}{2}$ inch | 0.6 |
+| Fiberglass insulation | 4 inches | 12 |
+
 
 402
 CHAPTER 14 Heat

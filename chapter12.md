@@ -62,22 +62,21 @@ The pitch of a sound refers to whether it is high, like the sound of a piccolo o
 Sound waves whose frequencies are outside the audible range may reach the ear, but we are not generally aware of them. Frequencies above $20,000 \mathrm{~Hz}$ are called ultrasonic (do not confuse with supersonic, which is used for an object moving with a speed faster than the speed of sound). Many animals can hear ultrasonic frequencies; dogs, for example, can hear sounds as high as $50,000 \mathrm{~Hz}$, and bats can detect frequencies as high as $100,000 \mathrm{~Hz}$. Ultrasonic waves have many useful applications in medicine and other fields, which we will discuss later in this Chapter.
 ${ }^{\dagger}$ Although pitch is determined mainly by frequency, it also depends to a slight extent on loudness. For example, a very loud sound may seem slightly lower in pitch than a quiet sound of the same frequency.
 
-\begin{tabular}{|l|l|}
-\hline \multicolumn{2}{|c|}{TABLE 12-1 Speed of Sound in Various Materials ( $20^{\circ} \mathrm{C}$ and 1 atm )} \\
-\hline Material & Speed (m/s) \\
-\hline Air & 343 \\
-\hline Air ( $0^{\circ} \mathrm{C}$ ) & 331 \\
-\hline Helium & 1005 \\
-\hline Hydrogen & 1300 \\
-\hline Water & 1440 \\
-\hline Sea water & 1560 \\
-\hline Iron and steel & $\approx 5000$ \\
-\hline Glass & $\approx 4500$ \\
-\hline Aluminum & $\approx 5100$ \\
-\hline Hardwood & $\approx 4000$ \\
-\hline Concrete & $\approx 3000$ \\
-\hline
-\end{tabular}
+| TABLE 12-1 Speed of Sound in Various Materials ( $20^{\circ \mathrm{C}$ and 1 atm )} |  |
+| --- | --- |
+| Material | Speed (m/s) |
+| Air | 343 |
+| Air ( $0^{\circ} \mathrm{C}$ ) | 331 |
+| Helium | 1005 |
+| Hydrogen | 1300 |
+| Water | 1440 |
+| Sea water | 1560 |
+| Iron and steel | $\approx 5000$ |
+| Glass | $\approx 4500$ |
+| Aluminum | $\approx 5100$ |
+| Hardwood | $\approx 4000$ |
+| Concrete | $\approx 3000$ |
+
 
 PHYSICS APPLIED How far away is the lightning?
 
@@ -155,26 +154,22 @@ Wide range of human hearing
 CAUTION
 0 dB does not mean zero intensity
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 12-2
-Intensity of Various Sounds}
-\begin{tabular}{|l|l|l|}
-\hline Source of the Sound & Sound Level (dB) & Intensity ( $\mathrm{W} / \mathrm{m}^{2}$ ) \\
-\hline Jet plane at 30 m & 140 & 100 \\
-\hline Threshold of pain & 120 & 1 \\
-\hline Loud rock concert & 120 & 1 \\
-\hline Siren at 30 m & 100 & $1 \times 10^{-2}$ \\
-\hline Busy street traffic & 80 & $1 \times 10^{-4}$ \\
-\hline Noisy restaurant & 70 & $1 \times 10^{-5}$ \\
-\hline Talk, at 50 cm & 65 & $3 \times 10^{-6}$ \\
-\hline Quiet radio & 40 & $1 \times 10^{-8}$ \\
-\hline Whisper & 30 & $1 \times 10^{-9}$ \\
-\hline Rustle of leaves & 10 & $1 \times 10^{-11}$ \\
-\hline Threshold of hearing & 0 & $1 \times 10^{-12}$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 12-2
+Intensity of Various Sounds**
+
+| Source of the Sound | Sound Level (dB) | Intensity ( $\mathrm{W} / \mathrm{m}^{2}$ ) |
+| --- | --- | --- |
+| Jet plane at 30 m | 140 | 100 |
+| Threshold of pain | 120 | 1 |
+| Loud rock concert | 120 | 1 |
+| Siren at 30 m | 100 | $1 \times 10^{-2}$ |
+| Busy street traffic | 80 | $1 \times 10^{-4}$ |
+| Noisy restaurant | 70 | $1 \times 10^{-5}$ |
+| Talk, at 50 cm | 65 | $3 \times 10^{-6}$ |
+| Quiet radio | 40 | $1 \times 10^{-8}$ |
+| Whisper | 30 | $1 \times 10^{-9}$ |
+| Rustle of leaves | 10 | $1 \times 10^{-11}$ |
+| Threshold of hearing | 0 | $1 \times 10^{-12}$ |
 ${ }^{\dagger}$ The dB is dimensionless and so does not have to be included in calculations.
 
 SECTION 12-2 Intensity of Sound: Decibels
@@ -314,25 +309,24 @@ Figure 12-6 shows that at lower sound levels, our ears are less sensitive to the
 
 The source of any sound is a vibrating object. Almost any object can vibrate and hence be a source of sound. We now discuss some simple sources of sound, particularly musical instruments. In musical instruments, the source is set into vibration by striking, plucking, bowing, or blowing. Standing waves are produced and the source vibrates at its natural resonant frequencies. The vibrating source is in contact with the air (or other medium) and pushes on it to produce sound waves that travel outward. The frequencies of the waves are the same as those of the source, but the speed and wavelengths can be different. A drum has a stretched membrane that vibrates. Xylophones and marimbas have metal or wood bars that can be set into vibration. Bells, cymbals, and gongs also make use of a vibrating metal. Many instruments make use of vibrating strings, such as the violin, guitar, and piano, or make use of vibrating columns of air, such as the flute, trumpet, and pipe organ. We have already seen that the pitch of a pure sound is determined by the frequency. Typical frequencies for musical notes on the "equally tempered chromatic scale" are given in Table 12-3 for the octave beginning with middle C. Note that one octave corresponds to a doubling of frequency. For example, middle C has frequency of 262 Hz whereas $\mathrm{C}^{\prime}$ ( C above middle C ) has twice that frequency, 524 Hz . [Middle C is the C or "do" note at the middle of a piano keyboard.]
 
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|c|}{TABLE 12-3 Equally Tempered Chromatic Scale ${ }^{\dagger}$} \\
-\hline Note & Name & Frequency (Hz) \\
-\hline C & do & 262 \\
-\hline $\mathrm{C}^{\#}$ or $\mathrm{D}^{b}$ & & 277 \\
-\hline D & re & 294 \\
-\hline D* or $\mathrm{E}^{\text {b }}$ & & 311 \\
-\hline E & mi & 330 \\
-\hline F & fa & 349 \\
-\hline F\# or $\mathrm{G}^{\text {b }}$ & & 370 \\
-\hline G & sol & 392 \\
-\hline $\mathrm{G}^{\#}$ or $\mathrm{A}^{b}$ & & 415 \\
-\hline A & la & 440 \\
-\hline $\mathrm{A}^{\#}$ or $\mathrm{B}^{b}$ & & 466 \\
-\hline B & ti & 494 \\
-\hline C' & do & 524 \\
-\hline \multicolumn{3}{|l|}{${ }^{\dagger}$ Only one octave is included.} \\
-\hline
-\end{tabular}
+| TABLE 12-3 Equally Tempered Chromatic Scale ${ ^{\dagger}$} |  |  |
+| --- | --- | --- |
+| Note | Name | Frequency (Hz) |
+| C | do | 262 |
+| $\mathrm{C}^{\#}$ or $\mathrm{D}^{b}$ |  | 277 |
+| D | re | 294 |
+| D* or $\mathrm{E}^{\text {b }}$ |  | 311 |
+| E | mi | 330 |
+| F | fa | 349 |
+| F\# or $\mathrm{G}^{\text {b }}$ |  | 370 |
+| G | sol | 392 |
+| $\mathrm{G}^{\#}$ or $\mathrm{A}^{b}$ |  | 415 |
+| A | la | 440 |
+| $\mathrm{A}^{\#}$ or $\mathrm{B}^{b}$ |  | 466 |
+| B | ti | 494 |
+| C' | do | 524 |
+| ${ ^{\dagger}$ Only one octave is included.} |  |  |
+
 
 SECTION 12-4 Sources of Sound: Vibrating Strings and Air Columns
 335

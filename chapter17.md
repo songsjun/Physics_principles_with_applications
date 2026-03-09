@@ -112,22 +112,18 @@ GIAN_PPA7_GE_17_473-500v6.1HR2.QXD 26-08-2014 15:54 Page 475
 
 FIGURE 17-3 (a) Two rocks are at the same height. The larger rock has more potential energy. (b) Two positive charges have the same electric potential. The $2 Q$ charge has more potential energy.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 17-1 Some Typical Potential Differences (Voltages)}
-\begin{tabular}{|l|l|}
-\hline Source & Voltage (approx.) \\
-\hline Thundercloud to ground & $10^{8} \mathrm{~V}$ \\
-\hline High-voltage power line & $10^{5}-10^{6} \mathrm{~V}$ \\
-\hline Automobile ignition & $10^{4} \mathrm{~V}$ \\
-\hline Household outlet & $10^{2} \mathrm{~V}$ \\
-\hline Automobile battery & 12 V \\
-\hline Flashlight battery (AA, AAA, C, D) & 1.5 V \\
-\hline Resting potential across nerve membrane & $10^{-1} \mathrm{~V}$ \\
-\hline Potential changes on skin (ECG and EEG) & $10^{-4} \mathrm{~V}$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 17-1 Some Typical Potential Differences (Voltages)**
+
+| Source | Voltage (approx.) |
+| --- | --- |
+| Thundercloud to ground | $10^{8} \mathrm{~V}$ |
+| High-voltage power line | $10^{5}-10^{6} \mathrm{~V}$ |
+| Automobile ignition | $10^{4} \mathrm{~V}$ |
+| Household outlet | $10^{2} \mathrm{~V}$ |
+| Automobile battery | 12 V |
+| Flashlight battery (AA, AAA, C, D) | 1.5 V |
+| Resting potential across nerve membrane | $10^{-1} \mathrm{~V}$ |
+| Potential changes on skin (ECG and EEG) | $10^{-4} \mathrm{~V}$ |
 
 FIGURE 17-4 Electron accelerated, Example 17-2.
 
@@ -355,22 +351,15 @@ GIAN_PPA7_GE_17_473-500v6.1HR2.QXD 26-08-2014 15:54 Page 482
 
 FIGURE 17-12 Electric dipole. Calculation of potential $V$ at point P .
 
-\begin{tabular}{lc}
-\hline \multicolumn{2}{l}{\begin{tabular}{l} 
-TABLE 17-2 \\
-of Selected Molecules
-\end{tabular}} \\
-\hline Molecule & \begin{tabular}{c} 
-Dipole Moment \\
-$(\mathbf{C} \cdot \mathbf{~ m})$
-\end{tabular} \\
-\hline $\mathrm{H}_{2}^{(+)} \mathrm{O}^{(-)}$ & $6.1 \times 10^{-30}$ \\
-$\mathrm{H}^{(+)} \mathrm{Cl}^{(-)}$ & $3.4 \times 10^{-30}$ \\
-$\mathrm{~N}^{(-)} \mathrm{H}_{3}{ }^{(+)}$ & $5.0 \times 10^{-30}$ \\
-$>\mathrm{N}^{(-)}-\mathrm{H}^{(+)}$ & $\approx 3.0 \times 10^{-30 \ddagger}$ \\
-$>\mathrm{C}^{(+)}=\mathrm{O}^{(-)}$ & $\approx 8.0 \times 10^{-30 \ddagger}$ \\
-\hline
-\end{tabular}
+| TABLE 17-2 of Selected Molecules |  |
+| --- | --- |
+| Molecule | Dipole Moment $(\mathbf{C} \cdot \mathbf{~ m})$ |
+| $\mathrm{H}_{2}^{(+)} \mathrm{O}^{(-)}$ | $6.1 \times 10^{-30}$ |
+| $\mathrm{H}^{(+)} \mathrm{Cl}^{(-)}$ | $3.4 \times 10^{-30}$ |
+| $\mathrm{~N}^{(-)} \mathrm{H}_{3}{ }^{(+)}$ | $5.0 \times 10^{-30}$ |
+| $>\mathrm{N}^{(-)}-\mathrm{H}^{(+)}$ | $\approx 3.0 \times 10^{-30 \ddagger}$ |
+| $>\mathrm{C}^{(+)}=\mathrm{O}^{(-)}$ | $\approx 8.0 \times 10^{-30 \ddagger}$ |
+
 ${ }^{\ddagger}$ These last two groups often appear on larger molecules; hence the value for the dipole moment will vary somewhat, depending on the rest of the molecule.
 PHYSICS APPLIED
 Uses of capacitors
@@ -515,28 +504,24 @@ RESPONSE The charge $Q$ remains the same-the capacitor is isolated, so there is 
 
 FIGURE 17-18 A cylindrical capacitor, unrolled from its case to show the dielectric between the plates. See also Fig. 17-13b.
 
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|l|}{\begin{tabular}{l}
-TABLE 17-3 \\
-Dielectric Constants (at $\mathbf{2 0}^{\boldsymbol{\circ}} \mathbf{C}$ )
-\end{tabular}} \\
-\hline Material & Dielectric constant $\boldsymbol{K}$ & Dielectric strength ( $\mathrm{V} / \mathrm{m}$ ) \\
-\hline Vacuum & 1.0000 & \\
-\hline Air (1 atm) & 1.0006 & $3 \times 10^{6}$ \\
-\hline Paraffin & 2.2 & $10 \times 10^{6}$ \\
-\hline Polystyrene & 2.6 & $24 \times 10^{6}$ \\
-\hline Vinyl (plastic) & 2-4 & $50 \times 10^{6}$ \\
-\hline Paper & 3.7 & $15 \times 10^{6}$ \\
-\hline Quartz & 4.3 & $8 \times 10^{6}$ \\
-\hline Oil & 4 & $12 \times 10^{6}$ \\
-\hline Glass, Pyrex & 5 & $14 \times 10^{6}$ \\
-\hline Rubber, neoprene & 6.7 & $12 \times 10^{6}$ \\
-\hline Porcelain & 6-8 & $5 \times 10^{6}$ \\
-\hline Mica & 7 & $150 \times 10^{6}$ \\
-\hline Water (liquid) & 80 & \\
-\hline Strontium titanate & 300 & $8 \times 10^{6}$ \\
-\hline
-\end{tabular}
+| TABLE 17-3 Dielectric Constants (at $\mathbf{2 0^{\boldsymbol{\circ}} \mathbf{C}$ )} |  |  |
+| --- | --- | --- |
+| Material | Dielectric constant $\boldsymbol{K}$ | Dielectric strength ( $\mathrm{V} / \mathrm{m}$ ) |
+| Vacuum | 1.0000 |  |
+| Air (1 atm) | 1.0006 | $3 \times 10^{6}$ |
+| Paraffin | 2.2 | $10 \times 10^{6}$ |
+| Polystyrene | 2.6 | $24 \times 10^{6}$ |
+| Vinyl (plastic) | 2-4 | $50 \times 10^{6}$ |
+| Paper | 3.7 | $15 \times 10^{6}$ |
+| Quartz | 4.3 | $8 \times 10^{6}$ |
+| Oil | 4 | $12 \times 10^{6}$ |
+| Glass, Pyrex | 5 | $14 \times 10^{6}$ |
+| Rubber, neoprene | 6.7 | $12 \times 10^{6}$ |
+| Porcelain | 6-8 | $5 \times 10^{6}$ |
+| Mica | 7 | $150 \times 10^{6}$ |
+| Water (liquid) | 80 |  |
+| Strontium titanate | 300 | $8 \times 10^{6}$ |
+
 
 SECTION 17-8
 485
@@ -627,20 +612,19 @@ GIAN_PPA7_GE_17_473-500v6.1HR2.QXD 6/28/16 10:59 AM Page 488
 
 FIGURE 17-22 Two kinds of signal voltage: (a) sinusoidal, (b) a pulse, both analog. Many other shapes are possible.
 
-\begin{tabular}{|l|l|}
-\hline \multicolumn{2}{|l|}{TABLE 17-4 Binary to Decimal} \\
-\hline Binary ${ }^{\dagger}$ number & Decimal number \\
-\hline 00000000 & 0 \\
-\hline 00000001 & 1 \\
-\hline 00000010 & 2 \\
-\hline 00000011 & 3 \\
-\hline 00000100 & 4 \\
-\hline 00000111 & 7 \\
-\hline 00001000 & 8 \\
-\hline 00100101 & 37 \\
-\hline 11111111 & 255 \\
-\hline
-\end{tabular}
+| TABLE 17-4 Binary to Decimal |  |
+| --- | --- |
+| Binary ${ }^{\dagger}$ number | Decimal number |
+| 00000000 | 0 |
+| 00000001 | 1 |
+| 00000010 | 2 |
+| 00000011 | 3 |
+| 00000100 | 4 |
+| 00000111 | 7 |
+| 00001000 | 8 |
+| 00100101 | 37 |
+| 11111111 | 255 |
+
 ${ }^{\dagger}$ Note that we start counting from right to left: the 1's digit is on the far right, then the 2's, the 4's, the 8's, the 16's, the 32 's, the 64 's, and the 128 's.
 
 FIGURE 17-24 The red analog sine wave, which is at a $100-\mathrm{Hz}$ frequency ( 1 wavelength is done in 0.010 s ), has been converted to a 2 -bit ( 4 level) digital signal (blue).

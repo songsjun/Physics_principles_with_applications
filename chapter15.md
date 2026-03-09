@@ -174,18 +174,14 @@ EXERCISE B Is the work done by the gas in process ADB of Fig. 15-6 greater than,
 
 Table $15-1$ gives a brief summary of the processes we have discussed. Many other types of processes can occur, but these "simple" ones are useful and can be dealt with by fairly simple means.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 15-1 Simple Thermodynamic Processes and the First Law}
-\begin{tabular}{|l|l|l|}
-\hline Process & What is constant: & The first law, $\boldsymbol{\Delta} \boldsymbol{U} \boldsymbol{=} \boldsymbol{Q} \boldsymbol{-} \boldsymbol{W}$, predicts: \\
-\hline Isothermal & $T=$ constant & $\Delta T=0$ makes $\Delta U=0$, so $Q=W$ \\
-\hline Isobaric & $P=$ constant & $Q=\Delta U+W=\Delta U+P \Delta V$ \\
-\hline Isovolumetric & $V=$ constant & $\Delta V=0$ makes $W=0$, so $Q=\Delta U$ \\
-\hline Adiabatic & $Q=0$ & $\Delta U=-W$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 15-1 Simple Thermodynamic Processes and the First Law**
+
+| Process | What is constant: | The first law, $\boldsymbol{\Delta} \boldsymbol{U} \boldsymbol{=} \boldsymbol{Q} \boldsymbol{-} \boldsymbol{W}$, predicts: |
+| --- | --- | --- |
+| Isothermal | $T=$ constant | $\Delta T=0$ makes $\Delta U=0$, so $Q=W$ |
+| Isobaric | $P=$ constant | $Q=\Delta U+W=\Delta U+P \Delta V$ |
+| Isovolumetric | $V=$ constant | $\Delta V=0$ makes $W=0$, so $Q=\Delta U$ |
+| Adiabatic | $Q=0$ | $\Delta U=-W$ |
 
 416
 CHAPTER 15 The Laws of Thermodynamics
@@ -288,21 +284,17 @@ $$\left[\begin{array}{c}
 
 NOTE Since $4.186 \times 10^{3} \mathrm{~J}=1 \mathrm{kcal}$, this is equivalent to 2800 kcal ; a food intake of 2800 Cal would compensate for this energy output. A $65-\mathrm{kg}$ person who wanted to lose weight would have to eat less than 2800 Cal a day, or increase his or her level of activity. Exercise beats any diet technique.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 15-2 Metabolic Rates ( $65-\mathrm{kg}$ human)}
-\begin{tabular}{|l|l|l|}
-\hline \multirow[b]{2}{*}{Activity} & \multicolumn{2}{|c|}{Metabolic Rate (approximate)} \\
-\hline & kcal/h & watts \\
-\hline Sleeping & 60 & 70 \\
-\hline Sitting upright & 100 & 115 \\
-\hline Light activity (eating, dressing, household chores) & 200 & 230 \\
-\hline Moderate work (tennis, walking) & 400 & 460 \\
-\hline Running ( $15 \mathrm{~km} / \mathrm{h}$ ) & 1000 & 1150 \\
-\hline Bicycling (race) & 1100 & 1270 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 15-2 Metabolic Rates ( $65-\mathrm{kg**
+
+| \multirow[b]{2}{*}{Activity} | Metabolic Rate (approximate) |  |
+| --- | --- | --- |
+|  | kcal/h | watts |
+| Sleeping | 60 | 70 |
+| Sitting upright | 100 | 115 |
+| Light activity (eating, dressing, household chores) | 200 | 230 |
+| Moderate work (tennis, walking) | 400 | 460 |
+| Running ( $15 \mathrm{~km} / \mathrm{h}$ ) | 1000 | 1150 |
+| Bicycling (race) | 1100 | 1270 |
 
 15-4 The Second Law of Thermodynamics-Introduction
 The first law of thermodynamics states that energy is conserved. There are, however, many processes we can imagine that conserve energy but are not observed to occur in nature. For example, when a hot object is placed in contact with a cold object, heat flows from the hotter one to the colder one, never spontaneously from colder to hotter. If heat were to leave the colder object and pass to the hotter one, energy could still be conserved. Yet it does not happen spontaneously. ${ }^{\dagger}$ As a second example, consider what happens when you drop a rock and it hits the ground. The initial potential energy of the rock changes to kinetic energy as the rock falls. When the rock hits the ground, this energy in turn is transformed into internal energy of the rock and the ground in the vicinity of the impact; the molecules move faster and the temperature rises slightly. But have you seen the reverse happen-a rock at rest on the ground suddenly rise up in the air because the thermal energy of molecules is transformed into kinetic energy of the rock as a whole? Energy could be conserved in this process, yet we never see it happen.
@@ -738,15 +730,14 @@ The ideas of entropy and disorder are made clearer with the use of a statistical
 
 Let us take a very simple example. Suppose you repeatedly shake four coins in your hand and drop them on a table. Specifying the number of heads and the number of tails that appear on a given throw is the macrostate of this system. Specifying each coin as being a head or a tail is the microstate of the system. In the following Table we see how many microstates correspond to each macrostate:
 
-\begin{tabular}{|l|l|l|l|}
-\hline Macrostate & & Possible Microstates ( $\mathbf{H}=$ heads, $\mathbf{T}=$ tails) & Number of Microstates \\
-\hline 4 heads & H H H H & & 1 \\
-\hline 3 heads, 1 tail & & HHHT, HHTH, HTHH, THHH & 4 \\
-\hline 2 heads, 2 tails & & HHTT, HTHT, THHT, HTTH, THTH, TTHH & 6 \\
-\hline 1 head, 3 tails & & TTTH, TTHT, THTT, HTTT & 4 \\
-\hline 4 tails & TTTT & & 1 \\
-\hline
-\end{tabular}
+| Macrostate |  | Possible Microstates ( $\mathbf{H}=$ heads, $\mathbf{T}=$ tails) | Number of Microstates |
+| --- | --- | --- | --- |
+| 4 heads | H H H H |  | 1 |
+| 3 heads, 1 tail |  | HHHT, HHTH, HTHH, THHH | 4 |
+| 2 heads, 2 tails |  | HHTT, HTHT, THHT, HTTH, THTH, TTHH | 6 |
+| 1 head, 3 tails |  | TTTH, TTHT, THTT, HTTT | 4 |
+| 4 tails | TTTT |  | 1 |
+
 
 CAUTION
 Careful use of probability
@@ -767,28 +758,24 @@ CHAPTER 15 The Laws of Thermodynamics
 
 GIAN_PPA7_GE_15_412-442v4.1HR1.2.QXD 18-02-2015 14:48 Page 4B3
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 15-3 Probabilities of Various Macrostates for $\mathbf{1 0 0}$ Coin Tosses}
-\begin{tabular}{|l|l|l|l|}
-\hline \multicolumn{2}{|c|}{Macrostate} & \multirow[b]{2}{*}{Number of Microstates} & \multirow[b]{2}{*}{Probability} \\
-\hline Heads & Tails & & \\
-\hline 100 & 0 & 1 & $7.9 \times 10^{-31}$ \\
-\hline 99 & 1 & $1.0 \times 10^{2}$ & $7.9 \times 10^{-29}$ \\
-\hline 90 & 10 & $1.7 \times 10^{13}$ & $1.4 \times 10^{-17}$ \\
-\hline 80 & 20 & $5.4 \times 10^{20}$ & $4.2 \times 10^{-10}$ \\
-\hline 60 & 40 & $1.4 \times 10^{28}$ & 0.011 \\
-\hline 55 & 45 & $6.1 \times 10^{28}$ & 0.047 \\
-\hline 50 & 50 & $1.0 \times 10^{29}$ & 0.077 \\
-\hline 45 & 55 & $6.1 \times 10^{28}$ & 0.047 \\
-\hline 40 & 60 & $1.4 \times 10^{28}$ & 0.011 \\
-\hline 20 & 80 & $5.4 \times 10^{20}$ & $4.2 \times 10^{-10}$ \\
-\hline 10 & 90 & $1.7 \times 10^{13}$ & $1.4 \times 10^{-17}$ \\
-\hline 1 & 99 & $1.0 \times 10^{2}$ & $7.9 \times 10^{-29}$ \\
-\hline 0 & 100 & 1 & $7.9 \times 10^{-31}$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 15-3 Probabilities of Various Macrostates for $\mathbf{1 0 0**
+
+| Macrostate | \multirow[b]{2}{*}{Number of Microstates} | \multirow[b]{2}{*}{Probability} |  |
+| --- | --- | --- | --- |
+| Heads | Tails |  |  |
+| 100 | 0 | 1 | $7.9 \times 10^{-31}$ |
+| 99 | 1 | $1.0 \times 10^{2}$ | $7.9 \times 10^{-29}$ |
+| 90 | 10 | $1.7 \times 10^{13}$ | $1.4 \times 10^{-17}$ |
+| 80 | 20 | $5.4 \times 10^{20}$ | $4.2 \times 10^{-10}$ |
+| 60 | 40 | $1.4 \times 10^{28}$ | 0.011 |
+| 55 | 45 | $6.1 \times 10^{28}$ | 0.047 |
+| 50 | 50 | $1.0 \times 10^{29}$ | 0.077 |
+| 45 | 55 | $6.1 \times 10^{28}$ | 0.047 |
+| 40 | 60 | $1.4 \times 10^{28}$ | 0.011 |
+| 20 | 80 | $5.4 \times 10^{20}$ | $4.2 \times 10^{-10}$ |
+| 10 | 90 | $1.7 \times 10^{13}$ | $1.4 \times 10^{-17}$ |
+| 1 | 99 | $1.0 \times 10^{2}$ | $7.9 \times 10^{-29}$ |
+| 0 | 100 | 1 | $7.9 \times 10^{-31}$ |
 
 Thus we see that as the number of coins increases, the probability of obtaining the most orderly arrangement (all heads or all tails) becomes extremely unlikely. The least orderly arrangement (half heads, half tails) is the most probable, and the probability of being within, say, $5 \%$ of the most probable arrangement greatly increases as the number of coins increases. These same ideas can be applied to the molecules of a system. For example, the most probable state of a gas (say, the air in a room) is one in which the molecules take up the whole space and move about randomly; this corresponds to the Maxwellian distribution, Fig. 15-19a (and see Section 13-10). On the other hand, the very orderly arrangement of all the molecules located in one corner of the room and all moving with the same velocity (Fig. 15-19b) is extremely unlikely.
 
@@ -835,32 +822,22 @@ CHAPTER 15 The Laws of Thermodynamics
 
 GIAN_PPA7_GE_15_412-442v4.1HR1.2.QXD 18-02-2015 14:48 Page 485
 
-\begin{tabular}{|l|l|l|l|l|}
-\hline \multicolumn{5}{|c|}{TABLE 15-4 Electric Energy Resources} \\
-\hline \multicolumn{5}{|c|}{\% of Production (approx.)} \\
-\hline Form of Electric Energy Production & U.S. & World & Advantages & Disadvantages \\
-\hline Fossil-fuel steam plants: burn coal, oil, or natural gas to boil water, producing high-pressure steam that turns a turbine of a generator (Figs. 15-12b, 15-21); uses heat engine. & 72 & 66 & We know how to build them; for now relatively inexpensive. & Air pollution; thermal pollution; limited efficiency; land devastation from extraction of raw materials (mining); global warming; accidents such as oil spills at sea; limited fuel supply (estimates range from a couple of decades to a few centuries). \\
-\hline \multicolumn{5}{|l|}{Nuclear energy:} \\
-\hline Fission: nuclei of uranium or plutonium atoms split ("fission") with release of energy (Chapter 31) that heats steam; uses heat engine. & 20 & 17 & \begin{tabular}{l}
-Normally almost no air pollution; less contribution to global warming; \\
-relatively inexpensive.
-\end{tabular} & Thermal pollution; accidents can release damaging radioactivity; difficult disposal of radioactive by-products; possible diversion of nuclear material by terrorists; limited fuel supply. \\
-\hline Fusion: energy released when isotopes of hydrogen (or other small nuclei) combine or "fuse" (Chapter 31). & 0 & 0 & Relatively "clean"; vast fuel supply (hydrogen in water molecules in oceans); less contribution to global warming. & Not yet workable. \\
-\hline \begin{tabular}{l}
-Hydroelectric: \\
-falling water turns turbines at the base of a dam.
-\end{tabular} & 7 & 16 & No heat engine needed; no air, water, or thermal pollution; relatively inexpensive; high efficiency; dams can control flooding. & Reservoirs behind dams inundate scenic or inhabited land; dams block upstream migration of salmon and other fish for reproduction; few locations remain for new dams; drought. \\
-\hline Geothermal: natural steam from inside the Earth comes to the surface (hot springs, geysers, steam vents); or cold water passed down into contact with hot, dry rock is heated to steam. & <1 & <1 & No heat engine needed; little air pollution; good efficiency; relatively inexpensive and "clean." & Few appropriate sites; small production; mineral content of spent hot water can pollute. \\
-\hline \begin{tabular}{l}
-Wind power: \\
-$3-\mathrm{kW}$ to $5-\mathrm{MW}$ windmills (vanes up to 50 m long) turn a generator.
-\end{tabular} & $\approx 1$ & <1 & No heat engine; no air, water, or thermal pollution; relatively inexpensive. & Large array of big windmills might affect weather and be eyesores; slows down cooling winds; hazardous to migratory birds; winds not always strong. \\
-\hline Solar energy: & <1 & <1 & & \\
-\hline Active solar heating: rooftop solar panels absorb the Sun's rays, which heat water in tubes for space heating and hot water supply. & & & No heat engine needed; no air or thermal pollution; unlimited fuel supply. & Space limitations; may require back-up; relatively expensive; less effective when cloudy. \\
-\hline Passive solar heating: architectural devices-windows along southern exposure, sunshade over windows to keep Sun's rays out in summer. & & & No heat engine needed; no air or thermal pollution; relatively inexpensive. & Almost none, but other methods needed too. \\
-\hline Solar cells (photovoltaic cells): convert sunlight directly into electricity without use of heat engine. & & & No heat engine; thermal, air, and water pollution very low; good efficiency (>30\% and improving). & Expensive; chemical pollution at manufacture; much land needed as Sun's energy not concentrated; absorption (dark color) without reemission $=$ global warming. \\
-\hline
-\end{tabular}
+| TABLE 15-4 Electric Energy Resources |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| \% of Production (approx.) |  |  |  |  |
+| Form of Electric Energy Production | U.S. | World | Advantages | Disadvantages |
+| Fossil-fuel steam plants: burn coal, oil, or natural gas to boil water, producing high-pressure steam that turns a turbine of a generator (Figs. 15-12b, 15-21); uses heat engine. | 72 | 66 | We know how to build them; for now relatively inexpensive. | Air pollution; thermal pollution; limited efficiency; land devastation from extraction of raw materials (mining); global warming; accidents such as oil spills at sea; limited fuel supply (estimates range from a couple of decades to a few centuries). |
+| Nuclear energy: |  |  |  |  |
+| Fission: nuclei of uranium or plutonium atoms split ("fission") with release of energy (Chapter 31) that heats steam; uses heat engine. | 20 | 17 | Normally almost no air pollution; less contribution to global warming; relatively inexpensive. | Thermal pollution; accidents can release damaging radioactivity; difficult disposal of radioactive by-products; possible diversion of nuclear material by terrorists; limited fuel supply. |
+| Fusion: energy released when isotopes of hydrogen (or other small nuclei) combine or "fuse" (Chapter 31). | 0 | 0 | Relatively "clean"; vast fuel supply (hydrogen in water molecules in oceans); less contribution to global warming. | Not yet workable. |
+| Hydroelectric: falling water turns turbines at the base of a dam. | 7 | 16 | No heat engine needed; no air, water, or thermal pollution; relatively inexpensive; high efficiency; dams can control flooding. | Reservoirs behind dams inundate scenic or inhabited land; dams block upstream migration of salmon and other fish for reproduction; few locations remain for new dams; drought. |
+| Geothermal: natural steam from inside the Earth comes to the surface (hot springs, geysers, steam vents); or cold water passed down into contact with hot, dry rock is heated to steam. | <1 | <1 | No heat engine needed; little air pollution; good efficiency; relatively inexpensive and "clean." | Few appropriate sites; small production; mineral content of spent hot water can pollute. |
+| Wind power: $3-\mathrm{kW}$ to $5-\mathrm{MW}$ windmills (vanes up to 50 m long) turn a generator. | $\approx 1$ | <1 | No heat engine; no air, water, or thermal pollution; relatively inexpensive. | Large array of big windmills might affect weather and be eyesores; slows down cooling winds; hazardous to migratory birds; winds not always strong. |
+| Solar energy: | <1 | <1 |  |  |
+| Active solar heating: rooftop solar panels absorb the Sun's rays, which heat water in tubes for space heating and hot water supply. |  |  | No heat engine needed; no air or thermal pollution; unlimited fuel supply. | Space limitations; may require back-up; relatively expensive; less effective when cloudy. |
+| Passive solar heating: architectural devices-windows along southern exposure, sunshade over windows to keep Sun's rays out in summer. |  |  | No heat engine needed; no air or thermal pollution; relatively inexpensive. | Almost none, but other methods needed too. |
+| Solar cells (photovoltaic cells): convert sunlight directly into electricity without use of heat engine. |  |  | No heat engine; thermal, air, and water pollution very low; good efficiency (>30\% and improving). | Expensive; chemical pollution at manufacture; much land needed as Sun's energy not concentrated; absorption (dark color) without reemission $=$ global warming. |
+
 
 *SECTION 15-11 Thermal Pollution, Global Warming, and Energy Resources
 435

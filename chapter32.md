@@ -341,15 +341,14 @@ There are four known types of force-or interactions-in nature. The electromagnet
 
 A comparison of the four forces is given in Table 32-1, where they are listed according to their (approximate) relative strengths. Although gravity may be the most obvious force in daily life (because of the huge mass of the Earth), on a nuclear scale gravity is by far the weakest of the four forces and its effect at the particle level can nearly always be ignored.
 
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|l|}{TABLE 32-1 The Four Forces in Nature} \\
-\hline Type & Relative Strength (approx., for 2 protons in nucleus) & Field Particle \\
-\hline Strong & 1 & Gluons (= g) \\
-\hline Electromagnetic & $10^{-2}$ & Photon ( $=\gamma$ ) \\
-\hline Weak & $10^{-6}$ & $\mathrm{W}^{ \pm}$and $\mathrm{Z}^{0}$ \\
-\hline Gravitational & $10^{-38}$ & Graviton (?) \\
-\hline
-\end{tabular}
+| TABLE 32-1 The Four Forces in Nature |  |  |
+| --- | --- | --- |
+| Type | Relative Strength (approx., for 2 protons in nucleus) | Field Particle |
+| Strong | 1 | Gluons (= g) |
+| Electromagnetic | $10^{-2}$ | Photon ( $=\gamma$ ) |
+| Weak | $10^{-6}$ | $\mathrm{W}^{ \pm}$and $\mathrm{Z}^{0}$ |
+| Gravitational | $10^{-38}$ | Graviton (?) |
+
 
 32-3 Particles and Antiparticles
 The positron, as we discussed in Sections 27-6 (pair production) and 30-5 ( $\beta^{+}$decay), is basically a positive electron. That is, many of its properties are the same as for the electron, such as mass, but it has the opposite electric charge $(+e)$. Other quantum numbers that we will discuss shortly are also reversed. The positron is said to be the antiparticle to the electron.
@@ -542,50 +541,19 @@ CHAPTER 32 Elementary Particles
 
 GIAN_PPA7_GE_32_915-946v4.1HR1.QXD 29-08-2014 15:21 Page 931
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 32-2 Particles (selected) ${ }^{\boldsymbol{\dagger}}$}
-\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|l|}
-\hline Category & Forces involved & Particle name & Symbol & Antiparticle & Spin & Mass ( $\mathrm{MeV} / \mathrm{c}^{2}$ ) & $\boldsymbol{B}$ [antiparticle & $\boldsymbol{L}_{\mathbf{e}}$ & $\boldsymbol{L}_{\boldsymbol{\mu}}$ & $\boldsymbol{L}_{\boldsymbol{\tau}}$ & $\boldsymbol{S}$ & Mean life & Principal Decay Modes \\
-\hline \multicolumn{14}{|l|}{Fundamental} \\
-\hline \multirow[t]{4}{*}{Gauge bosons (force carriers)} & str & Gluons & g & Self & 1 & 0 & 0 & 0 & 0 & 0 & 0 & Stable & \\
-\hline & em & Photon & $\gamma$ & Self & 1 & 0 & 0 & 0 & 0 & 0 & 0 & Stable & \\
-\hline & w, em & W & $\mathrm{W}^{+}$ & $\mathrm{W}^{-}$ & 1 & $80.385 \times 10^{3}$ & 0 & 0 & 0 & 0 & 0 & $3 \times 10^{-25}$ & $\mathrm{e} \nu_{\mathrm{e}}, \mu \nu_{\mu}, \tau \nu_{\tau}$, hadrons \\
-\hline & w & Z & $\mathrm{Z}^{0}$ & Self & 1 & $91.19 \times 10^{3}$ & 0 & 0 & 0 & 0 & 0 & $3 \times 10^{-25}$ & $\mathrm{e}^{+} \mathrm{e}^{-}, \mu^{+} \mu^{-}, \tau^{+} \tau^{-}$, hadrons \\
-\hline Higgs boson & w, str & Higgs & $\mathrm{H}^{0}$ & Self & 0 & $125 \times 10^{3}$ & 0 & 0 & 0 & 0 & 0 & $1.6 \times 10^{-22}$ & $\mathrm{b} \overline{\mathrm{b}}, \mathrm{Z}^{0} \mathrm{Z}^{0}, \mathrm{~W}^{+} \mathrm{W}^{-}, \mathrm{g} \overline{\mathrm{g}}, \tau \bar{\tau}, \gamma \gamma$ \\
-\hline \multirow{7}{*}{\begin{tabular}{l}
-Leptons \\
-Quarks
-\end{tabular}} & \multirow[t]{6}{*}{$\mathrm{w}, \mathrm{em}^{\ddagger}$} & Electron & $\mathrm{e}^{-}$ & $\mathrm{e}^{+}$ & $\frac{1}{2}$ & 0.511 & 0 & +1 & 0 & 0 & 0 & Stable & \\
-\hline & & Neutrino (e) & $\nu_{\mathrm{e}}$ & $\nu_{\mathrm{e}}$ & $\frac{1}{2}$ & $0\left(<0.14 \mathrm{eV} / c^{2}\right)^{\ddagger}$ & 0 & +1 & 0 & 0 & 0 & Stable & \\
-\hline & & Muon & $\mu^{-}$ & $\mu^{+}$ & $\frac{1}{2}$ & 105.7 & 0 & 0 & +1 & 0 & 0 & $2.20 \times 10^{-6}$ & $\mathrm{e}^{-} \bar{\nu}_{\mathrm{e}} \nu_{\mu}$ \\
-\hline & & Neutrino ( $\mu$ ) & $\nu_{\mu}$ & $\bar{\nu}_{\mu}$ & $\frac{1}{2}$ & $0\left(<0.14 \mathrm{eV} / c^{2}\right)^{\ddagger}$ & 0 & 0 & +1 & 0 & 0 & Stable & \\
-\hline & & Tau & $\tau^{-}$ & $\tau^{+}$ & $\frac{1}{2}$ & 1777 & 0 & 0 & 0 & +1 & 0 & $2.91 \times 10^{-13}$ & $\mu^{-} \bar{\nu}_{\mu} \nu_{\tau}, \mathrm{e}^{-} \bar{\nu}_{\mathrm{e}} \nu_{\tau}$, hadrons $+\nu_{\tau}$ \\
-\hline & & Neutrino ( $\tau$ ) & & $\bar{\nu}_{\tau}$ & $\frac{1}{2}$ & $0\left(<0.14 \mathrm{eV} / c^{2}\right)^{\ddagger}$ & 0 & 0 & 0 & +1 & 0 & Stable & \\
-\hline & w, em, str & & & & & & & & & & & & \\
-\hline \multicolumn{14}{|l|}{Hadrons (composite), selected} \\
-\hline \multirow[t]{9}{*}{Mesons (quarkantiquark)} & \multirow[t]{9}{*}{str, em, w} & Pion & $\pi^{+}$ & $\pi^{-}$ & 0 & 139.6 & 0 & 0 & 0 & 0 & 0 & $2.60 \times 10^{-8}$ & $\mu^{+} \nu_{\mu}$ \\
-\hline & & & $\pi^{0}$ & Self & 0 & 135.0 & 0 & 0 & 0 & 0 & 0 & $0.85 \times 10^{-16}$ & $2 \gamma$ \\
-\hline & & Kaon & $\mathrm{K}^{+}$ & $\mathrm{K}^{-}$ & 0 & 493.7 & 0 & 0 & 0 & 0 & +1 & $1.24 \times 10^{-8}$ & $\mu^{+} \nu_{\mu}, \pi^{+} \pi^{0}$ \\
-\hline & & & $\mathrm{K}_{\mathrm{S}}^{0}$ & $\overline{\mathrm{K}}_{\mathrm{S}}^{0}$ & 0 & 497.6 & 0 & 0 & 0 & 0 & +1 & $0.895 \times 10^{-10}$ & $\pi^{+} \pi^{-}, 2 \pi^{0}$ \\
-\hline & & & $\mathrm{K}_{\mathrm{L}}^{0}$ & $\overline{\mathrm{K}}_{\mathrm{L}}^{0}$ & 0 & 497.6 & 0 & 0 & 0 & 0 & +1 & $5.12 \times 10^{-8}$ & $\pi^{ \pm} \mathrm{e}^{\mp} \bar{\nu}_{\mathrm{e}}, \pi^{ \pm} \mu^{\mp}\left(\bar{\nu}_{\mu}, 3 \pi\right.$ \\
-\hline & & Eta & $\eta^{0}$ & Self & 0 & 547.9 & 0 & 0 & 0 & 0 & 0 & $5.1 \times 10^{-19}$ & $2 \gamma, 3 \pi^{0}, \pi^{+} \pi^{-} \pi^{0}$ \\
-\hline & & Rho & $\rho^{0}$ & Self & 1 & 775 & 0 & 0 & 0 & 0 & 0 & $4.4 \times 10^{-24}$ & $\pi^{+} \pi^{-}, 2 \pi^{0}$ \\
-\hline & & & $\rho^{+}$ & $\rho^{-}$ & 1 & 775 & 0 & 0 & 0 & 0 & 0 & $4.4 \times 10^{-24}$ & $\pi^{+} \pi^{0}$ \\
-\hline & & \multicolumn{12}{|c|}{and others} \\
-\hline \multirow[t]{9}{*}{Baryons (3 quarks)} & \multirow[t]{9}{*}{str, em, w} & Proton & p & $\underline{\mathrm{p}}$ & $\frac{1}{2}$ & 938.3 & +1 & 0 & 0 & 0 & 0 & Stable & \\
-\hline & & Neutron & n & n & $\frac{1}{2}$ & 939.6 & +1 & 0 & 0 & 0 & 0 & 882 & $\mathrm{pe}^{-} \bar{\nu}_{\mathrm{e}}$ \\
-\hline & & Lambda & $\Lambda^{0}$ & $\bar{\Lambda}^{0}$ & $\frac{1}{2}$ & 1115.7 & +1 & 0 & 0 & 0 & -1 & $2.63 \times 10^{-10}$ & $\mathrm{p} \pi^{-}, \mathrm{n} \pi^{0}$ \\
-\hline & & Sigma & $\Sigma^{+}$ & $\bar{\Sigma}^{-}$ & $\frac{1}{2}$ & 1189.4 & +1 & 0 & 0 & 0 & -1 & $0.80 \times 10^{-10}$ & $\mathrm{p} \pi^{0}, \mathrm{n} \pi^{+}$ \\
-\hline & & & $\Sigma^{0}$ & $\Sigma^{0}$ & $\frac{1}{2}$ & 1192.6 & +1 & 0 & 0 & 0 & -1 & $7.4 \times 10^{-20}$ & $\Lambda^{0} \gamma$ \\
-\hline & & & $\Sigma^{-}$ & $\bar{\Sigma}^{+}$ & $\frac{1}{2}$ & 1197.4 & +1 & 0 & 0 & 0 & -1 & $1.48 \times 10^{-10}$ & $\mathrm{n} \pi^{-}$ \\
-\hline & & Xi & & $\bar{\Xi}^{0}$ & $\frac{1}{2}$ & 1314.9 & +1 & 0 & 0 & 0 & -2 & $2.90 \times 10^{-10}$ & $\Lambda^{0} \pi^{0}$ \\
-\hline & & & $\Xi^{0}$
-$\Xi^{-}$ & $\Xi^{+}$ & $\frac{1}{2}$ & 1321.7 & +1 & 0 & 0 & 0 & -2 & $1.64 \times 10^{-10}$ & $\Lambda^{0} \pi^{-}$ \\
-\hline & & Omega and others & $\Omega^{-}$ & $\Omega^{+}$ & $\frac{3}{2}$ & 1672.5 & +1 & 0 & 0 & 0 & -3 & $0.82 \times 10^{-10}$ & $\Xi^{0} \pi^{-}, \Lambda^{0} \mathrm{~K}^{-}, \Xi^{-} \pi^{0}$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 32-2 Particles (selected) ${**
+
+| Category | Forces involved | Particle name | Symbol | Antiparticle | Spin | Mass ( $\mathrm{MeV} / \mathrm{c}^{2}$ ) | $\boldsymbol{B}$ [antiparticle | $\boldsymbol{L}_{\mathbf{e}}$ | $\boldsymbol{L}_{\boldsymbol{\mu}}$ | $\boldsymbol{L}_{\boldsymbol{\tau}}$ | $\boldsymbol{S}$ | Mean life | Principal Decay Modes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fundamental |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| \multirow[t]{4}{*}{Gauge bosons (force carriers)} | str | Gluons | g | Self | 1 | 0 | 0 | 0 | 0 | 0 | 0 | Stable |  |
+|  | em | Photon | $\gamma$ | Self | 1 | 0 | 0 | 0 | 0 | 0 | 0 | Stable |  |
+|  | w, em | W | $\mathrm{W}^{+}$ | $\mathrm{W}^{-}$ | 1 | $80.385 \times 10^{3}$ | 0 | 0 | 0 | 0 | 0 | $3 \times 10^{-25}$ | $\mathrm{e} \nu_{\mathrm{e}}, \mu \nu_{\mu}, \tau \nu_{\tau}$, hadrons |
+|  | w | Z | $\mathrm{Z}^{0}$ | Self | 1 | $91.19 \times 10^{3}$ | 0 | 0 | 0 | 0 | 0 | $3 \times 10^{-25}$ | $\mathrm{e}^{+} \mathrm{e}^{-}, \mu^{+} \mu^{-}, \tau^{+} \tau^{-}$, hadrons |
+| Higgs boson | w, str | Higgs | $\mathrm{H}^{0}$ | Self | 0 | $125 \times 10^{3}$ | 0 | 0 | 0 | 0 | 0 | $1.6 \times 10^{-22}$ | $\mathrm{b} \overline{\mathrm{b}}, \mathrm{Z}^{0} \mathrm{Z}^{0}, \mathrm{~W}^{+} \mathrm{W}^{-}, \mathrm{g} \overline{\mathrm{g}}, \tau \bar{\tau}, \gamma \gamma$ |
+| \multirow{7}{*}{
+Leptons |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Quarks |  |  |  |  |  |  |  |  |  |  |  |  |  |
 ${ }^{\dagger}$ See also Table 32-4 for particles with charm and bottom. $S$ in this Table stands for "strangeness" (see Section 32-8). More detail online at: pdg.lbl.gov.
 ${ }^{\ddagger}$ Neutrinos partake only in the weak interaction. Experimental upper limits on neutrino masses are given in parentheses, as obtained mainly from the WMAP survey (Chapter 33). Detection of neutrino oscillations suggests that at least one type of neutrino has a nonzero mass greater than $0.04 \mathrm{eV} / c^{2}$.
 
@@ -697,19 +665,18 @@ In 1963, M. Gell-Mann and G. Zweig proposed that none of the hadrons, not even t
 All quarks have spin $\frac{1}{2}$ and an electric charge of either $+\frac{2}{3} e$ or $-\frac{1}{3} e$ (that is, a fraction of the previously thought smallest charge $e$ ). Antiquarks have opposite sign of electric charge $Q$, baryon number $B$, strangeness $S$, charm $c$, bottom $b$, and top $t$. Other properties of quarks are shown in Table 32-3.
 ${ }^{\dagger}$ Gell-Mann chose the word from a phrase in James Joyce's Finnegans Wake.
 
-\begin{tabular}{|l|l|l|l|l|l|l|l|l|}
-\hline \multicolumn{9}{|l|}{TABLE 32-3 Properties of Quarks (Antiquarks have opposite sign $Q, B, S, c, b, t$ )} \\
-\hline \multicolumn{9}{|c|}{Quarks} \\
-\hline \multirow[b]{2}{*}{Name} & \multirow[b]{2}{*}{Symbol} & \multirow{2}{*}{Mass $\boldsymbol{(} \mathbf{M e V} \boldsymbol{/} \boldsymbol{c}^{\mathbf{2}} \boldsymbol{)}$} & Charge & Baryon Number & Strangeness & Charm & Bottom & Top \\
-\hline & & & $Q$ & $\boldsymbol{B}$ & $\boldsymbol{S}$ & $\boldsymbol{c}$ & $\boldsymbol{b}$ & $\boldsymbol{t}$ \\
-\hline Up & u & 2.3 & $+\frac{2}{3} e$ & $\frac{1}{3}$ & 0 & 0 & 0 & 0 \\
-\hline Down & d & 4.8 & $-\frac{1}{3} e$ & $\frac{1}{3}$ & 0 & 0 & 0 & 0 \\
-\hline Strange & s & 95 & $-\frac{1}{3} e$ & $\frac{1}{3}$ & -1 & 0 & 0 & 0 \\
-\hline Charm & c & 1275 & $+\frac{2}{3} e$ & $\frac{1}{3}$ & 0 & +1 & 0 & 0 \\
-\hline Bottom & b & 4180 & $-\frac{1}{3} e$ & $\frac{1}{3}$ & 0 & 0 & -1 & 0 \\
-\hline Top ${ }^{\dagger}$ & t & 173,500 & $+\frac{2}{3} e$ & $\frac{1}{3}$ & 0 & 0 & 0 & +1 \\
-\hline
-\end{tabular}
+| TABLE 32-3 Properties of Quarks (Antiquarks have opposite sign $Q, B, S, c, b, t$ ) |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Quarks |  |  |  |  |  |  |  |  |
+| \multirow[b]{2}{*}{Name} | \multirow[b]{2}{*}{Symbol} | \multirow{2}{*}{Mass $\boldsymbol{(} \mathbf{M e V} \boldsymbol{/} \boldsymbol{c}^{\mathbf{2}} \boldsymbol{)}$} | Charge | Baryon Number | Strangeness | Charm | Bottom | Top |
+|  |  |  | $Q$ | $\boldsymbol{B}$ | $\boldsymbol{S}$ | $\boldsymbol{c}$ | $\boldsymbol{b}$ | $\boldsymbol{t}$ |
+| Up | u | 2.3 | $+\frac{2}{3} e$ | $\frac{1}{3}$ | 0 | 0 | 0 | 0 |
+| Down | d | 4.8 | $-\frac{1}{3} e$ | $\frac{1}{3}$ | 0 | 0 | 0 | 0 |
+| Strange | s | 95 | $-\frac{1}{3} e$ | $\frac{1}{3}$ | -1 | 0 | 0 | 0 |
+| Charm | c | 1275 | $+\frac{2}{3} e$ | $\frac{1}{3}$ | 0 | +1 | 0 | 0 |
+| Bottom | b | 4180 | $-\frac{1}{3} e$ | $\frac{1}{3}$ | 0 | 0 | -1 | 0 |
+| Top ${ }^{\dagger}$ | t | 173,500 | $+\frac{2}{3} e$ | $\frac{1}{3}$ | 0 | 0 | 0 | +1 |
+
 ${ }^{\dagger}$ The top quark, with its extremely short lifetime of $5 \times 10^{-25} \mathrm{~s}$, does not live long enough to form hadrons.
 
 934
@@ -721,26 +688,22 @@ CHAPTER 32 Elementary Particles
 
 GIAN_PPA7_GE_32_915-946v4.1HR1.QXD 29-08-2014 15:21 Page 935
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 32-4 Partial List of Heavy Hadrons, with Charm and Bottom ( $\boldsymbol{L}_{\mathbf{e}}=\boldsymbol{L}_{\boldsymbol{\mu}}=\boldsymbol{L}_{\boldsymbol{\tau}}=\mathbf{0}$ )}
-\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|}
-\hline Category & Particle & Antiparticle & Spin & Mass $\boldsymbol{(} \mathbf{M e V} \boldsymbol{/} \boldsymbol{c}^{\mathbf{2}} \boldsymbol{)}$ & Baryon Number $\boldsymbol{B}$ & Strangeness $\boldsymbol{S}$ & Charm $c$ & Bottom $\boldsymbol{b}$ & Mean life (s) & Principal Decay Modes \\
-\hline \multirow[t]{7}{*}{Mesons} & D+ & $\mathrm{D}^{-}$ & 0 & 1869.6 & 0 & 0 & +1 & 0 & $10.4 \times 10^{-13}$ & K + others, e + others \\
-\hline & D ${ }^{0}$ & $\overline{\mathrm{D}}^{0}$ & 0 & 1864.9 & 0 & 0 & +1 & 0 & $4.1 \times 10^{-13}$ & $\mathrm{K}+$ others, $\mu$ or $\mathrm{e}+$ others \\
-\hline & $\mathrm{D}_{S}^{+}$ & $\mathrm{D}_{s}^{-}$ & 0 & 1968.5 & 0 & +1 & +1 & 0 & $5.0 \times 10^{-13}$ & $\mathrm{K}+$ others \\
-\hline & $\mathrm{J} / \psi$ (3097) & Self & 1 & 3096.9 & 0 & 0 & 0 & 0 & $0.71 \times 10^{-20}$ & Hadrons, $\mathrm{e}^{+} \mathrm{e}^{-}, \mu^{+} \mu^{-}$ \\
-\hline & Y (9460) & Self & 1 & 9460.3 & 0 & 0 & 0 & 0 & $1.2 \times 10^{-20}$ & Hadrons, $\mu^{+} \mu^{-}, \mathrm{e}^{+} \mathrm{e}^{-}, \tau^{+} \tau^{-}$ \\
-\hline & $\mathrm{B}^{-}$ & B ${ }^{+}$ & 0 & 5279.3 & 0 & 0 & 0 & -1 & $1.6 \times 10^{-12}$ & $\mathrm{D}^{0}+$ others \\
-\hline & $\mathrm{B}^{0}$ & $\overline{\mathrm{B}}^{0}$ & 0 & 5279.6 & 0 & 0 & 0 & -1 & $1.5 \times 10^{-12}$ & $\mathrm{D}^{0}+$ others \\
-\hline \multirow[t]{5}{*}{Baryons} & $\Lambda_{c}^{+}$ & $\Lambda_{\bar{c}}^{-}$ & $\frac{1}{2}$ & 2286 & +1 & 0 & +1 & 0 & $2.0 \times 10^{-13}$ & Hadrons (e.g., $\Lambda+$ others) \\
-\hline & $\Sigma_{c}^{++}$ & $\Sigma_{c}^{--}$ & $\frac{1}{2}$ & 2454 & +1 & 0 & +1 & 0 & $2.9 \times 10^{-22}$ & $\Lambda_{c}^{+} \pi^{+}$ \\
-\hline & $\Sigma_{c}^{+}$ & $\Sigma_{\bar{c}}^{-}$ & $\frac{1}{2}$ & 2453 & +1 & 0 & +1 & 0 & $>1.4 \times 10^{-22}$ & $\Lambda_{c}^{+} \pi^{0}$ \\
-\hline & $\Sigma_{c}^{0}$ & $\bar{\Sigma}_{c}^{0}$ & $\frac{1}{2}$ & 2454 & +1 & 0 & +1 & 0 & $3.0 \times 10^{-22}$ & $\Lambda_{c}^{+} \pi^{-}$ \\
-\hline & $\Lambda_{b}^{0}$ & $\bar{\Lambda}_{b}^{0}$ & $\frac{1}{2}$ & 5619 & +1 & 0 & 0 & -1 & $1.4 \times 10^{-12}$ & $\mathrm{J} / \psi \Lambda^{0}, \mathrm{pD}^{0} \pi^{-}, \Lambda_{c}^{+} \pi^{+} \pi^{-} \pi^{-}$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 32-4 Partial List of Heavy Hadrons, with Charm and Bottom ( $\boldsymbol{L**
+
+| Category | Particle | Antiparticle | Spin | Mass $\boldsymbol{(} \mathbf{M e V} \boldsymbol{/} \boldsymbol{c}^{\mathbf{2}} \boldsymbol{)}$ | Baryon Number $\boldsymbol{B}$ | Strangeness $\boldsymbol{S}$ | Charm $c$ | Bottom $\boldsymbol{b}$ | Mean life (s) | Principal Decay Modes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| \multirow[t]{7}{*}{Mesons} | D+ | $\mathrm{D}^{-}$ | 0 | 1869.6 | 0 | 0 | +1 | 0 | $10.4 \times 10^{-13}$ | K + others, e + others |
+|  | D ${ }^{0}$ | $\overline{\mathrm{D}}^{0}$ | 0 | 1864.9 | 0 | 0 | +1 | 0 | $4.1 \times 10^{-13}$ | $\mathrm{K}+$ others, $\mu$ or $\mathrm{e}+$ others |
+|  | $\mathrm{D}_{S}^{+}$ | $\mathrm{D}_{s}^{-}$ | 0 | 1968.5 | 0 | +1 | +1 | 0 | $5.0 \times 10^{-13}$ | $\mathrm{K}+$ others |
+|  | $\mathrm{J} / \psi$ (3097) | Self | 1 | 3096.9 | 0 | 0 | 0 | 0 | $0.71 \times 10^{-20}$ | Hadrons, $\mathrm{e}^{+} \mathrm{e}^{-}, \mu^{+} \mu^{-}$ |
+|  | Y (9460) | Self | 1 | 9460.3 | 0 | 0 | 0 | 0 | $1.2 \times 10^{-20}$ | Hadrons, $\mu^{+} \mu^{-}, \mathrm{e}^{+} \mathrm{e}^{-}, \tau^{+} \tau^{-}$ |
+|  | $\mathrm{B}^{-}$ | B ${ }^{+}$ | 0 | 5279.3 | 0 | 0 | 0 | -1 | $1.6 \times 10^{-12}$ | $\mathrm{D}^{0}+$ others |
+|  | $\mathrm{B}^{0}$ | $\overline{\mathrm{B}}^{0}$ | 0 | 5279.6 | 0 | 0 | 0 | -1 | $1.5 \times 10^{-12}$ | $\mathrm{D}^{0}+$ others |
+| \multirow[t]{5}{*}{Baryons} | $\Lambda_{c}^{+}$ | $\Lambda_{\bar{c}}^{-}$ | $\frac{1}{2}$ | 2286 | +1 | 0 | +1 | 0 | $2.0 \times 10^{-13}$ | Hadrons (e.g., $\Lambda+$ others) |
+|  | $\Sigma_{c}^{++}$ | $\Sigma_{c}^{--}$ | $\frac{1}{2}$ | 2454 | +1 | 0 | +1 | 0 | $2.9 \times 10^{-22}$ | $\Lambda_{c}^{+} \pi^{+}$ |
+|  | $\Sigma_{c}^{+}$ | $\Sigma_{\bar{c}}^{-}$ | $\frac{1}{2}$ | 2453 | +1 | 0 | +1 | 0 | $>1.4 \times 10^{-22}$ | $\Lambda_{c}^{+} \pi^{0}$ |
+|  | $\Sigma_{c}^{0}$ | $\bar{\Sigma}_{c}^{0}$ | $\frac{1}{2}$ | 2454 | +1 | 0 | +1 | 0 | $3.0 \times 10^{-22}$ | $\Lambda_{c}^{+} \pi^{-}$ |
+|  | $\Lambda_{b}^{0}$ | $\bar{\Lambda}_{b}^{0}$ | $\frac{1}{2}$ | 5619 | +1 | 0 | 0 | -1 | $1.4 \times 10^{-12}$ | $\mathrm{J} / \psi \Lambda^{0}, \mathrm{pD}^{0} \pi^{-}, \Lambda_{c}^{+} \pi^{+} \pi^{-} \pi^{-}$ |
 
 All hadrons are considered to be made up of combinations of quarks (plus the gluons that hold them together), and their properties are described by looking at their quark content. Mesons consist of a quark-antiquark pair. For example, a $\pi^{+}$meson is a $\mathrm{u} \overline{\mathrm{d}}$ combination: note that for the $\mathrm{u} \overline{\mathrm{d}}$ pair (Table 32-3), $Q=\frac{2}{3} e+\frac{1}{3} e=+1 e, B=\frac{1}{3}-\frac{1}{3}=0, S=0+0=0$, as they must for a $\pi^{+}$; and a $\mathrm{K}^{+}=\mathrm{u} \overline{\mathrm{s}}$, with $Q=+1, B=0, S=+1$. A $\pi^{0}$ can be made of u $\overline{\mathrm{u}}$ or $\mathrm{d} \overline{\mathrm{d}}$.
 
@@ -752,59 +715,16 @@ Today, the truly fundamental particles are considered to be the six quarks, the 
 
 EXERCISE C Return to the Chapter-Opening Questions, page 915, and answer them again now. Try to explain why you may have answered differently the first time.
 
-\begin{tabular}{|l|l|l|l|l|l|}
-\hline \multicolumn{6}{|l|}{TABLE 32-5 The Fundamental Particles ${ }^{\boldsymbol{\dagger}}$ of the Standard Model} \\
-\hline Gauge bosons & \begin{tabular}{l}
-□ \\
-$\gamma$
-\end{tabular} & \begin{tabular}{l}
-□ \\
-g
-\end{tabular} & & $\mathrm{Z}^{0}$
-□ & $$\mathrm{W}^{ \pm}$$ \\
-\hline Higgs boson & $$\mathrm{H}^{0}$$ & \multicolumn{4}{|c|}{} \\
-\hline & \multicolumn{2}{|c|}{Quarks} & \multirow[t]{2}{*}{and} & \multicolumn{2}{|c|}{Leptons} \\
-\hline First generation & \begin{tabular}{l}
-□ \\
-u
-\end{tabular} & \begin{tabular}{l}
-□ \\
-d
-\end{tabular} & & \begin{tabular}{l}
-□ \\
-e
-\end{tabular} & \begin{tabular}{l}
-□ \\
-$\nu_{\mathrm{e}}$
-\end{tabular} \\
-\hline Second generation & \begin{tabular}{l}
-□ \\
-S
-\end{tabular} & \begin{tabular}{l}
-□ \\
-c
-\end{tabular} & & \begin{tabular}{l}
-□ \\
-$\mu$
-\end{tabular} & \begin{tabular}{l}
-□ \\
-$\nu_{\mu}$
-\end{tabular} \\
-\hline Third generation & \begin{tabular}{l}
-□ \\
-b
-\end{tabular} & \begin{tabular}{l}
-□ \\
-t
-\end{tabular} & & \begin{tabular}{l}
-□ \\
-$\tau$
-\end{tabular} & \begin{tabular}{l}
-□ \\
-$\nu_{\tau}$
-\end{tabular} \\
-\hline
-\end{tabular}
+| TABLE 32-5 The Fundamental Particles ${ ^{\boldsymbol{\dagger}}$ of the Standard Model} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Gauge bosons | □ $\gamma$ | □ g |  | $\mathrm{Z}^{0}$
+□ | $$\mathrm{W}^{ \pm}$$ |
+| Higgs boson | $$\mathrm{H}^{0}$$ |  |  |  |  |
+|  | Quarks | \multirow[t]{2}{*}{and} | Leptons |  |  |
+| First generation | □ u | □ d |  | □ e | □ $\nu_{\mathrm{e}}$ |
+| Second generation | □ S | □ c |  | □ $\mu$ | □ $\nu_{\mu}$ |
+| Third generation | □ b | □ t |  | □ $\tau$ | □ $\nu_{\tau}$ |
+
 ${ }^{\dagger}$ The graviton ( $\mathrm{G}^{0}$ ) has been hypothesized but not detected and may not be detectable. It is not part of the Standard Model.
 
 FIGURE 32-16 Quark compositions for several particles.

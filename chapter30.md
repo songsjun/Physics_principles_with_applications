@@ -127,20 +127,16 @@ $$1 \mathrm{u}=1.6605 \times 10^{-27} \mathrm{~kg}=931.5 \mathrm{MeV} / \mathrm{
 
 The rest masses of some of the basic particles are given in Table 30-1. As a rule of thumb, to remember, the masses of neutron and proton are about $1 \mathrm{GeV} / c^{2} \left(=1000 \mathrm{MeV} / c^{2}\right)$ which is about 2000 times the mass of an electron $\left(\approx \frac{1}{2} \mathrm{MeV} / c^{2}\right)$.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 30-1
-Rest Masses in Kilograms, Unified Atomic Mass Units, and MeV $/ \boldsymbol{c}^{\mathbf{2}}$}
-\begin{tabular}{|l|l|l|l|}
-\hline \multirow[b]{2}{*}{Object} & \multicolumn{3}{|c|}{Mass} \\
-\hline & kg & u & $\mathbf{M e V} \boldsymbol{/} \boldsymbol{c}^{\mathbf{2}}$ \\
-\hline Electron & $9.1094 \times 10^{-31}$ & 0.00054858 & 0.51100 \\
-\hline Proton & $1.67262 \times 10^{-27}$ & 1.007276 & 938.27 \\
-\hline ${ }_{1}^{1} \mathrm{H}$ atom & $1.67353 \times 10^{-27}$ & 1.007825 & 938.78 \\
-\hline Neutron & $1.67493 \times 10^{-27}$ & 1.008665 & 939.57 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 30-1
+Rest Masses in Kilograms, Unified Atomic Mass Units, and MeV $/ \boldsymbol{c**
+
+| \multirow[b]{2}{*}{Object} | Mass |  |  |
+| --- | --- | --- | --- |
+|  | kg | u | $\mathbf{M e V} \boldsymbol{/} \boldsymbol{c}^{\mathbf{2}}$ |
+| Electron | $9.1094 \times 10^{-31}$ | 0.00054858 | 0.51100 |
+| Proton | $1.67262 \times 10^{-27}$ | 1.007276 | 938.27 |
+| ${ }_{1}^{1} \mathrm{H}$ atom | $1.67353 \times 10^{-27}$ | 1.007825 | 938.78 |
+| Neutron | $1.67493 \times 10^{-27}$ | 1.008665 | 939.57 |
 
 Just as an electron has intrinsic spin and angular momentum quantum numbers, so too do nuclei and their constituents, the proton and neutron. Both the proton and the neutron are spin $\frac{1}{2}$ particles, just like the electron. A nucleus, made up of protons and neutrons, has a nuclear spin quantum number, $I$, that can be either integer or half integer, depending on whether it is made up of an even or an odd number of nucleons.
 

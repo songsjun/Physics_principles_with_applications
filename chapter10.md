@@ -82,35 +82,34 @@ $$m=\rho V=\left(7800 \mathrm{~kg} / \mathrm{m}^{3}\right)\left(0.024 \mathrm{~m
 TABLE 10-1
 Densities of Substances ${ }^{\ddagger}$
 
-\begin{tabular}{|l|l|}
-\hline Substance & Density, $\boldsymbol{\rho} \boldsymbol{(} \mathbf{k g} \boldsymbol{/} \mathbf{m}^{\mathbf{3}} \boldsymbol{)}$ \\
-\hline \multicolumn{2}{|l|}{Solids} \\
-\hline Aluminum & $2.70 \times 10^{3}$ \\
-\hline Iron and steel & $7.8 \times 10^{3}$ \\
-\hline Copper & $8.9 \times 10^{3}$ \\
-\hline Lead & $11.3 \times 10^{3}$ \\
-\hline Gold & $19.3 \times 10^{3}$ \\
-\hline Concrete & $2.3 \times 10^{3}$ \\
-\hline Granite & $2.7 \times 10^{3}$ \\
-\hline Wood (typical) & $0.3-0.9 \times 10^{3}$ \\
-\hline Glass, common & $2.4-2.8 \times 10^{3}$ \\
-\hline Ice ( $\mathrm{H}_{2} \mathrm{O}$ ) & $0.917 \times 10^{3}$ \\
-\hline Bone & $1.7-2.0 \times 10^{3}$ \\
-\hline \multicolumn{2}{|l|}{Liquids} \\
-\hline Water $\left(4^{\circ} \mathrm{C}\right)$ & $1.000 \times 10^{3}$ \\
-\hline Sea water & $1.025 \times 10^{3}$ \\
-\hline Blood, plasma & $1.03 \times 10^{3}$ \\
-\hline Blood, whole & $1.05 \times 10^{3}$ \\
-\hline Mercury & $13.6 \times 10^{3}$ \\
-\hline Alcohol, ethyl & $0.79 \times 10^{3}$ \\
-\hline Gasoline & $0.7-0.8 \times 10^{3}$ \\
-\hline \multicolumn{2}{|l|}{Gases} \\
-\hline Air & 1.29 \\
-\hline Helium & 0.179 \\
-\hline Carbon dioxide & 1.98 \\
-\hline Water (steam) $\left(100^{\circ} \mathrm{C}\right)$ & 0.598 \\
-\hline
-\end{tabular}
+| Substance | Density, $\boldsymbol{\rho} \boldsymbol{(} \mathbf{k g} \boldsymbol{/} \mathbf{m}^{\mathbf{3}} \boldsymbol{)}$ |
+| --- | --- |
+| Solids |  |
+| Aluminum | $2.70 \times 10^{3}$ |
+| Iron and steel | $7.8 \times 10^{3}$ |
+| Copper | $8.9 \times 10^{3}$ |
+| Lead | $11.3 \times 10^{3}$ |
+| Gold | $19.3 \times 10^{3}$ |
+| Concrete | $2.3 \times 10^{3}$ |
+| Granite | $2.7 \times 10^{3}$ |
+| Wood (typical) | $0.3-0.9 \times 10^{3}$ |
+| Glass, common | $2.4-2.8 \times 10^{3}$ |
+| Ice ( $\mathrm{H}_{2} \mathrm{O}$ ) | $0.917 \times 10^{3}$ |
+| Bone | $1.7-2.0 \times 10^{3}$ |
+| Liquids |  |
+| Water $\left(4^{\circ} \mathrm{C}\right)$ | $1.000 \times 10^{3}$ |
+| Sea water | $1.025 \times 10^{3}$ |
+| Blood, plasma | $1.03 \times 10^{3}$ |
+| Blood, whole | $1.05 \times 10^{3}$ |
+| Mercury | $13.6 \times 10^{3}$ |
+| Alcohol, ethyl | $0.79 \times 10^{3}$ |
+| Gasoline | $0.7-0.8 \times 10^{3}$ |
+| Gases |  |
+| Air | 1.29 |
+| Helium | 0.179 |
+| Carbon dioxide | 1.98 |
+| Water (steam) $\left(100^{\circ} \mathrm{C}\right)$ | 0.598 |
+
 ${ }^{\ddagger}$ Densities are given at $0^{\circ} \mathrm{C}$ and 1 atm pressure unless otherwise specified.
 ${ }^{\dagger}$ Section 9-5.
 
@@ -301,29 +300,14 @@ CHAPTER 10 Fluids
 
 GIAN_PPA7_GE_10_260-291v6.1HR4.QXD 29-08-2014 14:45 Page 267
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 10-2 Conversion Factors Between Different Units of Pressure}
-\begin{tabular}{|l|l|}
-\hline In Terms of $\mathbf{1} \mathbf{P a} \boldsymbol{=} \mathbf{1} \mathbf{N} / \mathbf{m}^{\mathbf{2}}$ & 1 atm in Different Units \\
-\hline \multirow{3}{*}{\begin{tabular}{l}
+**TABLE 10-2 Conversion Factors Between Different Units of Pressure**
+
+| In Terms of $\mathbf{1} \mathbf{P a} \boldsymbol{=} \mathbf{1} \mathbf{N} / \mathbf{m}^{\mathbf{2}}$ | 1 atm in Different Units |
+| --- | --- |
+| \multirow{3}{*}{
 $1 \mathrm{~atm}=1.013 \times 10^{5} \mathrm{~N} / \mathrm{m}^{2}$
-$$=1.013 \times 10^{5} \mathrm{~Pa}=101.3 \mathrm{kPa}$$ \\
-1 bar $=1.000 \times 10^{5} \mathrm{~N} / \mathrm{m}^{2}$
-\end{tabular}} & $1 \mathrm{~atm}=1.013 \times 10^{5} \mathrm{~N} / \mathrm{m}^{2}$ \\
-\hline & \\
-\hline & $1 \mathrm{~atm}=1.013$ bar \\
-\hline 1 dyne $/ \mathrm{cm}^{2}=0.1 \mathrm{~N} / \mathrm{m}^{2}$ & $1 \mathrm{~atm}=1.013 \times 10^{6}$ dyne $/ \mathrm{cm}^{2}$ \\
-\hline $1 \mathrm{lb} / \mathrm{in}^{2}=6.90 \times 10^{3} \mathrm{~N} / \mathrm{m}^{2}$ & $1 \mathrm{~atm}=14.7 \mathrm{lb} / \mathrm{in}^{2}$ \\
-\hline $1 \mathrm{lb} / \mathrm{ft}^{2}=47.9 \mathrm{~N} / \mathrm{m}^{2}$ & $1 \mathrm{~atm}=2.12 \times 10^{3} \mathrm{lb} / \mathrm{ft}^{2}$ \\
-\hline $1 \mathrm{~cm}-\mathrm{Hg}=1.33 \times 10^{3} \mathrm{~N} / \mathrm{m}^{2}$ & $1 \mathrm{~atm}=76.0 \mathrm{~cm}-\mathrm{Hg}$ \\
-\hline $1 \mathrm{~mm}-\mathrm{Hg}=133 \mathrm{~N} / \mathrm{m}^{2}$ & $1 \mathrm{~atm}=760 \mathrm{~mm}-\mathrm{Hg}$ \\
-\hline 1 torr $=133 \mathrm{~N} / \mathrm{m}^{2}$ & $1 \mathrm{~atm}=760$ torr \\
-\hline $1 \mathrm{~mm}-\mathrm{H}_{2} \mathrm{O}\left(4^{\circ} \mathrm{C}\right)=9.80 \mathrm{~N} / \mathrm{m}^{2}$ & $1 \mathrm{~atm}=1.03 \times 10^{4} \mathrm{~mm}-\mathrm{H}_{2} \mathrm{O}\left(4^{\circ} \mathrm{C}\right) \approx 10 \mathrm{~m}$ of water \\
-\hline & \\
-\hline
-\end{tabular}
-\end{table}
+$$=1.013 \times 10^{5} \mathrm{~Pa}=101.3 \mathrm{kPa}$$ |  |
+| 1 bar $=1.000 \times 10^{5} \mathrm{~N} / \mathrm{m}^{2}$ |  |
 
 Atmospheric pressure can be measured by a modified kind of mercury manometer with one end closed, called a mercury barometer (Fig. 10-8). The glass tube is completely filled with mercury and then inverted into the bowl of mercury. If the tube is long enough, the level of the mercury will drop, leaving a vacuum at the top of the tube, since atmospheric pressure can support a column of mercury only about 76 cm high (exactly 76.0 cm at standard atmospheric pressure). That is, a column of mercury 76 cm high exerts the same pressure as the atmosphere ${ }^{\dagger}$ :
 $$\begin{aligned}
@@ -795,22 +779,21 @@ ${ }^{\ddagger}$ The Society of Automotive Engineers assigns numbers to represen
 
 FIGURE 10-31 Determination of viscosity.
 
-\begin{tabular}{|l|l|}
-\hline \multicolumn{2}{|l|}{TABLE 10-3 Coefficients of Viscosity} \\
-\hline Fluid (temperature in ${ }^{\circ} \mathrm{C}$ ) & Coefficient of Viscosity, $\boldsymbol{\eta}(\mathbf{P a} \cdot \mathbf{s})^{\dagger}$ \\
-\hline Water ( $0^{\circ}$ ) & $1.8 \times 10^{-3}$ \\
-\hline ( $20^{\circ}$ ) & $1.0 \times 10^{-3}$ \\
-\hline ( $100^{\circ}$ ) & $0.3 \times 10^{-3}$ \\
-\hline Whole blood ( $37^{\circ}$ ) & $\approx 4 \times 10^{-3}$ \\
-\hline Blood plasma ( $37^{\circ}$ ) & $\approx 1.5 \times 10^{-3}$ \\
-\hline Ethyl alcohol ( $20^{\circ}$ ) & $1.2 \times 10^{-3}$ \\
-\hline Engine oil ( $30^{\circ}$ ) (SAE 10) & $200 \times 10^{-3}$ \\
-\hline Glycerine ( $20^{\circ}$ ) & $1500 \times 10^{-3}$ \\
-\hline Air ( $20^{\circ}$ ) & $0.018 \times 10^{-3}$ \\
-\hline Hydrogen ( $0^{\circ}$ ) & $0.009 \times 10^{-3}$ \\
-\hline Water vapor ( $100^{\circ}$ ) & $0.013 \times 10^{-3}$ \\
-\hline
-\end{tabular}
+| TABLE 10-3 Coefficients of Viscosity |  |
+| --- | --- |
+| Fluid (temperature in ${ }^{\circ} \mathrm{C}$ ) | Coefficient of Viscosity, $\boldsymbol{\eta}(\mathbf{P a} \cdot \mathbf{s})^{\dagger}$ |
+| Water ( $0^{\circ}$ ) | $1.8 \times 10^{-3}$ |
+| ( $20^{\circ}$ ) | $1.0 \times 10^{-3}$ |
+| ( $100^{\circ}$ ) | $0.3 \times 10^{-3}$ |
+| Whole blood ( $37^{\circ}$ ) | $\approx 4 \times 10^{-3}$ |
+| Blood plasma ( $37^{\circ}$ ) | $\approx 1.5 \times 10^{-3}$ |
+| Ethyl alcohol ( $20^{\circ}$ ) | $1.2 \times 10^{-3}$ |
+| Engine oil ( $30^{\circ}$ ) (SAE 10) | $200 \times 10^{-3}$ |
+| Glycerine ( $20^{\circ}$ ) | $1500 \times 10^{-3}$ |
+| Air ( $20^{\circ}$ ) | $0.018 \times 10^{-3}$ |
+| Hydrogen ( $0^{\circ}$ ) | $0.009 \times 10^{-3}$ |
+| Water vapor ( $100^{\circ}$ ) | $0.013 \times 10^{-3}$ |
+
 $${ }^{\dagger} 1 \mathrm{~Pa} \cdot \mathrm{~s}=10 \text { poise }(\mathrm{P})=1000 \mathrm{cP} .$$
 
 *SECTION 10-12 Flow inTubes: Poiseuille's Equation, Blood Flow
@@ -877,24 +860,20 @@ Soaps and detergents lower the surface tension of water. This is desirable for w
 
 Surface tension plays a role in another interesting phenomenon, capillarity. It is a common observation that water in a glass container rises up slightly where it touches the glass, Fig. 10-37a. The water is said to "wet" the glass. Mercury, on the other hand, is depressed when it touches the glass, Fig. 10-37b; the mercury does not wet the glass. Whether a liquid wets a solid surface is determined by the relative strength of the cohesive forces between the molecules of the liquid compared to the adhesive forces between the molecules of the liquid and those of the container. Cohesion refers to the force between molecules of the same type, whereas adhesion refers to the force between molecules of different types. Water wets glass because the water molecules are more strongly attracted to the glass molecules than they are to other water molecules. The opposite is true for mercury: the cohesive forces are stronger than the adhesive forces.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 10-4 Surface Tension of Some Substances}
-\begin{tabular}{|l|l|}
-\hline Substance & Surface Tension ( $\mathrm{N} / \mathrm{m}$ ) \\
-\hline Mercury ( $20^{\circ} \mathrm{C}$ ) & 0.44 \\
-\hline Blood, whole $\left(37^{\circ} \mathrm{C}\right)$ & 0.058 \\
-\hline Blood, plasma ( $37^{\circ} \mathrm{C}$ ) & 0.073 \\
-\hline Alcohol, ethyl ( $20^{\circ} \mathrm{C}$ ) & 0.023 \\
-\hline Water $\left(0^{\circ} \mathrm{C}\right)$ & 0.076 \\
-\hline $\left(20^{\circ} \mathrm{C}\right)$ & 0.072 \\
-\hline $\left(100^{\circ} \mathrm{C}\right)$ & 0.059 \\
-\hline Benzene ( $20^{\circ} \mathrm{C}$ ) & 0.029 \\
-\hline Soap solution $\left(20^{\circ} \mathrm{C}\right)$ & $\approx 0.025$ \\
-\hline Oxygen $\left(-193^{\circ} \mathrm{C}\right)$ & 0.016 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 10-4 Surface Tension of Some Substances**
+
+| Substance | Surface Tension ( $\mathrm{N} / \mathrm{m}$ ) |
+| --- | --- |
+| Mercury ( $20^{\circ} \mathrm{C}$ ) | 0.44 |
+| Blood, whole $\left(37^{\circ} \mathrm{C}\right)$ | 0.058 |
+| Blood, plasma ( $37^{\circ} \mathrm{C}$ ) | 0.073 |
+| Alcohol, ethyl ( $20^{\circ} \mathrm{C}$ ) | 0.023 |
+| Water $\left(0^{\circ} \mathrm{C}\right)$ | 0.076 |
+| $\left(20^{\circ} \mathrm{C}\right)$ | 0.072 |
+| $\left(100^{\circ} \mathrm{C}\right)$ | 0.059 |
+| Benzene ( $20^{\circ} \mathrm{C}$ ) | 0.029 |
+| Soap solution $\left(20^{\circ} \mathrm{C}\right)$ | $\approx 0.025$ |
+| Oxygen $\left(-193^{\circ} \mathrm{C}\right)$ | 0.016 |
 
 (b)
 
@@ -1108,13 +1087,12 @@ FIGURE 10-47 Problem 1.
 6. (II) If 4.0 L of antifreeze solution (specific gravity $=0.80$ ) is added to 5.0 L of water to make a $9.0-\mathrm{L}$ mixture, what is the specific gravity of the mixture?
 7. (III) The Earth is not a uniform sphere, but has regions of varying density. Consider a simple model of the Earth divided into three regions-inner core, outer core, and mantle. Each region is taken to have a unique constant density (the average density of that region in the real Earth):
 
-\begin{tabular}{lcc}
-\hline Region & Radius $(\mathbf{k m})$ & Density $\left(\mathbf{k g} / \mathbf{m}^{\mathbf{3}}\right)$ \\
-\hline Inner Core & $0-1220$ & 13,000 \\
-Outer Core & $1220-3480$ & 11,100 \\
-Mantle & $3480-6380$ & 4400 \\
-\hline
-\end{tabular}
+| Region | Radius $(\mathbf{k m})$ | Density $\left(\mathbf{k g} / \mathbf{m}^{\mathbf{3}}\right)$ |
+| --- | --- | --- |
+| Inner Core | $0-1220$ | 13,000 |
+| Outer Core | $1220-3480$ | 11,100 |
+| Mantle | $3480-6380$ | 4400 |
+
 (a) Use this model to predict the average density of the entire Earth. (b) If the radius of the Earth is 6380 km and its mass is $5.98 \times 10^{24} \mathrm{~kg}$, determine the actual average density of the Earth and compare it (as a percent difference) with the one you determined in (a).
 
 Problems

@@ -547,23 +547,18 @@ Large doses of radiation can cause unpleasant symptoms such as nausea, fatigue, 
 
 The effects of low doses over a long time are difficult to determine and are not well known as yet.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 31-1 Relative Biological Effectiveness (RBE)}
-\begin{tabular}{lc}
-\hline Type & RBE \\
-\hline X- and $\gamma$ rays & 1 \\
-$\beta$ (electrons) & 1 \\
-Protons & 2 \\
-Slow neutrons & 5 \\
-Fast neutrons & $\approx 10$ \\
-\begin{tabular}{l}
-$\alpha$ particles and \\
-heavy ions
-\end{tabular} & $\approx 20$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 31-1 Relative Biological Effectiveness (RBE)**
+
+| Type | RBE |
+| --- | --- |
+| X- and $\gamma$ rays | 1 |
+| $\beta$ (electrons) | 1 |
+| Protons | 2 |
+| Slow neutrons | 5 |
+| Fast neutrons | $\approx 10$ |
+| 
+$\alpha$ particles and |  |
+| heavy ions |  |
 
 PHYSICS APPLIED
 Radon
@@ -803,18 +798,17 @@ A reconstructed image based on the density of H atoms (that is, the intensity of
 
 NMR imaging is considered to be noninvasive. We can calculate the energy of the photons involved: as mentioned above, in a $1.0-\mathrm{T}$ magnetic field, $f=42.58 \mathrm{MHz}$ for ${ }_{1}^{1} \mathrm{H}$. This corresponds to an energy of $h f= \left(6.6 \times 10^{-34} \mathrm{~J} \cdot \mathrm{~s}\right)\left(43 \times 10^{6} \mathrm{~Hz}\right) \approx 3 \times 10^{-26} \mathrm{~J}$ or about $10^{-7} \mathrm{eV}$. Since molecular bonds are on the order of 1 eV , the RF photons can cause little cellular disruption. This should be compared to X- or $\gamma$ rays, whose energies are $10^{4}$ to $10^{6} \mathrm{eV}$ and thus can cause significant damage. The static magnetic fields, though often large (as high as 1.0 to 1.5 T ), are believed to be harmless (except for people who wear heart pacemakers).
 
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|l|}{TABLE 31-2 Medical Imaging Techniques} \\
-\hline Technique & Where Discussed in This Book & Optimal Resolution \\
-\hline Conventional X-ray & Section 25-12 & $\frac{1}{2} \mathrm{~mm}$ \\
-\hline CT scan, X-ray & Section 25-12 & $\frac{1}{2} \mathrm{~mm}$ \\
-\hline Nuclear medicine (tracers) & Section 31-7 & 1 cm \\
-\hline SPECT (single photon emission) & Section 31-8 & 1 cm \\
-\hline PET (positron emission) & Section 31-8 & $2-5 \mathrm{~mm}$ \\
-\hline MRI (NMR) & Section 31-9 & $\frac{1}{2}-1 \mathrm{~mm}$ \\
-\hline Ultrasound & Section 12-9 & $0.3-2 \mathrm{~mm}$ \\
-\hline
-\end{tabular}
+| TABLE 31-2 Medical Imaging Techniques |  |  |
+| --- | --- | --- |
+| Technique | Where Discussed in This Book | Optimal Resolution |
+| Conventional X-ray | Section 25-12 | $\frac{1}{2} \mathrm{~mm}$ |
+| CT scan, X-ray | Section 25-12 | $\frac{1}{2} \mathrm{~mm}$ |
+| Nuclear medicine (tracers) | Section 31-7 | 1 cm |
+| SPECT (single photon emission) | Section 31-8 | 1 cm |
+| PET (positron emission) | Section 31-8 | $2-5 \mathrm{~mm}$ |
+| MRI (NMR) | Section 31-9 | $\frac{1}{2}-1 \mathrm{~mm}$ |
+| Ultrasound | Section 12-9 | $0.3-2 \mathrm{~mm}$ |
+
 
 Table 31-2 lists the major techniques we have discussed for imaging the interior of the human body, along with the optimum resolution attainable today. Resolution is only one factor that must be considered, because the different imaging techniques provide different types of information that are useful for different types of diagnosis.
 

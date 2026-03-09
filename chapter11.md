@@ -399,34 +399,12 @@ GIAN_PPA7_GE_11_292-327v4.1HR2.QXD 29-08-2014 14:58 Page 302
 
 FIGURE 11-12 Simple pendulum, and a free-body diagram.
 
-\begin{table}
-\begin{tabular}{cccc}
-\hline \multicolumn{4}{l}{\begin{tabular}{l} 
-TABLE 11-1 \\
-Sin $\boldsymbol{\theta}$ at Small Angles
-\end{tabular}} \\
-\hline \begin{tabular}{c}
-$\boldsymbol{\theta}$ \\
-(degrees)
-\end{tabular} & \begin{tabular}{c}
-$\boldsymbol{\theta}$ \\
-(radians)
-\end{tabular} & sin $\boldsymbol{\theta}$ & \begin{tabular}{c}
-$\%$ \\
-Difference
-\end{tabular} \\
-\hline 0 & 0 & 0 & 0 \\
-$1^{\circ}$ & 0.01745 & 0.01745 & $0.005 \%$ \\
-$5^{\circ}$ & 0.08727 & 0.08716 & $0.1 \%$ \\
-$10^{\circ}$ & 0.17453 & 0.17365 & $0.5 \%$ \\
-$15^{\circ}$ & 0.26180 & 0.25882 & $1.1 \%$ \\
-$20^{\circ}$ & 0.34907 & 0.34202 & $2.0 \%$ \\
-$30^{\circ}$ & 0.52360 & 0.50000 & $4.5 \%$ \\
-\hline
-\end{tabular}
-\captionsetup{labelformat=empty}
-\caption{FIGURE 11-13 The swinging motion of this elaborate lamp, hanging by a very long cord from the ceiling of the cathedral at Pisa, is said to have been observed by Galileo and to have inspired him to the conclusion that the period of a pendulum does not depend on amplitude.}
-\end{table}
+**FIGURE 11-13 The swinging motion of this elaborate lamp, hanging by a very long cord from the ceiling of the cathedral at Pisa, is said to have been observed by Galileo and to have inspired him to the conclusion that the period of a pendulum does not depend on amplitude.**
+
+| 
+TABLE 11-1 |
+| --- |
+| Sin $\boldsymbol{\theta$ at Small Angles |
 
 PHYSICS APPLIED
 Pendulum clock

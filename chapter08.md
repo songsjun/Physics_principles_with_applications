@@ -163,19 +163,15 @@ Thus the centripetal acceleration is greater the farther you are from the axis o
 
 Equations 8-1, 8-4, 8-5, and 8-6 relate the angular quantities describing the rotation of an object to the linear quantities for each point of a rotating object. Table 8-1 summarizes these relationships.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{FIGURE 8-7 Examples 8-4 and 8-5. The total acceleration vector is $\overrightarrow{\mathbf{a}}=\overrightarrow{\mathbf{a}}_{\mathrm{tan}}+\overrightarrow{\mathbf{a}}_{\mathrm{R}}$, at $t=8.0 \mathrm{~s}$.}
-\begin{tabular}{|l|l|l|l|}
-\hline \multicolumn{4}{|l|}{TABLE 8-1 Linear and Rotational Quantities} \\
-\hline Linear & Type & Rotational & Relation ${ }^{\ddagger}$ \\
-\hline $x$ & displacement & $\theta$ & $x=r \theta$ \\
-\hline $v$ & velocity & $\omega$ & $v=r \omega$ \\
-\hline $a_{\tan }$ & acceleration & $\alpha$ & $a_{\tan }=r \alpha$ \\
-\hline \multicolumn{4}{|l|}{${ }^{\ddagger}$ You must use radians.} \\
-\hline
-\end{tabular}
-\end{table}
+**FIGURE 8-7 Examples 8-4 and 8-5. The total acceleration vector is $\overrightarrow{\mathbf{a**
+
+| TABLE 8-1 Linear and Rotational Quantities |  |  |  |
+| --- | --- | --- | --- |
+| Linear | Type | Rotational | Relation ${ }^{\ddagger}$ |
+| $x$ | displacement | $\theta$ | $x=r \theta$ |
+| $v$ | velocity | $\omega$ | $v=r \omega$ |
+| $a_{\tan }$ | acceleration | $\alpha$ | $a_{\tan }=r \alpha$ |
+| ${ ^{\ddagger}$ You must use radians.} |  |  |  |
 
 EXAMPLE 8-4 Angular and linear velocities. A carousel is initially at rest. At $t=0$ it is given a constant angular acceleration $\alpha=0.060 \mathrm{rad} / \mathrm{s}^{2}$, which increases its angular velocity for 8.0 s . At $t=8.0 \mathrm{~s}$, determine (a) the angular velocity of the carousel, and (b) the linear velocity of a child (Fig. 8-7a) located 2.5 m from the center, point P in Fig. 8-7b.
 
@@ -253,14 +249,13 @@ $\left[x_{0}=0, \theta_{0}=0\right]$
 PHYSICS APPLIED
 Centrifuge
 
-\begin{tabular}{|l|l|l|}
-\hline Angular & Linear & \multirow[b]{2}{*}{[constant $\alpha, a$ ] (8-9a)} \\
-\hline $\omega=\omega_{0}+\alpha t$ & $v=v_{0}+a t$ & \\
-\hline $\theta=\omega_{0} t+\frac{1}{2} \alpha t^{2}$ & $x=v_{0} t+\frac{1}{2} a t^{2}$ & [constant $\alpha, a$ ] (8-9b) \\
-\hline $\omega^{2}=\omega_{0}^{2}+2 \alpha \theta$ & $v^{2}=v_{0}^{2}+2 a x$ & $[$ constant $\alpha, a]$ (8-9c) \\
-\hline $\bar{\omega}=\frac{\omega+\omega_{0}}{2}$ & $\bar{v}=\frac{v+v_{0}}{2}$ & [constant $\alpha, a$ ] (8-9d) \\
-\hline
-\end{tabular}
+| Angular | Linear | \multirow[b]{2}{*}{[constant $\alpha, a$ ] (8-9a)} |
+| --- | --- | --- |
+| $\omega=\omega_{0}+\alpha t$ | $v=v_{0}+a t$ |  |
+| $\theta=\omega_{0} t+\frac{1}{2} \alpha t^{2}$ | $x=v_{0} t+\frac{1}{2} a t^{2}$ | [constant $\alpha, a$ ] (8-9b) |
+| $\omega^{2}=\omega_{0}^{2}+2 \alpha \theta$ | $v^{2}=v_{0}^{2}+2 a x$ | $[$ constant $\alpha, a]$ (8-9c) |
+| $\bar{\omega}=\frac{\omega+\omega_{0}}{2}$ | $\bar{v}=\frac{v+v_{0}}{2}$ | [constant $\alpha, a$ ] (8-9d) |
+
 
 Note that $\omega_{0}$ represents the angular velocity at $t_{0}=0$, whereas $\theta$ and $\omega$ represent the angular position and velocity, respectively, at time $t$. Since the angular acceleration is constant, $\alpha=\bar{\alpha}$.
 
@@ -490,22 +485,18 @@ SECTION 8-5 Rotational Dynamics; Torque and Rotational Inertia
 
 GIAN_PPA7_GE_08_198-229v4.3HR2.QXD 29-08-2014 14:24 Page 210
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{FIGURE 8-20 Moments of inertia for various objects of uniform composition, each with mass $M$.}
-\begin{tabular}{|l|l|l|l|l|}
-\hline & Object & Location of axis & & Moment of inertia \\
-\hline (a) & Thin hoop, radius $R$ & Through center & & $M R^{2}$ \\
-\hline (b) & Thin hoop, radius $R$ width $w$ & Through central diameter & & $\frac{1}{2} M R^{2}+\frac{1}{12} M w^{2}$ \\
-\hline (c) & Solid cylinder, radius $R$ & Through center & & $\frac{1}{2} M R^{2}$ \\
-\hline (d) & Hollow cylinder, inner radius $R_{1}$ outer radius $R_{2}$ & Through center & & $\frac{1}{2} M\left(R_{1}^{2}+R_{2}^{2}\right)$ \\
-\hline (e) & Uniform sphere, radius $R$ & Through center & & $\frac{2}{5} M R^{2}$ \\
-\hline (f) & Long uniform rod, length $\ell$ & Through center & & $\frac{1}{12} M \ell^{2}$ \\
-\hline (g) & Long uniform rod, length $\ell$ & Through end & & $\frac{1}{3} M \ell^{2}$ \\
-\hline (h) & Rectangular thin plate, length $\ell$, width $w$ & Through center & & $\frac{1}{12} M\left(\ell^{2}+w^{2}\right)$ \\
-\hline
-\end{tabular}
-\end{table}
+**FIGURE 8-20 Moments of inertia for various objects of uniform composition, each with mass $M$.**
+
+|  | Object | Location of axis |  | Moment of inertia |
+| --- | --- | --- | --- | --- |
+| (a) | Thin hoop, radius $R$ | Through center |  | $M R^{2}$ |
+| (b) | Thin hoop, radius $R$ width $w$ | Through central diameter |  | $\frac{1}{2} M R^{2}+\frac{1}{12} M w^{2}$ |
+| (c) | Solid cylinder, radius $R$ | Through center |  | $\frac{1}{2} M R^{2}$ |
+| (d) | Hollow cylinder, inner radius $R_{1}$ outer radius $R_{2}$ | Through center |  | $\frac{1}{2} M\left(R_{1}^{2}+R_{2}^{2}\right)$ |
+| (e) | Uniform sphere, radius $R$ | Through center |  | $\frac{2}{5} M R^{2}$ |
+| (f) | Long uniform rod, length $\ell$ | Through center |  | $\frac{1}{12} M \ell^{2}$ |
+| (g) | Long uniform rod, length $\ell$ | Through end |  | $\frac{1}{3} M \ell^{2}$ |
+| (h) | Rectangular thin plate, length $\ell$, width $w$ | Through center |  | $\frac{1}{12} M\left(\ell^{2}+w^{2}\right)$ |
 
 For most ordinary objects, the mass is distributed continuously, and the calculation of the moment of inertia, $\Sigma m r^{2}$, can be difficult. Expressions can, however, be worked out (using calculus) for the moments of inertia of regularly shaped objects in terms of the dimensions of the objects. Figure 8-20 gives these expressions for a number of solids rotated about the axes specified. The only one for which the result is obvious is that for the thin hoop or ring rotated about an axis passing through its center perpendicular to the plane of the hoop (Fig. 8-20a). For a hoop, all the mass is concentrated at the same distance from the axis, $R$. Thus $\sum m r^{2}=\left(\sum m\right) R^{2}=M R^{2}$, where $M$ is the total mass of the hoop. In Fig. 8-20, we use capital $R$ to refer to the outer radius of an object (in (d) also the inner radius).
 
@@ -899,20 +890,19 @@ If the net torque on an object is zero, $\Delta L / \Delta t=0$, so $L=$ constan
 
 The following Table summarizes angular (or rotational) quantities, comparing them to their translational analogs.
 
-\begin{tabular}{|l|l|l|}
-\hline Translation & Rotation & Connection \\
-\hline $x$ & $\theta$ & $x=r \theta$ \\
-\hline $v$ & $\omega$ & $v=r \omega$ \\
-\hline $a$ & $\alpha$ & $a_{\tan }=r \alpha$ \\
-\hline $m$ & I & $I=\Sigma m r^{2}$ \\
-\hline F & $\tau$ & $\tau=r F \sin \theta$ \\
-\hline $\mathrm{KE}=\frac{1}{2} m v^{2}$ & $\frac{1}{2} I \omega^{2}$ & \\
-\hline $p=m v$ & $L=I \omega$ & \\
-\hline $W=F d$ & $W=\tau \theta$ & \\
-\hline $\Sigma F=m a$ & $\Sigma \tau=I \alpha$ & \\
-\hline $\Sigma F=\frac{\Delta p}{\Delta t}$ & $\Sigma \tau=\frac{\Delta L}{\Delta t}$ & \\
-\hline
-\end{tabular}
+| Translation | Rotation | Connection |
+| --- | --- | --- |
+| $x$ | $\theta$ | $x=r \theta$ |
+| $v$ | $\omega$ | $v=r \omega$ |
+| $a$ | $\alpha$ | $a_{\tan }=r \alpha$ |
+| $m$ | I | $I=\Sigma m r^{2}$ |
+| F | $\tau$ | $\tau=r F \sin \theta$ |
+| $\mathrm{KE}=\frac{1}{2} m v^{2}$ | $\frac{1}{2} I \omega^{2}$ |  |
+| $p=m v$ | $L=I \omega$ |  |
+| $W=F d$ | $W=\tau \theta$ |  |
+| $\Sigma F=m a$ | $\Sigma \tau=I \alpha$ |  |
+| $\Sigma F=\frac{\Delta p}{\Delta t}$ | $\Sigma \tau=\frac{\Delta L}{\Delta t}$ |  |
+
 [*Angular velocity, angular acceleration, and angular momentum are vectors. For a rigid object rotating about a fixed axis, the vectors $\overrightarrow{\boldsymbol{\omega}}, \overrightarrow{\boldsymbol{\alpha}}$, and $\overrightarrow{\mathbf{L}}$ point along the rotation axis. The direction of $\overrightarrow{\boldsymbol{\omega}}$ or $\overrightarrow{\mathbf{L}}$ is given by the right-hand rule.]
 
 Summary
@@ -1262,23 +1252,13 @@ Problem 83.
 84. The Moon orbits the Earth such that the same side always faces the Earth. Determine the ratio of the Moon's spin angular momentum (about its own axis) to its orbital angular momentum. (In the latter case, treat the Moon as a particle orbiting the Earth.)
 85. Most of our Solar System's mass is contained in the Sun, and the planets possess almost all of the Solar System's angular momentum. This observation plays a key role in theories attempting to explain the formation of our Solar System. Estimate the fraction of the Solar System's total angular momentum that is possessed by planets using a simplified model which includes only the large outer planets with the most angular momentum. The central Sun (mass $1.99 \times 10^{30} \mathrm{~kg}$, radius $6.96 \times 10^{8} \mathrm{~m}$ ) spins about its axis once every 25 days and the planets Jupiter, Saturn, Uranus, and Neptune move in nearly circular orbits around the Sun with orbital data given in the Table below. Ignore each planet's spin about its own axis.
 
-\begin{tabular}{lccc}
-\hline Planet & \begin{tabular}{c} 
-Mean Distance from \\
-Sun $\left(\times \mathbf{1 0}^{\mathbf{6}} \mathbf{~ k m}\right)$
-\end{tabular} & \begin{tabular}{c} 
-Orbital Period \\
-$($ Earth Years $)$
-\end{tabular} & \begin{tabular}{c} 
-Mass \\
-$\left(\times \mathbf{1 0}^{\mathbf{2 5}} \mathbf{k g}\right)$
-\end{tabular} \\
-\hline Jupiter & 778 & 11.9 & 190 \\
-Saturn & 1427 & 29.5 & 56.8 \\
-Uranus & 2870 & 84.0 & 8.68 \\
-Neptune & 4500 & 165 & 10.2 \\
-\hline
-\end{tabular}
+| Planet | Mean Distance from Sun $\left(\times \mathbf{1 0}^{\mathbf{6}} \mathbf{~ k m}\right)$ | Orbital Period $($ Earth Years $)$ | Mass $\left(\times \mathbf{1 0}^{\mathbf{2 5}} \mathbf{k g}\right)$ |
+| --- | --- | --- | --- |
+| Jupiter | 778 | 11.9 | 190 |
+| Saturn | 1427 | 29.5 | 56.8 |
+| Uranus | 2870 | 84.0 | 8.68 |
+| Neptune | 4500 | 165 | 10.2 |
+
 86. Water drives a waterwheel (or turbine) of radius $R=3.0 \mathrm{~m}$ as shown in Fig. 8-65. The water enters at a speed $v_{1}=7.0 \mathrm{~m} / \mathrm{s}$ and exits from the waterwheel at a speed $v_{2}=3.8 \mathrm{~m} / \mathrm{s}$. (a) If 85 kg of water passes through per second, what is the rate at which the water delivers angular momentum to the waterwheel? (b) What is the torque the water applies to the waterwheel? (c) If the water causes the waterwheel to make one revolution every 5.5 s , how much power is delivered to the wheel?
 
 FIGURE 8-65

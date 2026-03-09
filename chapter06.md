@@ -479,27 +479,12 @@ You do more work on the curved path because the distance is greater and, unlike 
 
 Because potential energy is energy associated with the position or configuration of objects, potential energy can only make sense if it can be stated uniquely for a given point. This cannot be done with nonconservative forces because the work done depends on the path taken (as in Fig. 6-16). Hence, potential energy can be defined only for a conservative force. Thus, although potential energy is always associated with a force, not all forces have a potential energy. For example, there is no potential energy for friction.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 6-1 Conservative and Nonconservative Forces}
-\begin{tabular}{ll}
-\hline \begin{tabular}{c} 
-Conservative \\
-Forces
-\end{tabular} & \begin{tabular}{c} 
-Nonconservative \\
-Forces
-\end{tabular} \\
-\hline Gravitational & Friction \\
-Elastic & Air resistance \\
-Electric & Tension in cord \\
-& Motor or rocket \\
-& propulsion \\
-& Push or pull by \\
-& a person \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 6-1 Conservative and Nonconservative Forces**
+
+| 
+Conservative |
+| --- |
+| Forces |
 
 EXERCISE E An object acted on by a constant force $F$ moves from point 1 to point 2 and back again. The work done by the force $F$ in this round trip is 60 J . Can you determine from this information if $F$ is a conservative or nonconservative force?
 
@@ -800,11 +785,9 @@ $$\begin{aligned}
 \mathrm{KE}_{1}+\mathrm{PE}_{1} & =\mathrm{KE}_{2}+\mathrm{PE}_{2}+F_{\mathrm{fr}} d
 \end{aligned}$$
 
-\begin{table}
 $\left[\begin{array}{c}\text { gravity and } \\ \text { friction } \\ \text { acting }\end{array}\right]$
-\captionsetup{labelformat=empty}
-\caption{(6-16b)}
-\end{table}
+**(6-16b)**
+
 and state equally well that the initial mechanical energy of the car (point 1 ) equals the (reduced) final mechanical energy of the car plus the energy transformed by friction into thermal energy.
 
 Equations 6-16 can be seen to be Eq. 6-13 modified to include nonconservative forces such as friction. As such, they are statements of conservation of energy. When other forms of energy are involved, such as chemical or electrical energy, the total amount of energy is always found to be conserved. Hence the law of conservation of energy is believed to be universally valid.

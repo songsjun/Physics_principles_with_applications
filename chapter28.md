@@ -309,37 +309,32 @@ GIAN_PPA7_GE_28_803-828v4.1HR.QXD 26-08-2014 16:39 Page 813
 (4) Finally, there is the spin quantum number, $m_{s}$, which for an electron can have only two values, $m_{s}=+\frac{1}{2}$ and $m_{s}=-\frac{1}{2}$. The existence of this quantum number did not come out of Schrödinger's original wave theory, as did $n, \ell$, and $m_{\ell}$. Instead, a subsequent modification by P. A. M. Dirac (1902-1984) explained its presence as a relativistic effect. The first hint that $m_{s}$ was needed, however, came from experiment. A careful study of the spectral lines of hydrogen showed that each actually consisted of two (or more) very closely spaced lines even in the absence of an external magnetic field. It was at first hypothesized that this tiny splitting of energy levels, called fine structure, was due to angular momentum associated with a spinning of the electron. That is, the electron might spin on its axis as well as orbit the nucleus, just as the Earth spins on its axis as it orbits the Sun. The interaction between the tiny current of the spinning electron could then interact with the magnetic field due to the orbiting charge and cause the small observed splitting of energy levels. (The energy thus depends slightly on $m_{\ell}$ and $\left.m_{s}.\right)^{\dagger}$ Today we consider the picture of a spinning electron as not legitimate. We cannot even view an electron as a localized object, much less a spinning one. What is important is that the electron can have two different states due to some intrinsic property that behaves like an angular momentum, and we still call this property "spin." The two possible values of $m_{s}\left(+\frac{1}{2}\right.$ and $\left.-\frac{1}{2}\right)$ are often said to be "spin up" and "spin down," referring to the two possible directions of the spin angular momentum.
 The possible values of the four quantum numbers for an electron in the hydrogen atom are summarized in Table 28-1.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 28-1 Quantum Numbers for an Electron}
-\begin{tabular}{|l|l|l|}
-\hline Name & Symbol & Possible Values \\
-\hline Principal & $n$ & $1,2,3, \cdots, \infty$. \\
-\hline Orbital & $\ell$ & For a given $n$ : $\ell$ can be $0,1,2, \cdots, n-1$. \\
-\hline Magnetic & $m_{\ell}$ & For given $n$ and $\ell: m_{\ell}$ can be $\ell, \ell-1, \cdots, 0, \cdots,-\ell$. \\
-\hline Spin & $m_{s}$ & For each set of $n, \ell$, and $m_{\ell}: m_{s}$ can be $+\frac{1}{2}$ or $-\frac{1}{2}$. \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 28-1 Quantum Numbers for an Electron**
+
+| Name | Symbol | Possible Values |
+| --- | --- | --- |
+| Principal | $n$ | $1,2,3, \cdots, \infty$. |
+| Orbital | $\ell$ | For a given $n$ : $\ell$ can be $0,1,2, \cdots, n-1$. |
+| Magnetic | $m_{\ell}$ | For given $n$ and $\ell: m_{\ell}$ can be $\ell, \ell-1, \cdots, 0, \cdots,-\ell$. |
+| Spin | $m_{s}$ | For each set of $n, \ell$, and $m_{\ell}: m_{s}$ can be $+\frac{1}{2}$ or $-\frac{1}{2}$. |
 
 CONCEPTUAL EXAMPLE 28-4 Possible states for $\boldsymbol{n}=\mathbf{3}$. How many different states are possible for an electron with principal quantum number $n=3$ ?
 
 RESPONSE For $n=3, \ell$ can have the values $\ell=2,1,0$. For $\ell=2, m_{\ell}$ can be $2,1,0,-1,-2$, which is five different possibilities. For each of these, $m_{s}$ can be either up or down $\left(+\frac{1}{2}\right.$ or $\left.-\frac{1}{2}\right)$; so for $\ell=2$, there are $2 \times 5=10$ states. For $\ell=1, m_{\ell}$ can be $1,0,-1$, and since $m_{s}$ can be $+\frac{1}{2}$ or $-\frac{1}{2}$ for each of these, we have 6 more possible states. Finally, for $\ell=0, m_{\ell}$ can only be 0 , and there are only 2 states corresponding to $m_{s}=+\frac{1}{2}$ and $-\frac{1}{2}$. The total number of states is $10+6+2=18$, as detailed in the following Table:
 
-\begin{tabular}{|l|l|l|l|l|l|l|l|}
-\hline $\boldsymbol{n}$ & $\ell$ & $m_{\ell}$ & $\boldsymbol{m}_{\boldsymbol{S}}$ & $\boldsymbol{n}$ & $\ell$ & $\boldsymbol{m}_{\boldsymbol{\ell}}$ & $\boldsymbol{m}_{\boldsymbol{s}}$ \\
-\hline 3 & 2 & 2 & $\frac{1}{2}$ & 3 & 1 & 1 & $\frac{1}{2}$ \\
-\hline 3 & 2 & 2 & $-\frac{1}{2}$ & 3 & 1 & 1 & $-\frac{1}{2}$ \\
-\hline 3 & 2 & 1 & $\frac{1}{2}$ & 3 & 1 & 0 & $\frac{1}{2}$ \\
-\hline 3 & 2 & 1 & $-\frac{1}{2}$ & 3 & 1 & 0 & $-\frac{1}{2}$ \\
-\hline 3 & 2 & 0 & $\frac{1}{2}$ & 3 & 1 & -1 & $\frac{1}{2}$ \\
-\hline 3 & 2 & 0 & $-\frac{1}{2}$ & 3 & 1 & -1 & $-\frac{1}{2}$ \\
-\hline 3 & 2 & -1 & $\frac{1}{2}$ & 3 & 0 & 0 & $\frac{1}{2}$ \\
-\hline 3 & 2 & -1 & $-\frac{1}{2}$ & 3 & 0 & 0 & $-\frac{1}{2}$ \\
-\hline 3 & 2 & -2 & $\frac{1}{2}$ & & & & \\
-\hline 3 & 2 & -2 & $-\frac{1}{2}$ & & & & \\
-\hline
-\end{tabular}
+| $\boldsymbol{n}$ | $\ell$ | $m_{\ell}$ | $\boldsymbol{m}_{\boldsymbol{S}}$ | $\boldsymbol{n}$ | $\ell$ | $\boldsymbol{m}_{\boldsymbol{\ell}}$ | $\boldsymbol{m}_{\boldsymbol{s}}$ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3 | 2 | 2 | $\frac{1}{2}$ | 3 | 1 | 1 | $\frac{1}{2}$ |
+| 3 | 2 | 2 | $-\frac{1}{2}$ | 3 | 1 | 1 | $-\frac{1}{2}$ |
+| 3 | 2 | 1 | $\frac{1}{2}$ | 3 | 1 | 0 | $\frac{1}{2}$ |
+| 3 | 2 | 1 | $-\frac{1}{2}$ | 3 | 1 | 0 | $-\frac{1}{2}$ |
+| 3 | 2 | 0 | $\frac{1}{2}$ | 3 | 1 | -1 | $\frac{1}{2}$ |
+| 3 | 2 | 0 | $-\frac{1}{2}$ | 3 | 1 | -1 | $-\frac{1}{2}$ |
+| 3 | 2 | -1 | $\frac{1}{2}$ | 3 | 0 | 0 | $\frac{1}{2}$ |
+| 3 | 2 | -1 | $-\frac{1}{2}$ | 3 | 0 | 0 | $-\frac{1}{2}$ |
+| 3 | 2 | -2 | $\frac{1}{2}$ |  |  |  |  |
+| 3 | 2 | -2 | $-\frac{1}{2}$ |  |  |  |  |
+
 
 EXERCISE C An electron has $n=4, \ell=2$. Which of the following values of $m_{\ell}$ are possible: $4,3,2,1,0,-1,-2,-3,-4$ ?
 
@@ -410,36 +405,32 @@ EXERCISE E Construct a Table of the ground-state quantum numbers for beryllium, 
 
 Figure 28-10 shows a simple energy level diagram where occupied states are shown as up or down arrows $\left(m_{s}=+\frac{1}{2}\right.$ or $-\frac{1}{2}$ ), and possible empty states are shown as a small circle.
 
-\begin{table}
-\begin{tabular}{|l|l|l|l|}
-\hline \multicolumn{4}{|l|}{TABLE 28-2 Ground-State Quantum Numbers} \\
-\hline \multicolumn{4}{|l|}{Helium, $Z=2$} \\
-\hline $\boldsymbol{n}$ & / & $\boldsymbol{m}_{\boldsymbol{\ell}}$ & $\boldsymbol{m}_{\boldsymbol{s}}$ \\
-\hline 1 & 0 & 0 & $\frac{1}{2}$ \\
-\hline 1 & 0 & 0 & $-\frac{1}{2}$ \\
-\hline \multicolumn{4}{|l|}{Lithium, $Z=3$} \\
-\hline $\boldsymbol{n}$ & $\ell$ & $\boldsymbol{m}_{\boldsymbol{\ell}}$ & $\boldsymbol{m}_{\boldsymbol{s}}$ \\
-\hline 1 & 0 & 0 & $\frac{1}{2}$ \\
-\hline 1 & 0 & 0 & $-\frac{1}{2}$ \\
-\hline 2 & 0 & 0 & $\frac{1}{2}$ \\
-\hline \multicolumn{4}{|l|}{Sodium, $Z=11$} \\
-\hline $\boldsymbol{n}$ & $\ell$ & $m_{\ell}$ & $\boldsymbol{m}_{\boldsymbol{S}}$ \\
-\hline 1 & 0 & 0 & $\frac{1}{2}$ \\
-\hline 1 & 0 & 0 & $-\frac{1}{2}$ \\
-\hline 2 & 0 & 0 & $\frac{1}{2}$ \\
-\hline 2 & 0 & 0 & $-\frac{1}{2}$ \\
-\hline 2 & 1 & 1 & $\frac{1}{2}$ \\
-\hline 2 & 1 & 1 & $-\frac{1}{2}$ \\
-\hline 2 & 1 & 0 & $\frac{1}{2}$ \\
-\hline 2 & 1 & 0 & $-\frac{1}{2}$ \\
-\hline 2 & 1 & -1 & $\frac{1}{2}$ \\
-\hline 2 & 1 & -1 & $-\frac{1}{2}$ \\
-\hline 3 & 0 & 0 & $\frac{1}{2}$ \\
-\hline
-\end{tabular}
-\captionsetup{labelformat=empty}
-\caption{$n=3, \ell=0$}
-\end{table}
+**$n=3, \ell=0$**
+
+| TABLE 28-2 Ground-State Quantum Numbers |  |  |  |
+| --- | --- | --- | --- |
+| Helium, $Z=2$ |  |  |  |
+| $\boldsymbol{n}$ | / | $\boldsymbol{m}_{\boldsymbol{\ell}}$ | $\boldsymbol{m}_{\boldsymbol{s}}$ |
+| 1 | 0 | 0 | $\frac{1}{2}$ |
+| 1 | 0 | 0 | $-\frac{1}{2}$ |
+| Lithium, $Z=3$ |  |  |  |
+| $\boldsymbol{n}$ | $\ell$ | $\boldsymbol{m}_{\boldsymbol{\ell}}$ | $\boldsymbol{m}_{\boldsymbol{s}}$ |
+| 1 | 0 | 0 | $\frac{1}{2}$ |
+| 1 | 0 | 0 | $-\frac{1}{2}$ |
+| 2 | 0 | 0 | $\frac{1}{2}$ |
+| Sodium, $Z=11$ |  |  |  |
+| $\boldsymbol{n}$ | $\ell$ | $m_{\ell}$ | $\boldsymbol{m}_{\boldsymbol{S}}$ |
+| 1 | 0 | 0 | $\frac{1}{2}$ |
+| 1 | 0 | 0 | $-\frac{1}{2}$ |
+| 2 | 0 | 0 | $\frac{1}{2}$ |
+| 2 | 0 | 0 | $-\frac{1}{2}$ |
+| 2 | 1 | 1 | $\frac{1}{2}$ |
+| 2 | 1 | 1 | $-\frac{1}{2}$ |
+| 2 | 1 | 0 | $\frac{1}{2}$ |
+| 2 | 1 | 0 | $-\frac{1}{2}$ |
+| 2 | 1 | -1 | $\frac{1}{2}$ |
+| 2 | 1 | -1 | $-\frac{1}{2}$ |
+| 3 | 0 | 0 | $\frac{1}{2}$ |
 $n=2, \ell=1$
 $n=2, \ell=0$
 $n=1, \ell=0$
@@ -463,59 +454,51 @@ SECTION 28-7 Multielectron Atoms; the Exclusion Principle
 
 GIAN_PPA7_GE_28_803-828v4.1HR.QXD 26-08-2014 16:39 Page 816
 
-\begin{table}
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|l|}{TABLE 28-3 Value of $\ell$} \\
-\hline Value of $\ell$ & Letter Symbol & Maximum Number of Electrons in Subshell \\
-\hline 0 & $s$ & 2 \\
-\hline 1 & $p$ & 6 \\
-\hline 2 & $d$ & 10 \\
-\hline 3 & $f$ & 14 \\
-\hline 4 & $g$ & 18 \\
-\hline 5 & $h$ & 22 \\
-\hline ⋮ & ⋮ & ⋮ \\
-\hline
-\end{tabular}
-\captionsetup{labelformat=empty}
-\caption{TABLE 28-4
-Electron Configuration of Some Elements}
-\end{table}
+**TABLE 28-4
+Electron Configuration of Some Elements**
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 28-4
-Electron Configuration of Some Elements}
-\begin{tabular}{|l|l|l|}
-\hline $Z$ (Number of Electrons) & Element ${ }^{\dagger}$ & Ground State Configuration (outer electrons) \\
-\hline 1 & H & $1 s^{1}$ \\
-\hline 2 & He & $1 s^{2}$ \\
-\hline 3 & Li & $2 s^{1}$ \\
-\hline 4 & Be & $2 s^{2}$ \\
-\hline 5 & B & $2 s^{2} 2 p^{1}$ \\
-\hline 6 & C & $2 s^{2} 2 p^{2}$ \\
-\hline 7 & N & $2 s^{2} 2 p^{3}$ \\
-\hline 8 & O & $2 s^{2} 2 p^{4}$ \\
-\hline 9 & F & $2 s^{2} 2 p^{5}$ \\
-\hline 10 & Ne & $2 s^{2} 2 p^{6}$ \\
-\hline 11 & Na & $3 s^{1}$ \\
-\hline 12 & Mg & $3 s^{2}$ \\
-\hline 13 & Al & $3 s^{2} 3 p^{1}$ \\
-\hline 14 & Si & $3 s^{2} 3 p^{2}$ \\
-\hline 15 & P & $3 s^{2} 3 p^{3}$ \\
-\hline 16 & S & $3 s^{2} 3 p^{4}$ \\
-\hline 17 & Cl & $3 s^{2} 3 p^{5}$ \\
-\hline 18 & Ar & $3 s^{2} 3 p^{6}$ \\
-\hline 19 & K & $3 d^{0} 4 s^{1}$ \\
-\hline 20 & Ca & $3 d^{0} 4 s^{2}$ \\
-\hline 21 & Sc & $3 d^{1} 4 s^{2}$ \\
-\hline 22 & Ti & $3 d^{2} 4 s^{2}$ \\
-\hline 23 & V & $3 d^{3} 4 s^{2}$ \\
-\hline 24 & Cr & $3 d^{5} 4 s^{1}$ \\
-\hline 25 & Mn & $3 d^{5} 4 s^{2}$ \\
-\hline 26 & Fe & $3 d^{6} 4 s^{2}$ \\
-\hline
-\end{tabular}
-\end{table}
+| TABLE 28-3 Value of $\ell$ |  |  |
+| --- | --- | --- |
+| Value of $\ell$ | Letter Symbol | Maximum Number of Electrons in Subshell |
+| 0 | $s$ | 2 |
+| 1 | $p$ | 6 |
+| 2 | $d$ | 10 |
+| 3 | $f$ | 14 |
+| 4 | $g$ | 18 |
+| 5 | $h$ | 22 |
+| ⋮ | ⋮ | ⋮ |
+
+**TABLE 28-4
+Electron Configuration of Some Elements**
+
+| $Z$ (Number of Electrons) | Element ${ }^{\dagger}$ | Ground State Configuration (outer electrons) |
+| --- | --- | --- |
+| 1 | H | $1 s^{1}$ |
+| 2 | He | $1 s^{2}$ |
+| 3 | Li | $2 s^{1}$ |
+| 4 | Be | $2 s^{2}$ |
+| 5 | B | $2 s^{2} 2 p^{1}$ |
+| 6 | C | $2 s^{2} 2 p^{2}$ |
+| 7 | N | $2 s^{2} 2 p^{3}$ |
+| 8 | O | $2 s^{2} 2 p^{4}$ |
+| 9 | F | $2 s^{2} 2 p^{5}$ |
+| 10 | Ne | $2 s^{2} 2 p^{6}$ |
+| 11 | Na | $3 s^{1}$ |
+| 12 | Mg | $3 s^{2}$ |
+| 13 | Al | $3 s^{2} 3 p^{1}$ |
+| 14 | Si | $3 s^{2} 3 p^{2}$ |
+| 15 | P | $3 s^{2} 3 p^{3}$ |
+| 16 | S | $3 s^{2} 3 p^{4}$ |
+| 17 | Cl | $3 s^{2} 3 p^{5}$ |
+| 18 | Ar | $3 s^{2} 3 p^{6}$ |
+| 19 | K | $3 d^{0} 4 s^{1}$ |
+| 20 | Ca | $3 d^{0} 4 s^{2}$ |
+| 21 | Sc | $3 d^{1} 4 s^{2}$ |
+| 22 | Ti | $3 d^{2} 4 s^{2}$ |
+| 23 | V | $3 d^{3} 4 s^{2}$ |
+| 24 | Cr | $3 d^{5} 4 s^{1}$ |
+| 25 | Mn | $3 d^{5} 4 s^{2}$ |
+| 26 | Fe | $3 d^{6} 4 s^{2}$ |
 ${ }^{\dagger}$ Names of elements can be found in Appendix B.
 
 The ground-state configuration for all atoms is given in the Periodic Table, which is displayed inside the back cover of this book, and discussed in the next Section.

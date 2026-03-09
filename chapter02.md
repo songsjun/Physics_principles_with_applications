@@ -363,14 +363,13 @@ Kinematic equations for constant acceleration (we'll use them a lot)
 PHYSICS APPLIED
 Airport design
 
-\begin{tabular}{lc}
-\hline \multicolumn{1}{c}{ Known } & Wanted \\
-\hline$x_{0}=0$ & $v$ \\
-$v_{0}=0$ & \\
-$x=150 \mathrm{~m}$ & \\
-$a=2.00 \mathrm{~m} / \mathrm{s}^{2}$ & \\
-\hline
-\end{tabular}
+| Known | Wanted |
+| --- | --- |
+| $x_{0}=0$ | $v$ |
+| $v_{0}=0$ |  |
+| $x=150 \mathrm{~m}$ |  |
+| $a=2.00 \mathrm{~m} / \mathrm{s}^{2}$ |  |
+
 
 Equations 2-11 are valid only when the acceleration is constant, which we assume in this Example
 
@@ -453,14 +452,13 @@ PROBLEM SOLVING
 
 FIGURE 2-15 Example 2-8.
 
-\begin{tabular}{cc}
-\hline Known & Wanted \\
-\hline$x_{0}=0$ & $t$ \\
-$x=30.0 \mathrm{~m}$ & \\
-$a=2.00 \mathrm{~m} / \mathrm{s}^{2}$ & \\
-$v_{0}=0$ & \\
-\hline
-\end{tabular}
+| Known | Wanted |
+| --- | --- |
+| $x_{0}=0$ | $t$ |
+| $x=30.0 \mathrm{~m}$ |  |
+| $a=2.00 \mathrm{~m} / \mathrm{s}^{2}$ |  |
+| $v_{0}=0$ |  |
+
 
 PROBLEM SOLVING Check your answer
 PROBLEM SOLVING
@@ -477,31 +475,24 @@ GIAN_PPA7_GE_02_021-048v7.4HR1.6.QXD 2-09-2014 18:02 Page 32
 
 FIGURE 2-16 Example 2-9: stopping distance for a braking car.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{Part 1: Reaction time}
-\begin{tabular}{cc}
-\hline Known & Wanted \\
-\hline$t$ & $=0.50 \mathrm{~s}$ \\
-$v_{0}$ & $=14 \mathrm{~m} / \mathrm{s}$ \\
-$v$ & $=14 \mathrm{~m} / \mathrm{s}$ \\
-$a$ & $=0$ \\
-$x_{0}$ & $=0$
-\end{tabular}
-\end{table}
+**Part 1: Reaction time**
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{Part 2: Braking}
-\begin{tabular}{cc}
-\hline Known & Wanted \\
-\hline$x_{0}=7.0 \mathrm{~m}$ & $x$ \\
-$v_{0}=14 \mathrm{~m} / \mathrm{s}$ & \\
-$v=0$ & \\
-$a=-6.0 \mathrm{~m} / \mathrm{s}^{2}$ & \\
-\hline
-\end{tabular}
-\end{table}
+| Known | Wanted |
+| --- | --- |
+| $t$ | $=0.50 \mathrm{~s}$ |
+| $v_{0}$ | $=14 \mathrm{~m} / \mathrm{s}$ |
+| $v$ | $=14 \mathrm{~m} / \mathrm{s}$ |
+| $a$ | $=0$ |
+| $x_{0}$ | $=0$ |
+
+**Part 2: Braking**
+
+| Known | Wanted |
+| --- | --- |
+| $x_{0}=7.0 \mathrm{~m}$ | $x$ |
+| $v_{0}=14 \mathrm{~m} / \mathrm{s}$ |  |
+| $v=0$ |  |
+| $a=-6.0 \mathrm{~m} / \mathrm{s}^{2}$ |  |
 
 FIGURE 2-17 Example 2-9.
 Graph of $v$ vs. $t$.

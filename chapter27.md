@@ -1056,16 +1056,15 @@ Problems
 25. (II) When $250-\mathrm{nm}$ light falls on a metal, the current through a photoelectric circuit (Fig. 27-6) is brought to zero at a stopping voltage of 1.64 V . What is the work function of the metal?
 26. (II) In a photoelectric experiment using a clean sodium surface, the maximum energy of the emitted electrons was measured for a number of different incident frequencies, with the following results.
 
-\begin{tabular}{cc} 
-Frequency $\left(\times \mathbf{1 0}^{\mathbf{1 4}} \mathbf{H z}\right)$ & Energy $(\mathbf{e V})$ \\
-\hline 11.8 & 2.60 \\
-10.6 & 2.11 \\
-9.9 & 1.81 \\
-9.1 & 1.47 \\
-8.2 & 1.10 \\
-6.9 & 0.57 \\
-\hline
-\end{tabular}
+| Frequency $\left(\times \mathbf{1 0}^{\mathbf{1 4}} \mathbf{H z}\right)$ | Energy $(\mathbf{e V})$ |
+| --- | --- |
+| 11.8 | 2.60 |
+| 10.6 | 2.11 |
+| 9.9 | 1.81 |
+| 9.1 | 1.47 |
+| 8.2 | 1.10 |
+| 6.9 | 0.57 |
+
 
 Plot the graph of these results and find: (a) Planck's constant; (b) the cutoff frequency of sodium; (c) the work function.
 27. (II) Show that the energy $E$ (in electron volts) of a photon whose wavelength is $\lambda(\mathrm{nm})$ is given by

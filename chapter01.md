@@ -254,48 +254,40 @@ ${ }^{\ddagger}$ The new definition of the meter has the effect of giving the sp
 FIGURE 1-8 Some lengths:
 (a) viruses (about $10^{-7} \mathrm{~m}$ long) attacking a cell; (b) Mt. Everest's height is on the order of $10^{4} \mathrm{~m}$ ( 8850 m above sea level, to be precise).
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 1-1 Some Typical Lengths or Distances
-(order of magnitude)}
-\begin{tabular}{|l|l|}
-\hline Length (or Distance) & Meters (approximate) \\
-\hline Neutron or proton (diameter) & $10^{-15} \mathrm{~m}$ \\
-\hline Atom (diameter) & $10^{-10} \mathrm{~m}$ \\
-\hline Virus [see Fig. 1-8a] & $10^{-7} \mathrm{~m}$ \\
-\hline Sheet of paper (thickness) & $10^{-4} \mathrm{~m}$ \\
-\hline Finger width & $10^{-2} \mathrm{~m}$ \\
-\hline Football field length & $10^{2} \mathrm{~m}$ \\
-\hline Height of Mt. Everest [see Fig. 1-8b] & $10^{4} \mathrm{~m}$ \\
-\hline Earth diameter & $10^{7} \mathrm{~m}$ \\
-\hline Earth to Sun & $10^{11} \mathrm{~m}$ \\
-\hline Earth to nearest star & $10^{16} \mathrm{~m}$ \\
-\hline Earth to nearest galaxy & $10^{22} \mathrm{~m}$ \\
-\hline Earth to farthest galaxy visible & $10^{26} \mathrm{~m}$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 1-1 Some Typical Lengths or Distances
+(order of magnitude)**
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 1-2 Some Typical Time Intervals
-(order of magnitude)}
-\begin{tabular}{|l|l|}
-\hline Time Interval & Seconds (approximate) \\
-\hline Lifetime of very unstable subatomic particle & $10^{-23} \mathrm{~s}$ \\
-\hline Lifetime of radioactive elements & $10^{-22} \mathrm{~s}$ to $10^{28} \mathrm{~s}$ \\
-\hline Lifetime of muon & $10^{-6} \mathrm{~s}$ \\
-\hline Time between human heartbeats & $10^{0} \mathrm{~s}(=1 \mathrm{~s})$ \\
-\hline One day & $10^{5} \mathrm{~s}$ \\
-\hline One year & $3 \times 10^{7} \mathrm{~s}$ \\
-\hline Human life span & $2 \times 10^{9} \mathrm{~s}$ \\
-\hline Length of recorded history & $10^{11} \mathrm{~s}$ \\
-\hline Humans on Earth & $10^{13} \mathrm{~s}$ \\
-\hline Age of Earth & $10^{17} \mathrm{~s}$ \\
-\hline Age of Universe & $4 \times 10^{17} \mathrm{~s}$ \\
-\hline
-\end{tabular}
-\end{table}
+| Length (or Distance) | Meters (approximate) |
+| --- | --- |
+| Neutron or proton (diameter) | $10^{-15} \mathrm{~m}$ |
+| Atom (diameter) | $10^{-10} \mathrm{~m}$ |
+| Virus [see Fig. 1-8a] | $10^{-7} \mathrm{~m}$ |
+| Sheet of paper (thickness) | $10^{-4} \mathrm{~m}$ |
+| Finger width | $10^{-2} \mathrm{~m}$ |
+| Football field length | $10^{2} \mathrm{~m}$ |
+| Height of Mt. Everest [see Fig. 1-8b] | $10^{4} \mathrm{~m}$ |
+| Earth diameter | $10^{7} \mathrm{~m}$ |
+| Earth to Sun | $10^{11} \mathrm{~m}$ |
+| Earth to nearest star | $10^{16} \mathrm{~m}$ |
+| Earth to nearest galaxy | $10^{22} \mathrm{~m}$ |
+| Earth to farthest galaxy visible | $10^{26} \mathrm{~m}$ |
+
+**TABLE 1-2 Some Typical Time Intervals
+(order of magnitude)**
+
+| Time Interval | Seconds (approximate) |
+| --- | --- |
+| Lifetime of very unstable subatomic particle | $10^{-23} \mathrm{~s}$ |
+| Lifetime of radioactive elements | $10^{-22} \mathrm{~s}$ to $10^{28} \mathrm{~s}$ |
+| Lifetime of muon | $10^{-6} \mathrm{~s}$ |
+| Time between human heartbeats | $10^{0} \mathrm{~s}(=1 \mathrm{~s})$ |
+| One day | $10^{5} \mathrm{~s}$ |
+| One year | $3 \times 10^{7} \mathrm{~s}$ |
+| Human life span | $2 \times 10^{9} \mathrm{~s}$ |
+| Length of recorded history | $10^{11} \mathrm{~s}$ |
+| Humans on Earth | $10^{13} \mathrm{~s}$ |
+| Age of Earth | $10^{17} \mathrm{~s}$ |
+| Age of Universe | $4 \times 10^{17} \mathrm{~s}$ |
 
 SECTION 1-5 Units, Standards, and the SI System
 9
@@ -306,59 +298,51 @@ SECTION 1-5 Units, Standards, and the SI System
 
 GIAN_PPA7_01_AP_001-020v8.1HR1.1.1.QXD 6/27/16 1:08 PM Page $\$ 0$
 
-\begin{table}
-\begin{tabular}{|l|l|}
-\hline \multicolumn{2}{|l|}{TABLE 1-3 Some Masses} \\
-\hline Object & Kilograms (approximate) \\
-\hline Electron & $10^{-30} \mathrm{~kg}$ \\
-\hline Proton, neutron & $10^{-27} \mathrm{~kg}$ \\
-\hline DNA molecule & $10^{-17} \mathrm{~kg}$ \\
-\hline Bacterium & $10^{-15} \mathrm{~kg}$ \\
-\hline Mosquito & $10^{-5} \mathrm{~kg}$ \\
-\hline Plum & $10^{-1} \mathrm{~kg}$ \\
-\hline Human & $10^{2} \quad \mathrm{~kg}$ \\
-\hline Ship & $10^{8} \mathrm{~kg}$ \\
-\hline Earth & $6 \times 10^{24} \mathrm{~kg}$ \\
-\hline Sun & $2 \times 10^{30} \mathrm{~kg}$ \\
-\hline Galaxy & $10^{41} \mathrm{~kg}$ \\
-\hline
-\end{tabular}
-\captionsetup{labelformat=empty}
-\caption{PROBLEM SOLVING
-Always use a consistent set of units}
-\end{table}
+**PROBLEM SOLVING
+Always use a consistent set of units**
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{PROBLEM SOLVING
-Always use a consistent set of units}
-\begin{tabular}{|l|l|l|l|}
-\hline \multicolumn{4}{|c|}{TABLE 1-4 Metric (SI) Prefixes} \\
-\hline Prefix & & Abbreviation & Value \\
-\hline yotta & & Y & $10^{24}$ \\
-\hline zetta & & Z & $10^{21}$ \\
-\hline exa & & E & $10^{18}$ \\
-\hline peta & & P & $10^{15}$ \\
-\hline tera & & T & $10^{12}$ \\
-\hline giga & & G & $10^{9}$ \\
-\hline mega & & M & $10^{6}$ \\
-\hline kilo & & k & $10^{3}$ \\
-\hline hecto & & h & $10^{2}$ \\
-\hline deka & & da & $10^{1}$ \\
-\hline deci & & d & $10^{-1}$ \\
-\hline centi & & c & $10^{-2}$ \\
-\hline milli & & m & $10^{-3}$ \\
-\hline micro ${ }^{\dagger}$ & & $\mu$ & $10^{-6}$ \\
-\hline nano & & n & $10^{-9}$ \\
-\hline pico & & p & $10^{-12}$ \\
-\hline femto & & f & $10^{-15}$ \\
-\hline atto & & a & $10^{-18}$ \\
-\hline zepto & & z & $10^{-21}$ \\
-\hline yocto & & y & $10^{-24}$ \\
-\hline \multicolumn{4}{|l|}{${ }^{\dagger} \mu$ is the Greek letter "mu."} \\
-\hline
-\end{tabular}
-\end{table}
+| TABLE 1-3 Some Masses |  |
+| --- | --- |
+| Object | Kilograms (approximate) |
+| Electron | $10^{-30} \mathrm{~kg}$ |
+| Proton, neutron | $10^{-27} \mathrm{~kg}$ |
+| DNA molecule | $10^{-17} \mathrm{~kg}$ |
+| Bacterium | $10^{-15} \mathrm{~kg}$ |
+| Mosquito | $10^{-5} \mathrm{~kg}$ |
+| Plum | $10^{-1} \mathrm{~kg}$ |
+| Human | $10^{2} \quad \mathrm{~kg}$ |
+| Ship | $10^{8} \mathrm{~kg}$ |
+| Earth | $6 \times 10^{24} \mathrm{~kg}$ |
+| Sun | $2 \times 10^{30} \mathrm{~kg}$ |
+| Galaxy | $10^{41} \mathrm{~kg}$ |
+
+**PROBLEM SOLVING
+Always use a consistent set of units**
+
+| TABLE 1-4 Metric (SI) Prefixes |  |  |  |
+| --- | --- | --- | --- |
+| Prefix |  | Abbreviation | Value |
+| yotta |  | Y | $10^{24}$ |
+| zetta |  | Z | $10^{21}$ |
+| exa |  | E | $10^{18}$ |
+| peta |  | P | $10^{15}$ |
+| tera |  | T | $10^{12}$ |
+| giga |  | G | $10^{9}$ |
+| mega |  | M | $10^{6}$ |
+| kilo |  | k | $10^{3}$ |
+| hecto |  | h | $10^{2}$ |
+| deka |  | da | $10^{1}$ |
+| deci |  | d | $10^{-1}$ |
+| centi |  | c | $10^{-2}$ |
+| milli |  | m | $10^{-3}$ |
+| micro ${ }^{\dagger}$ |  | $\mu$ | $10^{-6}$ |
+| nano |  | n | $10^{-9}$ |
+| pico |  | p | $10^{-12}$ |
+| femto |  | f | $10^{-15}$ |
+| atto |  | a | $10^{-18}$ |
+| zepto |  | z | $10^{-21}$ |
+| yocto |  | y | $10^{-24}$ |
+| ${ ^{\dagger} \mu$ is the Greek letter "mu."} |  |  |  |
 
 Mass
 The standard unit of mass is the kilogram (kg). The standard mass is a particular platinum-iridium cylinder, kept at the International Bureau of Weights and Measures near Paris, France, whose mass is defined as exactly 1 kg . A range of masses is presented in Table 1-3. [For practical purposes, 1 kg weighs about 2.2 pounds on Earth.]
@@ -384,18 +368,17 @@ We use SI units almost exclusively in this book.
 
 Physical quantities can be divided into two categories: base quantities and derived quantities. The corresponding units for these quantities are called base units and derived units. A base quantity must be defined in terms of a standard. Scientists, in the interest of simplicity, want the smallest number of base quantities possible consistent with a full description of the physical world. This number turns out to be seven, and those used in the SI are given in Table 1-5.
 
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|l|}{TABLE 1-5 SI Base Quantities and Units} \\
-\hline Quantity & Unit & Unit Abbreviation \\
-\hline Length & meter & m \\
-\hline Time & second & s \\
-\hline Mass & kilogram & kg \\
-\hline Electric current & ampere & A \\
-\hline Temperature & kelvin & K \\
-\hline Amount of substance & mole & mol \\
-\hline Luminous intensity & candela & cd \\
-\hline
-\end{tabular}
+| TABLE 1-5 SI Base Quantities and Units |  |  |
+| --- | --- | --- |
+| Quantity | Unit | Unit Abbreviation |
+| Length | meter | m |
+| Time | second | s |
+| Mass | kilogram | kg |
+| Electric current | ampere | A |
+| Temperature | kelvin | K |
+| Amount of substance | mole | mol |
+| Luminous intensity | candela | cd |
+
 
 10
 CHAPTER 1 Introduction, Measurement, Estimating
@@ -438,28 +421,24 @@ FIGURE 1-9 The world's second highest peak, K2, whose summit is considered the m
 $\frac{\text { PHYSICS APPLIED }}{\text { The world's tallest peaks }}$
 The world's tallest peaks
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 1-6 The 8000-m Peaks}
-\begin{tabular}{|l|l|}
-\hline Peak & Height (m) \\
-\hline Mt. Everest & 8850 \\
-\hline K2 & 8611 \\
-\hline Kangchenjunga & 8586 \\
-\hline Lhotse & 8516 \\
-\hline Makalu & 8462 \\
-\hline Cho Oyu & 8201 \\
-\hline Dhaulagiri & 8167 \\
-\hline Manaslu & 8156 \\
-\hline Nanga Parbat & 8125 \\
-\hline Annapurna & 8091 \\
-\hline Gasherbrum I & 8068 \\
-\hline Broad Peak & 8047 \\
-\hline Gasherbrum II & 8035 \\
-\hline Shisha Pangma & 8013 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 1-6 The 8000-m Peaks**
+
+| Peak | Height (m) |
+| --- | --- |
+| Mt. Everest | 8850 |
+| K2 | 8611 |
+| Kangchenjunga | 8586 |
+| Lhotse | 8516 |
+| Makalu | 8462 |
+| Cho Oyu | 8201 |
+| Dhaulagiri | 8167 |
+| Manaslu | 8156 |
+| Nanga Parbat | 8125 |
+| Annapurna | 8091 |
+| Gasherbrum I | 8068 |
+| Broad Peak | 8047 |
+| Gasherbrum II | 8035 |
+| Shisha Pangma | 8013 |
 
 SECTION 1-6 Converting Units
 11

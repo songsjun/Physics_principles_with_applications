@@ -163,30 +163,12 @@ APPROACH We use the inverse square law in Eq. 33-1 to determine the relative bri
 SOLUTION Using the inverse square law, the star appears dimmer by a factor
 $$\frac{b_{\text {star }}}{b_{\text {Sun }}}=\frac{d_{\text {Sun }}^{2}}{d_{\text {star }}^{2}}=\frac{\left(1.5 \times 10^{8} \mathrm{~km}\right)^{2}}{(10 \mathrm{ly})^{2}\left(10^{13} \mathrm{~km} / \mathrm{ly}\right)^{2}} \approx 2 \times 10^{-12} .$$
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{Table 33-1 Astronomical Distances}
-\begin{tabular}{lc} 
-Object & \begin{tabular}{c} 
-Approx. Distance \\
-from Earth (ly)
-\end{tabular} \\
-\hline Moon & $4 \times 10^{-8}$ \\
-Sun & $1.6 \times 10^{-5}$ \\
-\begin{tabular}{l} 
-Size of solar system \\
-(distance to Pluto)
-\end{tabular} & $6 \times 10^{-4}$ \\
-\begin{tabular}{l} 
-Nearest star \\
-(Proxima Centauri)
-\end{tabular} & 4.2 \\
-Center of our Galaxy & $2.6 \times 10^{4}$ \\
-Nearest large galaxy & $2.4 \times 10^{6}$ \\
-Farthest galaxies & $13.4 \times 10^{9}$ \\
-\hline
-\end{tabular}
-\end{table}
+**Table 33-1 Astronomical Distances**
+
+| Object | 
+Approx. Distance |
+| --- | --- |
+| from Earth (ly) |  |
 
 SECTION 33-2
 951

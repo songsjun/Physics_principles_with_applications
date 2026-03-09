@@ -499,33 +499,29 @@ Page 242
 
 The value of Young's modulus for various materials is given in Table $9-1$ (the shear modulus and bulk modulus in this Table are discussed later in this Section). Because $E$ is a property only of the material and is independent of the object's size or shape, Eq. 9-4 is far more useful for practical calculation than Eq. 9-3.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 9-1 Elastic Moduli}
-\begin{tabular}{|l|l|l|l|}
-\hline Material & Young's Modulus, $\boldsymbol{E} \boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ & Shear Modulus, $\boldsymbol{G}\left(\mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}\right.$ & Bulk Modulus, $\boldsymbol{B} \boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ \\
-\hline \multicolumn{4}{|l|}{Solids} \\
-\hline Iron, cast & $100 \times 10^{9}$ & $40 \times 10^{9}$ & $90 \times 10^{9}$ \\
-\hline Steel & $200 \times 10^{9}$ & $80 \times 10^{9}$ & $140 \times 10^{9}$ \\
-\hline Brass & $100 \times 10^{9}$ & $35 \times 10^{9}$ & $80 \times 10^{9}$ \\
-\hline Aluminum & $70 \times 10^{9}$ & $25 \times 10^{9}$ & $70 \times 10^{9}$ \\
-\hline Concrete & $20 \times 10^{9}$ & & \\
-\hline Brick & $14 \times 10^{9}$ & & \\
-\hline Marble & $50 \times 10^{9}$ & & $70 \times 10^{9}$ \\
-\hline Granite & $45 \times 10^{9}$ & & $45 \times 10^{9}$ \\
-\hline Wood (pine) (parallel to grain) & $10 \times 10^{9}$ & & \\
-\hline (perpendicular to grain) & $1 \times 10^{9}$ & & \\
-\hline Nylon & $\approx 3 \times 10^{9}$ & & \\
-\hline Bone (limb) & $15 \times 10^{9}$ & $80 \times 10^{9}$ & \\
-\hline \multicolumn{4}{|l|}{Liquids} \\
-\hline Water & & & $2.0 \times 10^{9}$ \\
-\hline Alcohol (ethyl) & & & $1.0 \times 10^{9}$ \\
-\hline Mercury & & & $2.5 \times 10^{9}$ \\
-\hline \multicolumn{4}{|l|}{Gases ${ }^{\dagger}$} \\
-\hline Air, $\mathrm{H}_{2}, \mathrm{He}, \mathrm{CO}_{2}$ & & & $1.01 \times 10^{5}$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 9-1 Elastic Moduli**
+
+| Material | Young's Modulus, $\boldsymbol{E} \boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ | Shear Modulus, $\boldsymbol{G}\left(\mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}\right.$ | Bulk Modulus, $\boldsymbol{B} \boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ |
+| --- | --- | --- | --- |
+| Solids |  |  |  |
+| Iron, cast | $100 \times 10^{9}$ | $40 \times 10^{9}$ | $90 \times 10^{9}$ |
+| Steel | $200 \times 10^{9}$ | $80 \times 10^{9}$ | $140 \times 10^{9}$ |
+| Brass | $100 \times 10^{9}$ | $35 \times 10^{9}$ | $80 \times 10^{9}$ |
+| Aluminum | $70 \times 10^{9}$ | $25 \times 10^{9}$ | $70 \times 10^{9}$ |
+| Concrete | $20 \times 10^{9}$ |  |  |
+| Brick | $14 \times 10^{9}$ |  |  |
+| Marble | $50 \times 10^{9}$ |  | $70 \times 10^{9}$ |
+| Granite | $45 \times 10^{9}$ |  | $45 \times 10^{9}$ |
+| Wood (pine) (parallel to grain) | $10 \times 10^{9}$ |  |  |
+| (perpendicular to grain) | $1 \times 10^{9}$ |  |  |
+| Nylon | $\approx 3 \times 10^{9}$ |  |  |
+| Bone (limb) | $15 \times 10^{9}$ | $80 \times 10^{9}$ |  |
+| Liquids |  |  |  |
+| Water |  |  | $2.0 \times 10^{9}$ |
+| Alcohol (ethyl) |  |  | $1.0 \times 10^{9}$ |
+| Mercury |  |  | $2.5 \times 10^{9}$ |
+| Gases ${ ^{\dagger}$} |  |  |  |
+| Air, $\mathrm{H}_{2}, \mathrm{He}, \mathrm{CO}_{2}$ |  |  | $1.01 \times 10^{5}$ |
 ${ }^{\dagger}$ At normal atmospheric pressure; no variation in temperature during process.
 
 EXAMPLE 9-10 Tension in piano wire. A $1.60-\mathrm{m}$-long steel piano wire has a diameter of 0.20 cm . How great is the tension in the wire if it stretches 0.25 cm when tightened?
@@ -611,25 +607,21 @@ If the stress on a solid object is too great, the object fractures, or breaks (F
 
 FIGURE 9-24 Fracture as a result of the three types of stress.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 9-2 Ultimate Strengths of Materials (force/area)}
-\begin{tabular}{|l|l|l|l|l|}
-\hline Material & & Tensile Strength $\boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ & Compressive Strength $\boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ & Shear Strength $\boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ \\
-\hline Iron, cast & & $170 \times 10^{6}$ & $550 \times 10^{6}$ & $170 \times 10^{6}$ \\
-\hline Steel & & $500-2500 \times 10^{6}$ & $500 \times 10^{6}$ & $250 \times 10^{6}$ \\
-\hline Brass & & $250 \times 10^{6}$ & $250 \times 10^{6}$ & $200 \times 10^{6}$ \\
-\hline Aluminum & & $200 \times 10^{6}$ & $200 \times 10^{6}$ & $200 \times 10^{6}$ \\
-\hline Concrete & & $2 \times 10^{6}$ & $20 \times 10^{6}$ & $2 \times 10^{6}$ \\
-\hline Brick & & & $35 \times 10^{6}$ & \\
-\hline Marble & & & $80 \times 10^{6}$ & \\
-\hline Granite & & & $170 \times 10^{6}$ & \\
-\hline Wood (pine) & (parallel to grain) (perpendicular to grain) & $40 \times 10^{6}$ & $35 \times 10^{6} 10 \times 10^{6}$ & $5 \times 10^{6}$ \\
-\hline Nylon & & $500 \times 10^{6}$ & & \\
-\hline Bone (limb) & & $130 \times 10^{6}$ & $170 \times 10^{6}$ & \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 9-2 Ultimate Strengths of Materials (force/area)**
+
+| Material |  | Tensile Strength $\boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ | Compressive Strength $\boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ | Shear Strength $\boldsymbol{(} \mathbf{N} \boldsymbol{/} \mathbf{m}^{\mathbf{2}} \boldsymbol{)}$ |
+| --- | --- | --- | --- | --- |
+| Iron, cast |  | $170 \times 10^{6}$ | $550 \times 10^{6}$ | $170 \times 10^{6}$ |
+| Steel |  | $500-2500 \times 10^{6}$ | $500 \times 10^{6}$ | $250 \times 10^{6}$ |
+| Brass |  | $250 \times 10^{6}$ | $250 \times 10^{6}$ | $200 \times 10^{6}$ |
+| Aluminum |  | $200 \times 10^{6}$ | $200 \times 10^{6}$ | $200 \times 10^{6}$ |
+| Concrete |  | $2 \times 10^{6}$ | $20 \times 10^{6}$ | $2 \times 10^{6}$ |
+| Brick |  |  | $35 \times 10^{6}$ |  |
+| Marble |  |  | $80 \times 10^{6}$ |  |
+| Granite |  |  | $170 \times 10^{6}$ |  |
+| Wood (pine) | (parallel to grain) (perpendicular to grain) | $40 \times 10^{6}$ | $35 \times 10^{6} 10 \times 10^{6}$ | $5 \times 10^{6}$ |
+| Nylon |  | $500 \times 10^{6}$ |  |  |
+| Bone (limb) |  | $130 \times 10^{6}$ | $170 \times 10^{6}$ |  |
 
 EXAMPLE 9-11 ESTIMATE Breaking the piano wire. The steel piano wire we discussed in Example 9-10 was 1.60 m long with a diameter of 0.20 cm . Approximately what tension force would break it?
 APPROACH We set the tensile stress $F / A$ equal to the ultimate tensile strength of steel given in Table 9-2, and we choose the highest value which represents high-carbon steel.

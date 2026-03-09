@@ -398,11 +398,9 @@ We saw in Section 29-1 that when two hydrogen atoms approach each other, the wav
 
 FIGURE 29-23 The splitting of $1 s$ and $2 s$ atomic energy levels as (a) two atoms approach each other (the atomic separation decreases toward the left on the graph); (b) the same for six atoms, and (c) for many atoms when they come together to form a solid.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{FIGURE 29-24 Energy bands for sodium (Na).}
+**FIGURE 29-24 Energy bands for sodium (Na).**
 3s □
-\end{table}
+
 
 The crucial aspect of a good conductor is that the highest energy band containing electrons is only partially filled. Consider sodium metal, for example, whose energy bands are shown in Fig. 29-24. The $1 s, 2 s$, and $2 p$ bands are full (just as in a sodium atom) and don't concern us. The $3 s$ band, however, is only half full. To see why, recall that the exclusion principle stipulates that in an atom, only two electrons can be in the $3 s$ state, one with spin up and one with spin down. These two states have slightly different energy. For a solid consisting of $N$ atoms, the $3 s$ band will contain $2 N$ possible energy states. A sodium atom has a single $3 s$ electron, so in a sample of sodium metal containing $N$ atoms, there are $N$ electrons in the $3 s$ band, and $N$ unoccupied states. When a potential difference is applied across the metal, electrons can respond by accelerating and increasing their energy, since there are plenty of unoccupied states of slightly higher energy available. Hence, a current flows readily and sodium is a good conductor. The characteristic of all good conductors is that the highest energy band is only partially filled, or two bands overlap so that unoccupied states are available. An example of the latter is magnesium, which has two $3 s$ electrons, so its $3 s$ band is filled. But the unfilled $3 p$ band overlaps the $3 s$ band in energy, so there are lots of available states for the electrons to move into. Thus magnesium, too, is a good conductor.
 

@@ -299,17 +299,13 @@ Magnetic fields are somewhat analogous to the electric fields of Chapter 16, but
 2. The right-hand rule, in its different forms, is intended to help you determine the directions of magnetic field, and the forces they exert, and/or the directions of electric current or charged particle velocity. The right-hand rules (Table 20-1) are designed to deal with the "perpendicular" nature of these quantities.
 3. The equations in this Chapter are generally not printed as vector equations, but involve magnitudes only. Right-hand rules are to be used to find directions of vector quantities.
 
-\begin{tabular}{|l|l|l|l|}
-\hline \multicolumn{4}{|l|}{TABLE 20-1 Summary of Right-hand Rules ( $=$ RHR)} \\
-\hline Physical Situation & Example & How to Orient Right Hand & Result \\
-\hline 1. Magnetic field produced by current (RHR-1) & & Wrap fingers around wire with thumb pointing in direction of current $I$ & Fingers curl in direction of $\overrightarrow{\mathbf{B}}$ \\
-\hline 2. Force on electric current $I$ due to magnetic field (RHR-2) & \begin{tabular}{l}
-$\overrightarrow{\mathbf{B}}$ \\
-Fig. 20-11c
-\end{tabular} & Fingers first point straight along current $I$, then bend along magnetic field $\overrightarrow{\mathbf{B}}$ & Thumb points in direction of the force $\overrightarrow{\mathbf{F}}$ \\
-\hline 3. Force on electric charge $+q$ due to magnetic field (RHR-3) & $\overrightarrow{\mathbf{B}}$ Fig. 20-15 & Fingers point along particle's velocity $\overrightarrow{\mathbf{v}}$, then along $\overrightarrow{\mathbf{B}}$ & Thumb points in direction of the force $\overrightarrow{\mathbf{F}}$ \\
-\hline
-\end{tabular}
+| TABLE 20-1 Summary of Right-hand Rules ( $=$ RHR) |  |  |  |
+| --- | --- | --- | --- |
+| Physical Situation | Example | How to Orient Right Hand | Result |
+| 1. Magnetic field produced by current (RHR-1) |  | Wrap fingers around wire with thumb pointing in direction of current $I$ | Fingers curl in direction of $\overrightarrow{\mathbf{B}}$ |
+| 2. Force on electric current $I$ due to magnetic field (RHR-2) | $\overrightarrow{\mathbf{B}}$ Fig. 20-11c | Fingers first point straight along current $I$, then bend along magnetic field $\overrightarrow{\mathbf{B}}$ | Thumb points in direction of the force $\overrightarrow{\mathbf{F}}$ |
+| 3. Force on electric charge $+q$ due to magnetic field (RHR-3) | $\overrightarrow{\mathbf{B}}$ Fig. 20-15 | Fingers point along particle's velocity $\overrightarrow{\mathbf{v}}$, then along $\overrightarrow{\mathbf{B}}$ | Thumb points in direction of the force $\overrightarrow{\mathbf{F}}$ |
+
 
 568
 CHAPTER 20 Magnetism

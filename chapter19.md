@@ -16,23 +16,16 @@ CONTENTS
 19-7 Electric Hazards
 19-8 Ammeters and VoltmetersMeasurement Affects the Quantity Being Measured
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 19-1 Symbols for Circuit Elements}
-\begin{tabular}{ll}
-\hline Symbol & Device \\
-\hline$\dashv \vdash$ & Battery \\
-$\dashv$ or tt & Capacitor \\
-- & Resistor \\
-- & \begin{tabular}{l} 
-Wire with negligible \\
-resistance
-\end{tabular} \\
--- & Switch \\
-$\frac{1}{\overline{=} \text { or } \downarrow}$ & Ground \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 19-1 Symbols for Circuit Elements**
+
+| Symbol | Device |
+| --- | --- |
+| $\dashv \vdash$ | Battery |
+| $\dashv$ or tt | Capacitor |
+| - | Resistor |
+| - | 
+Wire with negligible |
+| resistance |  |
 
 526
 
@@ -1470,29 +1463,28 @@ GIAN_PPA7_GE_19_526-559v4.1HR1.QXD 26-08-2014 16:01 Page 559
 Search and Learn
 1. Fill in the Table below for a combination of two unequal resistors of resistance $R_{1}$ and $R_{2}$. Assume the electric potential on the low-voltage end of the combination is $V_{\mathrm{A}}$ volts and the potential at the high-voltage end of the combination is $V_{\mathrm{B}}$ volts. First draw diagrams.
 
-\begin{tabular}{|l|l|l|}
-\hline Property & Resistors in Series & Resistors in Parallel \\
-\hline Equivalent resistance & & \\
-\hline Current through equivalent resistance & & \\
-\hline Voltage across equivalent resistance & & \\
-\hline Voltage across the pair of resistors & & \\
-\hline Voltage across each resistor & $$\begin{array}{l}
-V_{1}= \\
-V_{2}=
-\end{array}$$ & $$\begin{array}{l}
-V_{1}= \\
-V_{2}=
-\end{array}$$ \\
-\hline Voltage at a point between the resistors & & Not applicable \\
-\hline Current through each resistor & $$\begin{array}{l}
-I_{1}= \\
-I_{2}=
-\end{array}$$ & $$\begin{array}{l}
-I_{1}= \\
-I_{2}=
-\end{array}$$ \\
-\hline
-\end{tabular}
+| Property | Resistors in Series | Resistors in Parallel |
+| --- | --- | --- |
+| Equivalent resistance |  |  |
+| Current through equivalent resistance |  |  |
+| Voltage across equivalent resistance |  |  |
+| Voltage across the pair of resistors |  |  |
+| Voltage across each resistor | $$\begin{array}{l}
+V_{1}= |  |
+| V_{2}=
+\end{array}$$ | $$\begin{array}{l}
+V_{1}= |  |
+| V_{2}=
+\end{array}$$ |  |  |
+| Voltage at a point between the resistors |  | Not applicable |
+| Current through each resistor | $$\begin{array}{l}
+I_{1}= |  |
+| I_{2}=
+\end{array}$$ | $$\begin{array}{l}
+I_{1}= |  |
+| I_{2}=
+\end{array}$$ |  |  |
+
 2. Cardiac defibrillators are discussed in Section 17-9. (a) Choose a value for the resistance so that the $1.0-\mu \mathrm{F}$ capacitor can be charged to 3000 V in 2.0 seconds. Assume that this 3000 V is $95 \%$ of the full source voltage. (b) The effective resistance of the human body is given in Section 19-7. If the defibrillator discharges with a time constant of 10 ms , what is the effective capacitance of the human body?
 3. The circuit shown in Fig. 19-90 is a primitive 4-bit digital-to-analog converter (DAC). In this circuit, to represent each digit ( $2^{n}$ ) of a binary number, a " 1 " has the $n^{\text {th }}$ switch closed whereas zero (" 0 ") has the switch open. For example, 0010 is represented by closing switch $n=1$, while all other switches are open. Show that the voltage $V$ across the $1.0-\Omega$ resistor for the binary numbers 0001, 0010, 0100, and 1001 (which in decimal represent 1, 2, 4, 9) follows the pattern that you expect for a 4-bit DAC. (Section 17-10 may help.)
 

@@ -191,31 +191,30 @@ where $\ell_{0}$ is the length initially, at temperature $T_{0}$, and $\ell$ is 
 
 The values of $\alpha$ for various materials at $20^{\circ} \mathrm{C}$ are listed in Table 13-1. Actually, $\alpha$ does vary slightly with temperature (which is why thermometers made of different materials do not agree precisely). However, if the temperature range is not too great, the variation can usually be ignored.
 
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|l|}{TABLE 13-1 Coefficients of Expansion, near $20^{\boldsymbol{\circ}} \mathbf{C}$} \\
-\hline Material & Coefficient of Linear Expansion, $\boldsymbol{\alpha}\left(\boldsymbol{C}^{\boldsymbol{\circ}}\right)^{\boldsymbol{-} \mathbf{1}}$ & Coefficient of Volume Expansion, $\boldsymbol{\beta}\left(\boldsymbol{C}^{\boldsymbol{\circ}}\right)^{\boldsymbol{-} \mathbf{1}}$ \\
-\hline \multicolumn{3}{|l|}{Solids} \\
-\hline Aluminum & $25 \times 10^{-6}$ & $75 \times 10^{-6}$ \\
-\hline Brass & $19 \times 10^{-6}$ & $56 \times 10^{-6}$ \\
-\hline Copper & $17 \times 10^{-6}$ & $50 \times 10^{-6}$ \\
-\hline Gold & $14 \times 10^{-6}$ & $42 \times 10^{-6}$ \\
-\hline Iron or steel & $12 \times 10^{-6}$ & $35 \times 10^{-6}$ \\
-\hline Lead & $29 \times 10^{-6}$ & $87 \times 10^{-6}$ \\
-\hline Glass (Pyrex ${ }^{\circledR}$ ) & $3 \times 10^{-6}$ & $9 \times 10^{-6}$ \\
-\hline Glass (ordinary) & $9 \times 10^{-6}$ & $27 \times 10^{-6}$ \\
-\hline Quartz & $0.4 \times 10^{-6}$ & $1 \times 10^{-6}$ \\
-\hline Concrete and brick & $\approx 12 \times 10^{-6}$ & $\approx 36 \times 10^{-6}$ \\
-\hline Marble & $1.4-3.5 \times 10^{-6}$ & $4-10 \times 10^{-6}$ \\
-\hline \multicolumn{3}{|l|}{Liquids} \\
-\hline Gasoline & & $950 \times 10^{-6}$ \\
-\hline Mercury & & $180 \times 10^{-6}$ \\
-\hline Ethyl alcohol & & $1100 \times 10^{-6}$ \\
-\hline Glycerin & & $500 \times 10^{-6}$ \\
-\hline Water & & $210 \times 10^{-6}$ \\
-\hline \multicolumn{3}{|l|}{Gases} \\
-\hline \multicolumn{2}{|c|}{Air (and most other gases at atmospheric pressure)} & $3400 \times 10^{-6}$ \\
-\hline
-\end{tabular}
+| TABLE 13-1 Coefficients of Expansion, near $20^{\boldsymbol{\circ} \mathbf{C}$} |  |  |
+| --- | --- | --- |
+| Material | Coefficient of Linear Expansion, $\boldsymbol{\alpha}\left(\boldsymbol{C}^{\boldsymbol{\circ}}\right)^{\boldsymbol{-} \mathbf{1}}$ | Coefficient of Volume Expansion, $\boldsymbol{\beta}\left(\boldsymbol{C}^{\boldsymbol{\circ}}\right)^{\boldsymbol{-} \mathbf{1}}$ |
+| Solids |  |  |
+| Aluminum | $25 \times 10^{-6}$ | $75 \times 10^{-6}$ |
+| Brass | $19 \times 10^{-6}$ | $56 \times 10^{-6}$ |
+| Copper | $17 \times 10^{-6}$ | $50 \times 10^{-6}$ |
+| Gold | $14 \times 10^{-6}$ | $42 \times 10^{-6}$ |
+| Iron or steel | $12 \times 10^{-6}$ | $35 \times 10^{-6}$ |
+| Lead | $29 \times 10^{-6}$ | $87 \times 10^{-6}$ |
+| Glass (Pyrex ${ }^{\circledR}$ ) | $3 \times 10^{-6}$ | $9 \times 10^{-6}$ |
+| Glass (ordinary) | $9 \times 10^{-6}$ | $27 \times 10^{-6}$ |
+| Quartz | $0.4 \times 10^{-6}$ | $1 \times 10^{-6}$ |
+| Concrete and brick | $\approx 12 \times 10^{-6}$ | $\approx 36 \times 10^{-6}$ |
+| Marble | $1.4-3.5 \times 10^{-6}$ | $4-10 \times 10^{-6}$ |
+| Liquids |  |  |
+| Gasoline |  | $950 \times 10^{-6}$ |
+| Mercury |  | $180 \times 10^{-6}$ |
+| Ethyl alcohol |  | $1100 \times 10^{-6}$ |
+| Glycerin |  | $500 \times 10^{-6}$ |
+| Water |  | $210 \times 10^{-6}$ |
+| Gases |  |  |
+| Air (and most other gases at atmospheric pressure) | $3400 \times 10^{-6}$ |  |
+
 
 364
 CHAPTER 13 Temperature and Kinetic Theory
@@ -737,24 +736,13 @@ FIGURE 13-20 Distribution of molecular speeds for two different temperatures. Co
 
 FIGURE 13-21 $P V$ diagram for a real substance. Curves A, B, C, and D represent the same substance at different temperatures $\left(T_{\mathrm{A}}>T_{\mathrm{B}}>T_{\mathrm{C}}>T_{\mathrm{D}}\right)$.
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 13-2 Critical Temperatures and Pressures}
-\begin{tabular}{lccc} 
-& \multicolumn{2}{c}{ Critical } & \\
-\cline { 2 - 4 } Substance & ${ }^{\circ} \mathbf{C}$ & $\mathbf{K}$ & \begin{tabular}{c} 
-Critical \\
-(atm)
-\end{tabular} \\
-\hline Water & 374 & 647 & 218 \\
-$\mathrm{CO}_{2}$ & 31 & 304 & 72.8 \\
-Oxygen & -118 & 155 & 50 \\
-Nitrogen & -147 & 126 & 33.5 \\
-Hydrogen & -239.9 & 33.3 & 12.8 \\
-Helium & -267.9 & 5.3 & 2.3 \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 13-2 Critical Temperatures and Pressures**
+
+|  |  Critical  |  |  |
+| --- | --- | --- | --- |
+| Substance | ${ }^{\circ} \mathbf{C}$ | $\mathbf{K}$ | 
+Critical |
+| (atm) |  |  |  |
 
 SECTION 13-11 Real Gases and Changes of Phase
 377
@@ -812,33 +800,29 @@ FIGURE 13-24 Vapor appears above a liquid in a closed container.
 PHYSICS APPLIED
 Evaporation cools
 
-\begin{table}
-\captionsetup{labelformat=empty}
-\caption{TABLE 13-3 Saturated Vapor Pressure of Water}
-\begin{tabular}{|l|l|l|}
-\hline \multirow[b]{2}{*}{Temperature ( ${ }^{\circ} \mathrm{C}$ )} & \multicolumn{2}{|c|}{Saturated Vapor Pressure} \\
-\hline & torr (= mm-Hg) & Pa ( $=\mathbf{N} / \mathbf{m}^{\mathbf{2}}$ ) \\
-\hline -50 & 0.030 & 4.0 \\
-\hline -10 & 1.95 & $2.60 \times 10^{2}$ \\
-\hline 0 & 4.58 & $6.11 \times 10^{2}$ \\
-\hline 5 & 6.54 & $8.72 \times 10^{2}$ \\
-\hline 10 & 9.21 & $1.23 \times 10^{3}$ \\
-\hline 15 & 12.8 & $1.71 \times 10^{3}$ \\
-\hline 20 & 17.5 & $2.33 \times 10^{3}$ \\
-\hline 25 & 23.8 & $3.17 \times 10^{3}$ \\
-\hline 30 & 31.8 & $4.24 \times 10^{3}$ \\
-\hline 40 & 55.3 & $7.37 \times 10^{3}$ \\
-\hline 50 & 92.5 & $1.23 \times 10^{4}$ \\
-\hline 60 & 149 & $1.99 \times 10^{4}$ \\
-\hline $70^{\dagger}$ & 234 & $3.12 \times 10^{4}$ \\
-\hline 80 & 355 & $4.73 \times 10^{4}$ \\
-\hline 90 & 526 & $7.01 \times 10^{4}$ \\
-\hline $100^{\ddagger}$ & 760 & $1.01 \times 10^{5}$ \\
-\hline 120 & 1489 & $1.99 \times 10^{5}$ \\
-\hline 150 & 3570 & $4.76 \times 10^{5}$ \\
-\hline
-\end{tabular}
-\end{table}
+**TABLE 13-3 Saturated Vapor Pressure of Water**
+
+| \multirow[b]{2}{*}{Temperature ( ${ }^{\circ} \mathrm{C}$ )} | Saturated Vapor Pressure |  |
+| --- | --- | --- |
+|  | torr (= mm-Hg) | Pa ( $=\mathbf{N} / \mathbf{m}^{\mathbf{2}}$ ) |
+| -50 | 0.030 | 4.0 |
+| -10 | 1.95 | $2.60 \times 10^{2}$ |
+| 0 | 4.58 | $6.11 \times 10^{2}$ |
+| 5 | 6.54 | $8.72 \times 10^{2}$ |
+| 10 | 9.21 | $1.23 \times 10^{3}$ |
+| 15 | 12.8 | $1.71 \times 10^{3}$ |
+| 20 | 17.5 | $2.33 \times 10^{3}$ |
+| 25 | 23.8 | $3.17 \times 10^{3}$ |
+| 30 | 31.8 | $4.24 \times 10^{3}$ |
+| 40 | 55.3 | $7.37 \times 10^{3}$ |
+| 50 | 92.5 | $1.23 \times 10^{4}$ |
+| 60 | 149 | $1.99 \times 10^{4}$ |
+| $70^{\dagger}$ | 234 | $3.12 \times 10^{4}$ |
+| 80 | 355 | $4.73 \times 10^{4}$ |
+| 90 | 526 | $7.01 \times 10^{4}$ |
+| $100^{\ddagger}$ | 760 | $1.01 \times 10^{5}$ |
+| 120 | 1489 | $1.99 \times 10^{5}$ |
+| 150 | 3570 | $4.76 \times 10^{5}$ |
 ${ }^{\dagger}$ Boiling point on summit of Mt. Everest.
 ${ }^{\ddagger}$ Boiling point at sea level.
 
@@ -911,17 +895,16 @@ GIAN_PPA7_GE_13_359-389v4.3HR1.QXD 29-08-2014 15:01 Page 382
 
 FIGURE 13-28 Diffusion occurs from a region of high concentration to one of lower concentration (only one type of molecule is shown).
 
-\begin{tabular}{|l|l|l|}
-\hline \multicolumn{3}{|l|}{TABLE 13-4 Diffusion Constants, $\boldsymbol{D}\left(\mathbf{2} 0^{\circ} \mathbf{C}, \mathbf{1} \mathbf{~ a t m}\right)$} \\
-\hline Diffusing Molecules & Medium & $\boldsymbol{D} \boldsymbol{(} \mathbf{m}^{\mathbf{2}} \boldsymbol{/} \mathbf{s} \boldsymbol{)}$ \\
-\hline $\mathrm{H}_{2}$ & Air & $6.3 \times 10^{-5}$ \\
-\hline $\mathrm{O}_{2}$ & Air & $1.8 \times 10^{-5}$ \\
-\hline $\mathrm{O}_{2}$ & Water & $100 \times 10^{-11}$ \\
-\hline Glycine (an amino acid) & Water & $95 \times 10^{-11}$ \\
-\hline Blood hemoglobin & Water & $6.9 \times 10^{-11}$ \\
-\hline DNA (mass $6 \times 10^{6} \mathrm{u}$ ) & Water & $0.13 \times 10^{-11}$ \\
-\hline
-\end{tabular}
+| TABLE 13-4 Diffusion Constants, $\boldsymbol{D\left(\mathbf{2} 0^{\circ} \mathbf{C}, \mathbf{1} \mathbf{~ a t m}\right)$} |  |  |
+| --- | --- | --- |
+| Diffusing Molecules | Medium | $\boldsymbol{D} \boldsymbol{(} \mathbf{m}^{\mathbf{2}} \boldsymbol{/} \mathbf{s} \boldsymbol{)}$ |
+| $\mathrm{H}_{2}$ | Air | $6.3 \times 10^{-5}$ |
+| $\mathrm{O}_{2}$ | Air | $1.8 \times 10^{-5}$ |
+| $\mathrm{O}_{2}$ | Water | $100 \times 10^{-11}$ |
+| Glycine (an amino acid) | Water | $95 \times 10^{-11}$ |
+| Blood hemoglobin | Water | $6.9 \times 10^{-11}$ |
+| DNA (mass $6 \times 10^{6} \mathrm{u}$ ) | Water | $0.13 \times 10^{-11}$ |
+
 
 PHYSICS APPLIED
 Diffusion time
